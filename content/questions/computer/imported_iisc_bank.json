@@ -1,0 +1,481 @@
+[
+  {
+    "id": "PDF-Q71",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "Something similar to dialog box that appears with information, warning an error message or request for confirmation to execute a command (as delete)",
+    "options": [
+      "window",
+      "pop up",
+      "message box",
+      "any of the above"
+    ],
+    "answer": 1,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "something",
+      "similar",
+      "dialog",
+      "that",
+      "appears",
+      "with"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 71,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q72",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "What is active desktop ?",
+    "options": [
+      "a term that is synonymous with viewing your desktop as web page",
+      "a feature to customize your desktop to display informating you can update from the internet",
+      "both a and b above mentioned",
+      "A software"
+    ],
+    "answer": 2,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "what",
+      "active",
+      "desktop"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 72,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q73",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "Active window means",
+    "options": [
+      "the active window is designated by a different color toolbar than other open windows",
+      "the window that is currently open",
+      "both a and b above mentioned",
+      "the window that is last used"
+    ],
+    "answer": 2,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "active",
+      "window",
+      "means"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 73,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q74",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "America online (AOL)",
+    "options": [
+      "it displays the proprietary information created by AOL",
+      "the proprietary information includes news, financial planning, homework for students, chat, lines etc.",
+      "is widely used online service offering access service to the internet",
+      "All of the above are true"
+    ],
+    "answer": 3,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "america",
+      "online"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 74,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q75",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "An application is",
+    "options": [
+      "word processing, accounting and engineering programs are example of application programs",
+      "computer program designed to enable users to perform specific job functions",
+      "Both a and b above mentioned",
+      "a document"
+    ],
+    "answer": 2,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "application"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 75,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q76",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "Which of the following programs enables you to calculate numbers related to rows and columns?",
+    "options": [
+      "Window program",
+      "Spreadsheet program",
+      "Graphics program",
+      "Word program"
+    ],
+    "answer": 1,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "which",
+      "following",
+      "programs",
+      "enables",
+      "calculate",
+      "numbers"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 76,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q77",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "The term Briefcase is used for",
+    "options": [
+      "a special folder on the windows desktop used to keep documents up to date when shared between computers",
+      "a window that us currently open",
+      "A folder which keeps deleted, files for a while and can be retrieved from it",
+      "All of the above"
+    ],
+    "answer": 0,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "term",
+      "briefcase",
+      "used"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 77,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q78",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "A button is",
+    "options": [
+      "a command that activates the option",
+      "like a one on a household appliance and precipitates an action",
+      "a graphical representation of an option",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "button"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 78,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q79",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "A channel (in windows terminology) is",
+    "options": [
+      "a widely used online service that offers access to the internet",
+      "a specialized web site designed to work with the windows 98 subscribing feature to automatically download information from the internet and store it on your computer for later viewing",
+      "an area on the computer memory where text or graphics can be temporarily stored",
+      "All of the above"
+    ],
+    "answer": 1,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "channel",
+      "windows",
+      "terminology"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 79,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q80",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Windows & Applications",
+    "subtopic": "Windows & Applications",
+    "difficulty": "Medium",
+    "question": "A check box",
+    "options": [
+      "with a check mark in it indicates the option is enabled",
+      "is required to present options requiring individual on/off decisions in dialog box",
+      "appears as a small square ballot box beside an option description",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Answer per source key. (Solution not captured — review.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Windows & Applications"
+    ],
+    "keywords": [
+      "check"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 80,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

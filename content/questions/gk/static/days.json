@@ -1,0 +1,46 @@
+[
+  {
+    "id": "G20",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Days",
+    "subtopic": "Days",
+    "difficulty": "Easy",
+    "question": "International Yoga Day is observed on which date?",
+    "options": [
+      "5 June",
+      "21 June",
+      "14 November",
+      "8 March"
+    ],
+    "answer": 1,
+    "explanation": "International Yoga Day is 21 June.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "days",
+      "international",
+      "yoga",
+      "observed",
+      "which",
+      "date"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "R12",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Clock",
+    "subtopic": "Clock",
+    "difficulty": "Medium",
+    "question": "What is the angle between the hands of a clock at 3:00?",
+    "options": [
+      "30 deg",
+      "60 deg",
+      "90 deg",
+      "120 deg"
+    ],
+    "answer": 2,
+    "explanation": "|30x3 - 5.5x0| = 90 degrees.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "clock",
+      "what",
+      "angle",
+      "between",
+      "hands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

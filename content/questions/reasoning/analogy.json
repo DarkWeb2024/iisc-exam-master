@@ -1,0 +1,43 @@
+[
+  {
+    "id": "R5",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Analogy",
+    "subtopic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Pen : Write :: Knife : ?",
+    "options": [
+      "Sharp",
+      "Cut",
+      "Kitchen",
+      "Metal"
+    ],
+    "answer": 1,
+    "explanation": "A pen is used to write; a knife is used to cut.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "analogy",
+      "write",
+      "knife"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

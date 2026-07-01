@@ -1,0 +1,41 @@
+[
+  {
+    "id": "Q5",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Average",
+    "subtopic": "Average",
+    "difficulty": "Easy",
+    "question": "The average of 10, 20, 30, 40, 50 is:",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Sum 150 / 5 = 30.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "average"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

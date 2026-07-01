@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Q16",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Data Interpretation",
+    "subtopic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "In a pie chart, a sector of 90 degrees represents what percentage of the total?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "50%"
+    ],
+    "answer": 1,
+    "explanation": "90/360 x 100 = 25%.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "data",
+      "interpretation",
+      "chart",
+      "sector",
+      "degrees",
+      "represents",
+      "what",
+      "percentage"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

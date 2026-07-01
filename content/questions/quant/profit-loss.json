@@ -1,0 +1,88 @@
+[
+  {
+    "id": "Q2",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Profit & Loss",
+    "subtopic": "Profit & Loss",
+    "difficulty": "Easy",
+    "question": "If CP = 400 and SP = 500, the profit percent is:",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "10%"
+    ],
+    "answer": 1,
+    "explanation": "Profit = 100; profit% = 100/400 x 100 = 25%.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "profit",
+      "loss",
+      "percent"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "Q18",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Profit & Loss",
+    "subtopic": "Profit & Loss",
+    "difficulty": "Medium",
+    "question": "An item sold at 20% profit for Rs.600. Its cost price is:",
+    "options": [
+      "Rs.480",
+      "Rs.500",
+      "Rs.520",
+      "Rs.450"
+    ],
+    "answer": 1,
+    "explanation": "CP = 600 x 100/120 = 500.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "profit",
+      "loss",
+      "item",
+      "sold",
+      "cost",
+      "price"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

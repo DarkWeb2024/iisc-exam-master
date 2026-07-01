@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GOLD-QUANT-1",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Compound Interest",
+    "subtopic": "CI vs SI",
+    "difficulty": "Hard",
+    "question": "The difference between compound and simple interest on a sum for 2 years at 10% per annum is Rs.50. The sum is?",
+    "options": [
+      "Rs.4000",
+      "Rs.5000",
+      "Rs.5500",
+      "Rs.4500"
+    ],
+    "answer": 1,
+    "explanation": "For 2 years, CI − SI = P(R/100)². So 50 = P(10/100)² = 0.01P → P = 5000.",
+    "whyWrong": [
+      "Wrong: 0.01×4000 = 40, not 50.",
+      "Correct: 0.01×5000 = 50.",
+      "Wrong: 0.01×5500 = 55.",
+      "Wrong: 0.01×4500 = 45."
+    ],
+    "memoryTrick": "2-year CI−SI = P(R/100)² — skip computing both fully.",
+    "commonMistake": "Calculating CI and SI separately and subtracting (slow, error-prone).",
+    "relatedTopic": "Simple & Compound Interest",
+    "revisionNote": "CI−SI (2 yr) = P(R/100)²",
+    "shortcut": "",
+    "solveTimeSec": 75,
+    "importance": 5,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Compound Interest",
+      "Hard"
+    ],
+    "keywords": [
+      "compound",
+      "interest",
+      "difference",
+      "between",
+      "compound",
+      "simple"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "GOLD-QUANT-2",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Percentage",
+    "subtopic": "Successive change",
+    "difficulty": "Medium",
+    "question": "A number is first increased by 25% and then decreased by 20%. The net percentage change is?",
+    "options": [
+      "Increase of 5%",
+      "No change",
+      "Decrease of 5%",
+      "Increase of 10%"
+    ],
+    "answer": 1,
+    "explanation": "Net = a + b + ab/100 = 25 − 20 − (25×20/100) = 5 − 5 = 0. No net change.",
+    "whyWrong": [
+      "Wrong: you cannot just add 25 and −20 and ignore the product term.",
+      "Correct: the +25% and −20% exactly cancel.",
+      "Wrong: sign/product handled incorrectly.",
+      "Wrong: overcounts the increase."
+    ],
+    "memoryTrick": "+25% = ×5/4, −20% = ×4/5; 5/4 × 4/5 = 1 (unchanged).",
+    "commonMistake": "Adding percentages directly (25−20=5%).",
+    "relatedTopic": "Successive percentage change",
+    "revisionNote": "Net = a+b+ab/100",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Percentage",
+      "Medium"
+    ],
+    "keywords": [
+      "percentage",
+      "number",
+      "first",
+      "increased",
+      "then",
+      "decreased"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

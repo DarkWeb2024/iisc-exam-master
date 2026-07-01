@@ -1,0 +1,48 @@
+[
+  {
+    "id": "V3",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Spotting Errors",
+    "subtopic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Find the error: 'Each of the students (a)/ have (b)/ a book (c)/ No error (d).'",
+    "options": [
+      "Each of the students",
+      "have",
+      "a book",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "'Each' is singular, so 'have' should be 'has'.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "spotting",
+      "errors",
+      "find",
+      "error",
+      "each",
+      "students",
+      "have",
+      "book"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

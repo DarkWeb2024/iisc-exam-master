@@ -1,0 +1,46 @@
+[
+  {
+    "id": "C18",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Software",
+    "subtopic": "Software",
+    "difficulty": "Easy",
+    "question": "An Operating System is an example of which type of software?",
+    "options": [
+      "Application software",
+      "System software",
+      "Utility document",
+      "Firmware only"
+    ],
+    "answer": 1,
+    "explanation": "An OS is system software that manages the computer's hardware and resources.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "software",
+      "operating",
+      "system",
+      "example",
+      "which",
+      "type"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

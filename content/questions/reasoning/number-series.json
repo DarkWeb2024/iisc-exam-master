@@ -1,0 +1,132 @@
+[
+  {
+    "id": "R1",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Medium",
+    "question": "Find the next term: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "42",
+      "36",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "Differences 4,6,8,10 -> next +12 -> 42.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "R2",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find the next term: 3, 9, 27, 81, ?",
+    "options": [
+      "162",
+      "243",
+      "234",
+      "324"
+    ],
+    "answer": 1,
+    "explanation": "Each term x3 -> 243.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "R3",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find the next term: 1, 4, 9, 16, 25, ?",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Perfect squares -> 6^2 = 36.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

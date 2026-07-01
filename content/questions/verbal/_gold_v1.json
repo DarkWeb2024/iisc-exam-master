@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GOLD-VERBAL-1",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Grammar",
+    "subtopic": "Subject-verb agreement",
+    "difficulty": "Easy",
+    "question": "Choose the correct verb: 'One of the boys ___ absent today.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "answer": 2,
+    "explanation": "'One of the + plural noun' takes a SINGULAR verb because the subject is 'One'. → 'is'.",
+    "whyWrong": [
+      "Wrong: 'are' is plural.",
+      "Wrong: 'were' is plural/past.",
+      "Correct: singular 'is' agrees with 'One'.",
+      "Wrong: 'have been' is plural."
+    ],
+    "memoryTrick": "The real subject is 'One', not 'boys' — so singular.",
+    "commonMistake": "Matching the verb to 'boys' instead of 'One'.",
+    "relatedTopic": "Subject-verb agreement",
+    "revisionNote": "'One of the + plural + singular verb'",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Grammar",
+      "Easy"
+    ],
+    "keywords": [
+      "grammar",
+      "choose",
+      "correct",
+      "verb",
+      "boys",
+      "absent"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "GOLD-VERBAL-2",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "One-word Substitution",
+    "subtopic": "Places",
+    "difficulty": "Medium",
+    "question": "One word for 'a place where dead bodies are kept':",
+    "options": [
+      "Cemetery",
+      "Mortuary",
+      "Tomb",
+      "Shrine"
+    ],
+    "answer": 1,
+    "explanation": "A mortuary is a place where dead bodies are kept (e.g. for identification before burial/cremation).",
+    "whyWrong": [
+      "Wrong: a cemetery is a place where the dead are buried.",
+      "Correct: a mortuary stores dead bodies.",
+      "Wrong: a tomb is a burial chamber for one person.",
+      "Wrong: a shrine is a holy place."
+    ],
+    "memoryTrick": "Mortuary ~ 'mortal' (death) — where bodies are kept.",
+    "commonMistake": "Confusing mortuary (kept) with cemetery (buried).",
+    "relatedTopic": "One-word substitution",
+    "revisionNote": "mortuary=bodies kept · cemetery=buried · aviary=birds",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "One-word Substitution",
+      "Medium"
+    ],
+    "keywords": [
+      "word",
+      "substitution",
+      "word",
+      "place",
+      "where",
+      "dead"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "G6",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Easy",
+    "question": "Which is the largest Indian state by area?",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Rajasthan is the largest state by area; UP is the most populous.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "KPSC"
+    ],
+    "keywords": [
+      "geography",
+      "which",
+      "largest",
+      "indian",
+      "state",
+      "area"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G21",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Medium",
+    "question": "India's standard meridian (82.5 degrees E) passes through which state?",
+    "options": [
+      "Gujarat",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Madhya Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The 82.5 degrees E standard meridian passes through Mirzapur, Uttar Pradesh.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "geography",
+      "india",
+      "standard",
+      "meridian",
+      "degrees",
+      "passes",
+      "through",
+      "which"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G23",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Easy",
+    "question": "Which is the smallest Indian state by area?",
+    "options": [
+      "Sikkim",
+      "Goa",
+      "Tripura",
+      "Nagaland"
+    ],
+    "answer": 1,
+    "explanation": "Goa is the smallest state by area.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "geography",
+      "which",
+      "smallest",
+      "indian",
+      "state",
+      "area"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G26",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Medium",
+    "question": "Which country's capital is Thimphu?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Myanmar",
+      "Sri Lanka"
+    ],
+    "answer": 1,
+    "explanation": "Thimphu is the capital of Bhutan, a neighbour of India (named in the syllabus).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Rarely Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc"
+    ],
+    "keywords": [
+      "geography",
+      "which",
+      "country",
+      "capital",
+      "thimphu"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G30",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Easy",
+    "question": "Which is the longest river in India?",
+    "options": [
+      "Yamuna",
+      "Godavari",
+      "Ganga",
+      "Narmada"
+    ],
+    "answer": 2,
+    "explanation": "The Ganga is the longest river flowing within India.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "geography",
+      "which",
+      "longest",
+      "river",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

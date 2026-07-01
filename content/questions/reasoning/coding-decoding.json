@@ -1,0 +1,88 @@
+[
+  {
+    "id": "R4",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Coding-Decoding",
+    "subtopic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If CAT is coded as DBU (each letter +1), then DOG is coded as:",
+    "options": [
+      "EPH",
+      "EPF",
+      "DPH",
+      "EQH"
+    ],
+    "answer": 0,
+    "explanation": "D->E, O->P, G->H = EPH.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "coding",
+      "decoding",
+      "coded",
+      "each",
+      "letter",
+      "then"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "R13",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Coding-Decoding",
+    "subtopic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "If A=1, B=2, ..., the sum of letters in 'CAB' is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "C(3)+A(1)+B(2) = 6.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "coding",
+      "decoding",
+      "letters"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

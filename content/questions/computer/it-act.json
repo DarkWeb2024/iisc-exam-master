@@ -1,0 +1,87 @@
+[
+  {
+    "id": "C8",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "IT Act",
+    "subtopic": "IT Act",
+    "difficulty": "Easy",
+    "question": "In which year was the Indian Information Technology (IT) Act enacted?",
+    "options": [
+      "1998",
+      "2000",
+      "2005",
+      "2008"
+    ],
+    "answer": 1,
+    "explanation": "The IT Act was enacted in 2000 (amended in 2008). This topic is named in the IISc syllabus.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "which",
+      "year",
+      "indian",
+      "information",
+      "technology",
+      "enacted"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C26",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "IT Act",
+    "subtopic": "IT Act",
+    "difficulty": "Medium",
+    "question": "The Indian IT Act was amended in which year?",
+    "options": [
+      "2005",
+      "2008",
+      "2010",
+      "2012"
+    ],
+    "answer": 1,
+    "explanation": "The IT Act 2000 was amended in 2008.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Rarely Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc"
+    ],
+    "keywords": [
+      "indian",
+      "amended",
+      "which",
+      "year"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -7,6 +7,7 @@
 (function () {
   "use strict";
   var EXAM = window.ACTIVE_EXAM;
+  var APP_SUBS = ["computer", "general_awareness", "quantitative", "reasoning", "verbal"];
 
   /* ---------- storage ---------- */
   var LS = {
@@ -450,6 +451,37 @@
   function exportQs(list,fn){if(!list.length){toast("Nothing to export");return;}dl(fn,list.map(function(q,i){return (i+1)+". "+q.q+"\n   Answer: "+String.fromCharCode(65+q.answer)+" — "+q.exp+"\n";}).join("\n"));}
   function dl(fn,txt){var b=new Blob([txt],{type:"text/plain"});var a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=fn;a.click();URL.revokeObjectURL(a.href);}
 
+  /* ---------- Admin / Content Management (hidden; #admin) ---------- */
+  function viewAdmin(){
+    var S = window.BANK_STATS;
+    var h = '<h1>Admin — Content Management <span class="pill warn">internal</span></h1>';
+    h += '<p class="muted">Not linked in the sidebar. Read-only dashboard over the compiled question bank. Content edits/approvals happen via the Node pipeline (see below).</p>';
+    if (!S) { setHTML(h + '<div class="card muted">No stats found. Run <code>node tools/build_questions.js</code> to generate <code>data/stats.js</code>.</div>'); return; }
+    var pubTotal = S.totals.published, pct = Math.round(pubTotal / S.target.total * 100);
+    h += '<div class="grid cards">' +
+      card(pubTotal + " / " + S.target.total, "Published (Phase 1)", pct + "% of target") +
+      card(S.byStatus.pending_verification, "Pending verification", "not shown to users") +
+      card(S.totals.rejected + S.totals.duplicatesBlocked, "Blocked by gate", "rejected + duplicates") +
+      card(S.generated, "Last build", "run build_questions.js") + '</div>';
+    h += '<div class="card" style="margin-top:16px"><h2>Per-subject progress (target 200 each)</h2>';
+    APP_SUBS.forEach(function (s) { var p = S.perSubject[s] || { published: 0, coverageTopics: 0 }; h += chartRow(subjectName(s) + " (" + p.coverageTopics + " topics)", p.published, S.target.perSubject); });
+    h += '</div>';
+    h += '<div class="card"><h2>Status lifecycle</h2><p>' +
+      ["draft","ai_generated","pending_verification","verified","published","archived"].map(function (k) { return '<span class="pill' + (k === "published" ? " good" : k === "pending_verification" ? " warn" : "") + '">' + k + ": " + (S.byStatus[k] || 0) + '</span>'; }).join(" ") +
+      '</p><p class="muted">Only <strong>published</strong> questions are compiled into the app. Current-affairs items sit in <strong>pending_verification</strong> until reviewed before the exam.</p></div>';
+    h += '<div class="card"><h2>Difficulty distribution (target 30/45/20/5)</h2><table><tr><th>Subject</th><th>Easy</th><th>Medium</th><th>Hard</th><th>Expert</th></tr>' +
+      APP_SUBS.map(function (s) { var d = (S.perSubject[s] || {}).difficulty || { Easy: 0, Medium: 0, Hard: 0, Expert: 0 }; return '<tr><td>' + esc(subjectName(s)) + '</td><td>' + d.Easy + '</td><td>' + d.Medium + '</td><td>' + d.Hard + '</td><td>' + d.Expert + '</td></tr>'; }).join("") + '</table></div>';
+    h += '<div class="card"><h2>Validation report</h2>' + (S.issues && S.issues.length ? '<ul>' + S.issues.slice(0, 30).map(function (i) { return '<li class="muted">' + esc(i) + '</li>'; }).join("") + '</ul>' : '<p class="pill good">All published questions passed the gate — no issues.</p>') + '</div>';
+    h += '<div class="card"><h2>Tools (Node pipeline — the write path)</h2><ul class="muted">' +
+      '<li><code>node tools/build_questions.js</code> — validate + dedup + compile + this report</li>' +
+      '<li><code>node tools/add_expansion.js</code> / <code>add_gold.js</code> — author verified questions</li>' +
+      '<li><code>node tools/import_dataset.js file.json</code> — import a licensed/owned set (enters as <em>pending_verification</em>)</li>' +
+      '</ul><div class="btn-row"><button class="btn ghost" id="admExport">Export published bank (.json)</button></div>' +
+      '<p class="muted">A static browser app can\'t write files, so approve/edit/merge/version run through these tools (or a future backend).</p></div>';
+    setHTML(h);
+    var ex = document.getElementById("admExport"); if (ex) ex.onclick = function () { dl("published_bank.json", JSON.stringify(window.QDATA, null, 1)); };
+  }
+
   /* ---------- Search ---------- */
   function viewSearch(term){
     term=(term||"").toLowerCase().trim(); var h='<h1>Search: "'+esc(term)+'"</h1>';
@@ -468,7 +500,7 @@
     var hash=location.hash.replace(/^#/,"")||"dashboard", parts=hash.split("/"), view=parts[0], arg=parts[1];
     document.querySelectorAll(".nav-link").forEach(function(a){a.classList.toggle("active",a.dataset.view===view);});
     closeSidebar();
-    ({dashboard:viewDashboard,study:function(){viewStudy(arg);},planner:viewPlanner,glossary:viewGlossary,practice:function(){viewPractice(arg);},flashcards:function(){viewFlashcards(arg);},mock:viewMock,pyq:viewPYQ,predictions:viewPredictions,wrong:viewWrong,bookmarks:viewBookmarks,revision:viewRevision,formulas:viewFormulas,progress:viewProgress,ai:viewAI,notes:viewNotes,settings:viewSettings,search:function(){viewSearch(arg?decodeURIComponent(arg):"");}}[view]||viewDashboard)();
+    ({dashboard:viewDashboard,study:function(){viewStudy(arg);},planner:viewPlanner,glossary:viewGlossary,practice:function(){viewPractice(arg);},flashcards:function(){viewFlashcards(arg);},mock:viewMock,pyq:viewPYQ,predictions:viewPredictions,wrong:viewWrong,bookmarks:viewBookmarks,revision:viewRevision,formulas:viewFormulas,progress:viewProgress,ai:viewAI,notes:viewNotes,settings:viewSettings,admin:viewAdmin,search:function(){viewSearch(arg?decodeURIComponent(arg):"");}}[view]||viewDashboard)();
     main.focus();
   }
 
@@ -497,6 +529,7 @@
       {label:"Glossary & References",hint:"nav",run:function(){location.hash="#glossary";}},
       {label:"Notes",hint:"nav",run:function(){location.hash="#notes";}},
       {label:"Settings",hint:"nav",run:function(){location.hash="#settings";}},
+      {label:"Open Admin — content dashboard",hint:"internal",run:function(){location.hash="#admin";}},
       {label:"Toggle theme (light/dark)",hint:"action",run:toggleTheme},
       {label:"Start 10-question Mixed mock",hint:"action",run:function(){location.hash="#mock";}}
     ];

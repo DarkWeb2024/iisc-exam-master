@@ -1,0 +1,138 @@
+[
+  {
+    "id": "G10",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "History",
+    "subtopic": "History",
+    "difficulty": "Easy",
+    "question": "In which year did the Jallianwala Bagh massacre take place?",
+    "options": [
+      "1919",
+      "1920",
+      "1930",
+      "1942"
+    ],
+    "answer": 0,
+    "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919 in Amritsar.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "KPSC"
+    ],
+    "keywords": [
+      "history",
+      "which",
+      "year",
+      "jallianwala",
+      "bagh",
+      "massacre",
+      "take",
+      "place"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G11",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "History",
+    "subtopic": "History",
+    "difficulty": "Easy",
+    "question": "In which year was the Indian National Congress founded?",
+    "options": [
+      "1857",
+      "1885",
+      "1905",
+      "1919"
+    ],
+    "answer": 1,
+    "explanation": "The INC was founded in 1885 (by A. O. Hume).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "history",
+      "which",
+      "year",
+      "indian",
+      "national",
+      "congress",
+      "founded"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G12",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "History",
+    "subtopic": "History",
+    "difficulty": "Easy",
+    "question": "'Do or Die' was the slogan associated with which movement?",
+    "options": [
+      "Non-Cooperation",
+      "Civil Disobedience",
+      "Quit India",
+      "Khilafat"
+    ],
+    "answer": 2,
+    "explanation": "Gandhi gave the 'Do or Die' call during the Quit India Movement (1942).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "history",
+      "slogan",
+      "associated",
+      "with",
+      "which",
+      "movement"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

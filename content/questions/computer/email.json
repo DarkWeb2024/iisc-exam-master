@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C17",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Email",
+    "subtopic": "Email",
+    "difficulty": "Easy",
+    "question": "In email, 'BCC' stands for:",
+    "options": [
+      "Blind Carbon Copy",
+      "Backup Carbon Copy",
+      "Blank Carbon Copy",
+      "Broad Carbon Copy"
+    ],
+    "answer": 0,
+    "explanation": "BCC = Blind Carbon Copy; recipients in BCC are hidden from others.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Banking"
+    ],
+    "keywords": [
+      "email",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C20",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Email",
+    "subtopic": "Email",
+    "difficulty": "Medium",
+    "question": "Which protocol is used to SEND email?",
+    "options": [
+      "POP3",
+      "IMAP",
+      "SMTP",
+      "HTTP"
+    ],
+    "answer": 2,
+    "explanation": "SMTP sends mail; POP3/IMAP are used to receive/retrieve mail.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Banking",
+      "SSC"
+    ],
+    "keywords": [
+      "email",
+      "which",
+      "protocol",
+      "used",
+      "send"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

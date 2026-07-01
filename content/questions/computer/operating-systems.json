@@ -1,0 +1,45 @@
+[
+  {
+    "id": "C19",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Operating Systems",
+    "subtopic": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following is an Operating System?",
+    "options": [
+      "MS Word",
+      "Google Chrome",
+      "Linux",
+      "MS Excel"
+    ],
+    "answer": 2,
+    "explanation": "Linux is an OS. Word, Excel and Chrome are application software.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "operating",
+      "systems",
+      "which",
+      "following",
+      "system"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "id": "PDF-Q1",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "The cash difference between the selling prices of an article at a profit of 4% and 6% is Rs. 3. The ratio of the two selling prices is:__________ ?",
+    "options": [
+      "51:52",
+      "52:53",
+      "51:53",
+      "52:55"
+    ],
+    "answer": 1,
+    "explanation": "Let C.P. of the article be Rs. x. Then, required ratio = 104% of x / 106% of x = 104/106 = 52/53 = 52:53",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "cash",
+      "difference",
+      "between",
+      "selling",
+      "prices",
+      "article"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 1,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q2",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "Which of the following numbers is irrational ?",
+    "options": [
+      "√49",
+      "0.125",
+      "√2",
+      "22/7"
+    ],
+    "answer": 2,
+    "explanation": "√49 = 7 (rational) 0.125 = 1/8 (rational) 22/7 (rational) √2 cannot be expressed as p/q → irrational",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "which",
+      "following",
+      "numbers",
+      "irrational"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 2,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q3",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "356 x 936 – 356 x 836 = ?",
+    "options": [
+      "35600",
+      "34500",
+      "9630",
+      "93600"
+    ],
+    "answer": 0,
+    "explanation": "356 x 936 – 356 x 836 = 356 x (936 – 836) = 356 x 100 = 35600",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "question"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 3,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q4",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "Arrange in descending order: 5/8, 7/10, 3/4",
+    "options": [
+      "3/4 > 7/10 > 5/8",
+      "7/10 > 3/4 > 5/8",
+      "3/4 > 5/8 > 7/10",
+      "5/8 > 7/10 > 3/4"
+    ],
+    "answer": 0,
+    "explanation": "5/8=0.625 7/10=0.7 3/4=0.75",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "arrange",
+      "descending",
+      "order"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 4,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q5",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "What is (3^{4} times 9^{2}) ?",
+    "options": [
+      "36",
+      "38",
+      "310",
+      "96"
+    ],
+    "answer": 1,
+    "explanation": "9 = 32 So 34× (32)2 = 34 × 34 = 38",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "what",
+      "times"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 5,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q6",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "If 34X-2 = 729, then find the value of X.",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "729 = 93 = 36, Now 4X – 2 = 6 or X = 2.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "then",
+      "find",
+      "value"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 6,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q8",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Arithmetic & Number System",
+    "subtopic": "Arithmetic & Number System",
+    "difficulty": "Medium",
+    "question": "The no. plate of a bus had peculiarity. The bus number was a perfect square. It was also a perfect square when the plate numbers were reversed. The bus company had only five hundred buses numbered from 1 to 500. What was the number ?",
+    "options": [
+      "169",
+      "36",
+      "196",
+      "Can not say"
+    ],
+    "answer": 0,
+    "explanation": "Work from the choices: only 169 when reversed becomes 961 and both numbers are squares. Passage : information given below and answer the question that follow. The result of an exam is given below. Out of 1000 students who appeared (i) 658 failed in Physics (ii) 166 failed in Physics and Chemistry (iii) 372 failed in Chemistry, 434 failed in Physics and Maths (iv) 590 failed in Maths, 126 failed in Maths & Chemistry Find the number of people who failed in (assuming that none is passed in all subj",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Arithmetic & Number System"
+    ],
+    "keywords": [
+      "plate",
+      "peculiarity",
+      "number",
+      "perfect",
+      "square",
+      "also"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 8,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q9",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Chemistry but not in Physics.",
+    "options": [
+      "318",
+      "198",
+      "213",
+      "206"
+    ],
+    "answer": 3,
+    "explanation": "Chemistry but not Physics = c + f = 206 Passage : Direction: information given below and answer the question that follow. The result of an exam is given below. Out of 1000 students who appeared (i) 658 failed in Physics (ii) 166 failed in Physics and Chemistry (iii) 372 failed in Chemistry, 434 failed in Physics and Maths (iv) 590 failed in Maths, 126 failed in Maths & Chemistry Find the number of people who failed in (assuming that none is passed in all subjects. We have the following equations",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "chemistry",
+      "physics"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 9,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q10",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "Physics or Maths but not in Chemistry.",
+    "options": [
+      "558",
+      "718",
+      "628",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "Physics and Maths but not Chemistry = a + e + g = 628. Passage : For the next four question that follow: In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92 → x + 98 – 31 = 92 → x = 92 – 67 = 25",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "physics",
+      "maths",
+      "chemistry"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 10,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q11",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "What is the percentage of persons who read all the three papers ?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": 1,
+    "explanation": "Hence people who read all the three newspapers = 25% Passage : For the next four : question that follow : In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92 → x + 98 – 31 = 92 → x = 92 – 67 = 25",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "what",
+      "percentage",
+      "persons",
+      "read",
+      "three",
+      "papers"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 11,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q12",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "What is the percentage of persons who read only two papers?",
+    "options": [
+      "19%",
+      "31%",
+      "44%",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "(30 – x) + (36 – x) + (28 – x) = 94 – 3x = 98 – 3 x 25 = 23 Hence percentage of people who read only two newspapers = 23% Passage : For the next four : question that follow : In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "what",
+      "percentage",
+      "persons",
+      "read",
+      "only",
+      "papers"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 12,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q13",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "What is the percentage of persons who read only one paper ?",
+    "options": [
+      "38%",
+      "48%",
+      "51%",
+      "None of these"
+    ],
+    "answer": 1,
+    "explanation": "(x – 24) + (x – 7) + (x + 4) = 3x – 27 = 3 x 25 – 27 = 48 Hence percentage of people who read only one newspaper = 48% Passage : For the next four : question that follow: In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "what",
+      "percentage",
+      "persons",
+      "read",
+      "only",
+      "paper"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 13,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q14",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "What is the percentage of persons who read only A but neither B nor C ?",
+    "options": [
+      "4%",
+      "3%",
+      "1%",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "x – 24 = 25 – 24 = 1 Hence percentage of people who read only newspaper A but neither B nor C = 1% Passage : For the next four : question that follow: In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 9",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "what",
+      "percentage",
+      "persons",
+      "read",
+      "only",
+      "neither"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 14,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q15",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "If A and B are any two sets, then what is A á´– (A á´— B) equal to ?",
+    "options": [
+      "Complement of A",
+      "Complement of B",
+      "B",
+      "A"
+    ],
+    "answer": 3,
+    "explanation": "A á´– (A á´— B) = (A á´– A) á´— (A á´– B) = A á´— (A á´— B) = A (by diagram) Thus, A á´– (A á´– B) = A Passage : For the next four : question that follow: In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers. Let x% people read all the three newspapers. Since 8% people do not read any newspapers. (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "sets",
+      "then",
+      "what",
+      "equal"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 15,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "PDF-Q16",
+    "subject": "quantitative",
+    "section": "quant",
+    "topic": "Sets & Data Interpretation",
+    "subtopic": "Sets & Data Interpretation",
+    "difficulty": "Medium",
+    "question": "40% of the people read newspaper X, 50% read newspaper Y and 10% read both the papers. What percentage of the people read neither newspaper ?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answer": 2,
+    "explanation": "n(A) = 40, n(B) = 50, n(A á´– B) = 10 n(A á´— B) = n(A) + n(B) – n(A á´– B) = 40 + 50 – 10 = 80. Percentage reading either or both newspapers = 80% Hence, percentage reading neither newspaper = (100 – 80)% = 20%",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Verified Competitive Question",
+    "sourceType": "Verified Competitive Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Imported",
+      "Sets & Data Interpretation"
+    ],
+    "keywords": [
+      "people",
+      "read",
+      "newspaper",
+      "read",
+      "newspaper",
+      "read"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "source": {
+      "file": "IISC Administrative Assistant Important questions.txt",
+      "questionNo": 16,
+      "type": "Extracted MCQ (answer key + solution)"
+    },
+    "importedDate": "2026-07-01",
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

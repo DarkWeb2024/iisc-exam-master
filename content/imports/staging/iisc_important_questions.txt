@@ -1,0 +1,794 @@
+IISC Administrative Assistant
+Subjects : Quantitative ability, Verbal Ability, Logical and Numerical Reasoning, General Awareness, Knowledge in Computer Applications
+Question Bank IISC Administrative Assistant Exam - EnglishBack to Exam Feedback
+Question 1 : The cash difference between the selling prices of an article at a profit of 4% and 6% is Rs. 3. The ratio of the two selling prices is:__________ ?
+A. 51:52
+B. 52:53
+C. 51:53
+D. 52:55
+ 
+Correct Answer: B
+Sol.Let C.P. of the article be Rs. x.
+
+Then, required ratio = 104% of x / 106% of x
+= 104/106 = 52/53 = 52:53
+Question 2 : Which of the following numbers is irrational ?
+A. √49
+B. 0.125
+C. √2
+D. 22/7
+ 
+Correct Answer: C
+Sol.√49 = 7 (rational)
+0.125 = 1/8 (rational)
+22/7 (rational)
+√2 cannot be expressed as p/q → irrational
+Question 3 : 356 x 936 – 356 x 836 = ?
+A. 35600  
+B. 34500
+C. 9630
+D. 93600
+ 
+Correct Answer: A
+Sol.356 x 936 – 356 x 836 = 356 x (936 – 836) = 356 x 100 = 35600
+Question 4 : Arrange in descending order: 5/8, 7/10, 3/4
+A. 3/4 > 7/10 > 5/8
+B. 7/10 > 3/4 > 5/8
+C. 3/4 > 5/8 > 7/10
+D. 5/8 > 7/10 > 3/4
+ 
+Correct Answer: A
+Sol.5/8=0.625
+7/10=0.7
+3/4=0.75
+Question 5 : What is (3^{4} times 9^{2}) ?
+A. 36
+B. 38
+C. 310
+D. 96
+ 
+ 
+Correct Answer: B
+Sol.9 = 32
+So
+34× (32)2 = 34 × 34 = 38
+Question 6 : If 34X-2 = 729, then find the value of X.
+A. 4     
+B. 3
+C. 2 
+D. 5
+ 
+Correct Answer: C
+Sol.729 = 93 = 36, Now 4X – 2 = 6 or X = 2.
+Question 7 : Convert 0.6 into fraction ?
+A. 3/5
+B. 2/3
+C. 4/5
+D.
+ 
+Correct Answer: B
+Sol.0.6=6/10=3/5
+Question 8 : The no. plate of a bus had peculiarity. The bus number was a perfect square. It was also a perfect square when the plate numbers were reversed. The bus company had only five hundred buses numbered from 1 to 500. What was the number ?
+A. 169  
+B. 36
+C. 196 
+D. Can not say
+ 
+Correct Answer: A
+Sol.Work from the choices: only 169 when reversed becomes 961 and both numbers are squares.
+Passage : information given below and answer the question that follow.
+The result of an exam is given below. Out of 1000 students who appeared
+(i) 658 failed in Physics
+(ii) 166 failed in Physics and Chemistry
+(iii) 372 failed in Chemistry, 434 failed in Physics and Maths
+(iv) 590 failed in Maths, 126 failed in Maths & Chemistry
+Find the number of people who failed in (assuming that none is passed in all subjects.
+
+We have the following equations:
+a+ b + c + d + e + f + g = 1000
+a + b + d + e = 658, b + d = 166
+b + d + c + f = 372
+d + e = 434 as in the figure.
+d + e + f + g = 590, d + f = 126. Find the values
+Question 9 : Chemistry but not in Physics.
+A. 318
+B. 198
+C. 213 
+D. 206
+ 
+Correct Answer: D
+Sol.Chemistry but not Physics = c + f = 206
+Passage : Direction: information given below and answer the question that follow.
+The result of an exam is given below. Out of 1000 students who appeared
+(i) 658 failed in Physics
+(ii) 166 failed in Physics and Chemistry
+(iii) 372 failed in Chemistry, 434 failed in Physics and Maths
+(iv) 590 failed in Maths, 126 failed in Maths & Chemistry
+Find the number of people who failed in (assuming that none is passed in all subjects.
+
+We have the following equations:
+a+ b + c + d + e + f + g = 1000
+a + b + d + e = 658, b + d = 166
+b + d + c + f = 372
+d + e = 434 as in the figure.
+d + e + f + g = 590, d + f = 126. Find the values
+Question 10 : Physics or Maths but not in Chemistry.
+A. 558   
+B. 718
+C. 628  
+D. None of these
+ 
+Correct Answer: C
+Sol.Physics and Maths but not Chemistry = a + e + g = 628.
+Passage : For the next four question that follow:
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+ (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 11 : What is the percentage of persons who read all the three papers ?
+A. 20%  
+B. 25%
+C. 30%  
+D. 40%
+ 
+Correct Answer: B
+Sol.Hence people who read all the three newspapers = 25%
+Passage : For the next four : question that follow :
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+ (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 12 : What is the percentage of persons who read only two papers?
+A. 19%  
+B. 31%
+C. 44%
+D. None of these
+ 
+Correct Answer: D
+Sol.(30 – x) + (36 – x) + (28 – x) = 94 – 3x
+= 98 – 3 x 25 = 23
+Hence percentage of people who read only two newspapers = 23%
+Passage : For the next four : question that follow :
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+(x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 13 : What is the percentage of persons who read only one paper ?
+A. 38% 
+B. 48%
+C. 51%  
+D. None of these
+ 
+Correct Answer: B
+Sol.(x – 24) + (x – 7) + (x + 4) = 3x – 27
+= 3 x 25 – 27 = 48
+Hence percentage of people who read only one newspaper = 48%
+Passage : For the next four : question that follow:
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+ (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 14 : What is the percentage of persons who read only A but neither B nor C ?
+A. 4%
+B. 3%
+C. 1%  
+D. None of these
+ 
+Correct Answer: C
+Sol.x – 24 = 25 – 24 = 1
+Hence percentage of people who read only newspaper A but neither B nor C = 1%
+Passage : For the next four : question that follow:
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+ (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 15 : If A and B are any two sets, then what is A á´– (A á´— B) equal to ?
+A. Complement of A 
+B. Complement of B
+C. B   
+D. A
+ 
+Correct Answer: D
+Sol.
+A á´– (A á´— B) = (A á´– A) á´— (A á´– B) = A á´— (A á´— B)
+= A (by diagram)
+Thus, A á´– (A á´– B) = A
+Passage : For the next four : question that follow:
+In a city, three daily newspapers A, B, C are published, 42% read A; 51% read B; 68% read C; 30% read A and B; 28% read B and C; 36% read A and C; 8% do not read any of the three newspapers.
+
+Let x% people read all the three newspapers.
+Since 8% people do not read any newspapers.
+ (x – 24) + (x – 7) + (x + 4) + (30 – x) + (36 – x) + (28 – x) + x = 92
+→ x + 98 – 31 = 92
+→ x = 92 – 67 = 25
+Question 16 : 40% of the people read newspaper X, 50% read newspaper Y and 10% read both the papers. What percentage of the people read neither newspaper ?
+A. 10%    
+B. 15%
+C. 20%  
+D. 25%
+ 
+Correct Answer: C
+Sol.n(A) = 40, n(B) = 50, n(A á´– B) = 10
+n(A á´— B) = n(A) + n(B) – n(A á´– B) = 40 + 50 – 10 = 80.
+Percentage reading either or both newspapers = 80%
+Hence, percentage reading neither newspaper = (100 – 80)% = 20%
+Question 17 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. He was in the temper
+B. and refused
+C. discuss the matter again
+D. No error
+ 
+Correct Answer: A
+Question 18 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. A flower makes no garland
+B. so we must do a thing together
+C. in a unit for a good result
+D. No error
+ 
+Correct Answer: A
+Sol.Change ‘A’ into ‘one’ according to show the countable or uncountable.
+Question 19 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. My friend is a software engineer
+B. and his wife is doctor
+C. so they don’t have enough time for each other
+D. No error
+ 
+Correct Answer: B
+Sol.Add ‘a’ before doctor.
+Question 20 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. I don’t have much time that
+B. I hear you in detail with verbosity
+C. tell everything in nutshell
+D. No error
+ 
+Correct Answer: C
+Sol.Use ‘a’ before nutshell.
+Question 21 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. The atmosphere is changing
+B. so I have severe pain in my body
+C. if you have any painkiller, please give it to me
+D. No error
+ 
+Correct Answer: B
+Sol.Add ‘a’ before severe pain.
+Question 22 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. No one is without fault
+B. because no one is God
+C. and only God is fault free
+D. No error
+ 
+Correct Answer: A
+Sol.Use ‘a’ before fault.
+Question 23 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. Your
+B. clock is
+C. one hour fast
+D. No error
+ 
+Correct Answer: C
+Sol.Use ‘an’ in place of ‘one’.
+Question 24 : Read sentence to find out whether there is any grammatical error in it. The sentences are In three separate parts and each one is labelled (a), (b), (c) and (d). In that case, letter (d) will signify a ‘No error’ response.
+A. The lose of jobs
+B. is regarded by some as an necessary evil
+C. in the fight against infliation
+D. No error
+ 
+Correct Answer: B
+Sol.Change ‘an’ into ‘a’ because necessary starts with a consonant sound.
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 25 : To sleep with the fishes
+A. Always be in a dream world
+B. To make absurd excuses
+C. To sleep peacefully
+D. To be dead
+ 
+Correct Answer: D
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 26 : To free someone or something form a constraint or difficulty.
+A. To exterminate
+B. To expurgate
+C. To intricate
+D. To extricate
+ 
+Correct Answer: D
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 27 : Liquids forming a homogeneous mixture when added together
+A. Irascible
+B. Crucible
+C. Miscible
+D. Risible
+ 
+Correct Answer: C
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 28 : Shooting fish in a barrel
+A. To do random acts of stupidity
+B. To behave in a cruel manner
+C. Ridiculously easy
+D. To escape through a narrow opening
+ 
+Correct Answer: C
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 29 : What does the phrase ‘knew no bounds’ mean ?
+A. was bounded by
+B. was limitless
+C. was limited
+D. was bound to
+ 
+Correct Answer: B
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 30 : “There are more cyclists than pedestrians on the streets of Amsterdam”.
+Choose the sentence which means the same as the above statement.
+A. Pedestrians outnumber cyclists on the streets of Amsterdam
+B. Cyclists are not as many is number as pedestrians
+C. Walking is not as common as cycling is on the streets of Amsterdam
+D. Cycling is not as common as walking is on the streets of Amsterdam
+ 
+Correct Answer: C
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 31 : Use the appropriate idiom to complete the expression. You may go home early if you are
+A. Feeling a bit under the weather
+B. Hitting the nail on the head
+C. Sitting on the fence
+D. Adding insult to the injury
+ 
+Correct Answer: A
+Passage : In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+Question 32 : To bend over backwards
+A. To accommodate every unreasonable request usually without getting anything back
+B. Stepping away from an unpleasant situation
+C. To make every effort to achieve something, especially to be fair or helpful
+D. Submitting oneself completely to a higher authority
+ 
+Correct Answer: C
+Question 33 : How many such pairs of letters are there in the word ‘CLEANLINESS’ each of the which has as many letters between them in the word as they have in the English alphabet, in the same sequence?
+A. Two
+B. Three
+C. Five
+D. Four
+E. None of these
+ 
+Correct Answer: C
+Sol.
+Question 34 : Team A has scored more goals than Team B
+Team C has scored fewer goals than Team B
+Team A has scored fewer goals than Team C .
+If the first two statements are true, the third statement is
+A. True
+B. False
+C. Uncertain
+D. None
+ 
+Correct Answer: B
+Sol.From the first two statements, we know that of the three teams, Team A has scored the highest number of goals, so the third statement is necessarily false .
+Question 35 : If it is possible to make only one meaningful word with the second, the third, the sixth and the eight letters of the word FRAGMENT using each only once, which of the following will be the third letter of that word ? If no such word can be formed, give ‘X’ as the answer and if more than one such word can be formed, give ‘Y’ as the answer.
+A. A
+B. E
+C. T
+D. X
+E. Y
+ 
+Correct Answer: E
+Sol.
+Question 36 : How many such letters are there in the word ORIENTAL each of which is as far away from the beginning of the word as when they are arranged alphabetically?
+A. None            
+B. One         
+C. Two       
+D. Three        
+E. More than three
+ 
+Correct Answer: C
+Sol.
+Question 37 : How many such pairs of letters in the word CREDIT each of which has as many letters between them in the word as in the English alphabet?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: C
+Sol.
+Question 38 : How many meaningful words can be made from the letters ‘LMEA’ using each letter only once in each word?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: D
+Sol.Meaningful words Þ LAME, MALE, MEAL
+Question 39 : If it is possible to make only one meaningful word with the first, the second, the seventh and the eighth letters of the word TEMPORAL, which of the following will be the first letter of that word? If more than one such word can be made, give ‘Y’ as the answer and if no such word can be made, give ‘X’ as the answer.
+A. T
+B. L
+C. E
+D. Y
+E. X
+ 
+Correct Answer: D
+Sol.
+Question 40 : If the letters of the word HANDOVER are arranged alphabetically from left to right how many letters will remain at the same position?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: A
+Sol.    H    A    N    D    O    V    E    R
+    V    R    O    N    H    E    D    A
+    No letter is at the same position.
+Question 41 : How many such pairs of letters are there in the word EXCURSION, each of which has as many letters between them in the word as they have in the English alphabet?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: E
+Sol.
+Question 42 : If it is possible to make only one meaningful word with the first, the second, the third, the sixth and the eighth letters of the word DEVIATION first letter of that word is your answer? If more than one such word can be made formed your answer is ‘A’  and if no such word can be formed your answer is ‘B’.
+A. V
+B. T
+C. E
+D. A
+E. B
+ 
+Correct Answer: C
+Sol.
+Question 43 : If each alternate letter beginning with the first in the word WORKING is replaced by the next letter in the English alphabet and each of the remaining letters is replaced by the previous letter in the English alphabet, which of the following will be the fourth from the right and after the replacement ?
+A. N
+B. Q
+C. J
+D. M
+E. None of these
+ 
+Correct Answer: C
+Sol.
+Question 44 : How many pairs of letters are there in the word ‘SHIFTED’ each of which has as many letters between its two letters as there are between in the English alphabet?
+A. None
+B. One
+C. Two
+D. Three
+E. None of these
+ 
+Correct Answer: D
+Sol.
+Passage : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z .
+Question 45 : Which letter in this alphabet is the eighth letter to the right of the letter and which is tenth letter to the left of the last but one letter of the alphabet ?
+A. X
+B. W
+C. I
+D. H
+ 
+Correct Answer: B
+Sol.In the given alphabet, last but one letter of alphabet is Y .
+10th letter to the left of Y is O
+8th letter to the right of O is W
+Passage : Direction : The following question is based on the five words given below:
+AND FOR THE BIG SUM (The new words formed after performing the mentioned operations may or may not necessarily the meaningful English words.)
+Question 46 : If the third alphabet of each of the words is changed to the next alphabet in the English alphabetical series, which of the following will form a meaningful English word?
+A. SUM
+B. BIG
+C. Both BIG and THE
+D. FOR
+E. Both FOR and BIG
+ 
+Correct Answer: A
+Sol.AND Þ ANE ; FOR Þ FOS;
+    THE Þ THF ; BIG Þ BIH;
+    SUM Þ SUN
+Passage : Direction : The following question is based on the five words given below:
+AND FOR THE BIG SUM (The new words formed after performing the mentioned operations may or may not necessarily the meaningful English words.)
+Question 47 : If the given words are arranged in the order as they would appear in a dictionary from left to right, which of the following will be second from the right ?
+A. AND
+B. FOR
+C. THE
+D. BIG
+E. SUM
+ 
+Correct Answer: E
+Sol.AND, BIG, FOR, SUM, THEN
+Passage : Direction: The following question is based on the five words given below:
+AND FOR THE BIG SUM (The new words formed after performing the mentioned operations may or may not necessarily the meaningful English words.)
+Question 48 : If second alphabet in each of the words is changed to next alphabet in the English alphabetical order, how many words having two vowels (same or different vowels) will be formed ?
+A. None
+B. One
+C. Two
+D. Three
+E. Four
+ 
+Correct Answer: C
+Sol.AND Þ AON ; FOR Þ FPR;    
+    THE Þ TIE;
+    BIG Þ BJG; SUM Þ SVM
+Passage : Direction : The following question is based on the five words given below:
+AND FOR THE BIG SUM (The new words formed after performing the mentioned operations may or may not necessarily the meaningful English words.)
+Question 49 : How many letters are there in the English alphabetical series between the second letter of the word which is second from the right and the second letter of the word which is second from the left of the given words?
+A. Two
+B. Five
+C. Six
+D. Nine
+E. Three
+ 
+Correct Answer: B
+Sol.
+Passage : Direction: The following question is based on the five words given below:
+AND FOR THE BIG SUM (The new words formed after performing the mentioned operations may or may not necessarily the meaningful English words.)
+Question 50 : If in each of the given words, each of the consonant is changed to previous letter and each vowel is changed to next letter in the English alphabetical series, in how many words thus formed will no vowels appear?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: D
+Sol.AND Þ BMC; FOR Þ EPQ;
+    THE Þ SGF; BIG Þ AJF
+    SUM Þ RVL
+Passage : Direction : Following question is based on five words given below:
+ 
+BRU LEGINKCATOWN
+(The new words formed after performing the mentioned operations may or may not necessarily be meaningful English words)
+Question 51 : If the third alphabet in each of the words is changed to the next alphabet in the English alphabetical order, how many words having two vowels (same or different vowels) will be formed?
+A. None
+B. One
+C. Two
+D. Three
+E. Four
+ 
+Correct Answer: C
+Sol.BRU Þ BRV;     LEG Þ LEH
+    INK Þ INL    CAT Þ CAU;
+Passage : Direction : Following question is based on five words given below:
+ 
+BRU LEGINKCATOWN
+(The new words formed after performing the mentioned operations may or may not necessarily be meaningful English words)
+Question 52 : If the position of the first and the second alphabets of each of the words are interchanged, which of the following will form a meaningful English word?
+A. Both CAT and OWN
+B. Both BRU and INK
+C. Only CAT
+D. Only INK
+E. Only LEG
+ 
+Correct Answer: A
+Sol.BRU Þ RBU;     LEG Þ LEH
+    INK Þ NIK    CAT Þ ACT;
+    OWN Þ WON   
+Passage : Direction: Following question is based on five words given below:
+ 
+BRU LEGINKCATOWN
+(The new words formed after performing the mentioned operations may or may not necessarily be meaningful English words)
+Question 53 : If the given words are arranged in the order as they would appear in a dictionary from left to right, which of the following will be exactly in the middle of the five words?
+A. OWN
+B. LEG
+C. BRU
+D. CAT
+E. INK
+ 
+Correct Answer: E
+Sol.BRU ® CAT ® INK ® LEG ® OWN
+Passage : Direction: Following question is based on five words given below:
+ 
+BRU LEGINKCATOWN
+(The new words formed after performing the mentioned operations may or may not necessarily be meaningful English words)
+Question 54 : If in each of the given words, each of the consonants is changed to previous letter and each vowel is changed to next letter in the English alphabetical series, in how many words thus formed will the same alphabet appear twice?
+A. None
+B. One
+C. Two
+D. Three
+E. More than three
+ 
+Correct Answer: D
+Sol.BRU Þ AQV;     LEG Þ KFF
+    INK Þ JMJ    CAT Þ BBS;
+    OWN Þ PVM   
+Question 55 : Yojna a weekly journal
+A. Ministry of Finance        
+B. Ministry of Information and Broadcastin
+C. Ministry of Rural Development
+D. Planning Commission
+ 
+Correct Answer: B
+Question 56 : Kurukshetra a journal on rural development is published by
+A. Ministry of Finance 
+B. Ministry of Information and Broadcastin
+C. Ministry of Rural Development
+D. Planning Commission
+ 
+Correct Answer: B
+Question 57 : Devaluation of a currency means
+A. Fixing the value of the currency in conjuction with the movement in the value of a basket of predetermined currencies
+B. Reduction in the value of a currency vis-à-vis major internationally traded currencies
+C. Fixing the value of currency in multilateral consultaion with the IMF the World Bank and major trading partners
+D. Permitting the currency to seek its worth in the international market
+ 
+Correct Answer: B
+Question 58 : In India rural incomes are generally lower than the urban incomes, which of the following reasons account for this
+            1. a large number of farmers are illiterate and know little about scientific agriculture
+            2. prices of primary products are lower than those of manufactured products
+            3. Investments in agriculture has been low when compared to investment in industry
+A. 1 and 3
+B. 2 and 3
+C. 1 and 2
+D. 1,2 and 3
+ 
+Correct Answer: D
+Question 59 : Which of the following programmes aims at the promotion of savings among rural women
+A. Rashtriya Mahila Kosh
+B. Indira Mahila Yojna
+C. Jawahar Rozgar Yojna
+D. Mahila Samridhi Yojna
+ 
+Correct Answer: D
+Question 60 : What is Net National Product
+A. the money value of final goods and services produced annually in the economy
+B. the money value of annual service generation in the economy
+C. the money value of tangible goods produced annually in the economy
+D. The money value of tangible goods available in the economy
+ 
+Correct Answer: A
+Question 61 : National income is the 
+A. net national product at market price
+B. net national product at factor cost
+C. net domestic product at market price
+D. net domestic product at factor cost
+ 
+Correct Answer: B
+Question 62 : Chelliah Committee of 1992 deals with the overhauling of our
+A. financial system            
+B. tax system
+C. patents and copyrights  
+D. Public sector undertakings
+ 
+Correct Answer: B
+Question 63 : During which Five Year Plan was the annual growth rate of National Income the lowest
+A. 2nd plan
+B. 3rd plan
+C. 5th plan
+D. 6th plan
+ 
+Correct Answer: B
+Question 64 : Which of the following taxes is a progressive tax
+A. sales tax           
+B. custom tax
+C. excise tax         
+D. income tax
+ 
+Correct Answer: D
+Question 65 : What is the main focus of RBI’s Mission SAKSHAM launched in 2026?
+A. Digital lending regulation
+B. Capacity building and training for Urban Co-operative Banks (UCBs)
+C. Cryptocurrency framework
+D. Merger of Regional Rural Banks
+ 
+Correct Answer: B
+Question 66 : On which date did SEBI operationalise PaRRVA (Past Risk and Return Verification Agency) in 2026?
+A. May 1
+B. April 15
+C. April 29
+D. May 4
+ 
+Correct Answer: D
+Question 67 : What is E-PRAAPTI, launched by EPFO?
+A. An online grievance redressal system
+B. A new pension scheme
+C. A portal for tracing and reactivating inoperative PF accounts using Aadhaar
+D. A UPI-based payment gateway
+ 
+Correct Answer: C
+Question 68 : From when is RBI shifting to the Expected Credit Loss (ECL) framework for asset classification?
+A. April 1, 2026
+B. April 1, 2027
+C. January 1, 2027
+D. Immediate effect in May 2026
+ 
+Correct Answer: B
+Question 69 : Which entities partnered for biometric (OTP-free) card payments in 2026?
+A. Amazon & SBI
+B. Flipkart, Axis Bank & PayU
+C. Myntra & HDFC
+D. Reliance Retail & ICICI
+ 
+Correct Answer: B
+Question 70 : PM Narendra Modi inaugurated which major expressway in Uttar Pradesh on April 29, 2026?
+A. Delhi-Mumbai Expressway
+B. Eastern Peripheral Expressway
+C. Ganga Expressway (Meerut to Prayagraj, 594 km)
+D. Agra-Lucknow Expressway
+ 
+Correct Answer: C
+Question 71 : Something similar to dialog box that appears with information, warning an error message or request for confirmation to execute a command (as delete)
+A. window
+B. pop up
+C. message box    
+D. any of the above
+ 
+Correct Answer: B
+Question 72 : What is active desktop ?
+A. a term that is synonymous with viewing your desktop as web page
+B. a feature to customize your desktop to display informating you can update from the internet
+C. both a and b above mentioned
+D. A software
+E. None of these
+ 
+Correct Answer: C
+Question 73 : Active window means
+A. the active window is designated by a different color toolbar than other open windows
+B. the window that is currently open
+C. both a and b above mentioned
+D. the window that is last used
+E. none of these
+ 
+Correct Answer: C
+Question 74 : America online (AOL)
+A. it displays the proprietary information created by AOL
+B. the proprietary information includes news, financial planning, homework for students, chat, lines etc.
+C. is widely used online service offering access service to the internet
+D. All of the above are true
+E. None of these
+ 
+Correct Answer: D
+Question 75 : An application is
+A. word processing, accounting and engineering programs are example of application programs
+B. computer program designed to enable users to perform specific job functions
+C. Both a and b above mentioned
+D. a document
+E. None of these
+ 
+Correct Answer: C
+Question 76 : Which of the following programs enables you to calculate numbers related to rows and columns?
+A. Window program
+B. Spreadsheet program
+C. Graphics program
+D. Word program
+E. None of these
+ 
+Correct Answer: B
+Question 77 : The term Briefcase is used for
+A. a special folder on the windows desktop used to keep documents up to date when shared between computers
+B. a window that us currently open
+C. A folder which keeps deleted, files for a while and can be retrieved from it
+D. All of the above
+E. None of these
+ 
+Correct Answer: A
+Question 78 : A button is
+A. a command that activates the option
+B. like a one on a household appliance and precipitates an action
+C. a graphical representation of an option 
+D. All of the above
+E. None of these
+ 
+Correct Answer: D
+Question 79 : A channel (in windows terminology) is
+A. a widely used online service that offers access to the internet
+B. a specialized web site designed to work with the windows 98 subscribing feature to automatically download information from the internet and store it on your computer for later viewing
+C. an area on the computer memory where text or graphics can be temporarily stored
+D. All of the above
+E. None of these
+ 
+Correct Answer: B
+Question 80 : A check box
+A. with a check mark in it indicates the option is enabled
+B. is required to present options requiring individual on/off decisions in dialog box
+C. appears as a small square ballot box beside an option description
+D. All of the above
+E. None of these
+ 
+Correct Answer: D
+Back to Exam Feedback
+1

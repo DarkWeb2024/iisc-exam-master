@@ -1,0 +1,45 @@
+[
+  {
+    "id": "V11",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Fill in the Blanks",
+    "subtopic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Fill in the blank: 'She has been ill ___ Monday.'",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "'Since' is used with a point in time (Monday).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "fill",
+      "blanks",
+      "blank",
+      "been",
+      "monday"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "V14",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Spelling",
+    "subtopic": "Spelling",
+    "difficulty": "Easy",
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Occassion",
+      "Ocasion",
+      "Occasion",
+      "Occason"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Occasion'.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "spelling",
+      "choose",
+      "correctly",
+      "spelt",
+      "word"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

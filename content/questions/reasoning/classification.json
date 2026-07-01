@@ -1,0 +1,46 @@
+[
+  {
+    "id": "R6",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Classification",
+    "subtopic": "Classification",
+    "difficulty": "Easy",
+    "question": "Find the odd one out: Rose, Lotus, Mango, Jasmine",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Mango",
+      "Jasmine"
+    ],
+    "answer": 2,
+    "explanation": "Mango is a fruit; the rest are flowers.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "classification",
+      "find",
+      "rose",
+      "lotus",
+      "mango",
+      "jasmine"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

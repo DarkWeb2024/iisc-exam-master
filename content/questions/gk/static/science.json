@@ -1,0 +1,178 @@
+[
+  {
+    "id": "G16",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Science",
+    "subtopic": "Science",
+    "difficulty": "Easy",
+    "question": "Deficiency of Vitamin C causes which disease?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Night blindness",
+      "Anaemia"
+    ],
+    "answer": 1,
+    "explanation": "Vitamin C deficiency causes scurvy; Vitamin D deficiency causes rickets.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "science",
+      "deficiency",
+      "vitamin",
+      "causes",
+      "which",
+      "disease"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G17",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Science",
+    "subtopic": "Science",
+    "difficulty": "Easy",
+    "question": "How many bones are there in an adult human body?",
+    "options": [
+      "206",
+      "208",
+      "300",
+      "186"
+    ],
+    "answer": 0,
+    "explanation": "An adult human has 206 bones; a newborn has around 300.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "science",
+      "many",
+      "bones",
+      "there",
+      "adult",
+      "human",
+      "body"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G18",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Science",
+    "subtopic": "Science",
+    "difficulty": "Medium",
+    "question": "Which blood group is the universal donor?",
+    "options": [
+      "AB positive",
+      "O negative",
+      "A positive",
+      "B negative"
+    ],
+    "answer": 1,
+    "explanation": "O-negative is the universal donor; AB-positive is the universal recipient.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "science",
+      "which",
+      "blood",
+      "group",
+      "universal",
+      "donor"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G24",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Science",
+    "subtopic": "Science",
+    "difficulty": "Easy",
+    "question": "What is the pH value of pure water?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Pure water is neutral with a pH of 7.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "science",
+      "what",
+      "value",
+      "pure",
+      "water"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

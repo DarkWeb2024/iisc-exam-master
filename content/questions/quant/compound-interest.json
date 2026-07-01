@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Q4",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Compound Interest",
+    "subtopic": "Compound Interest",
+    "difficulty": "Medium",
+    "question": "Compound interest on Rs.1000 at 10% p.a. for 2 years is:",
+    "options": [
+      "Rs.200",
+      "Rs.210",
+      "Rs.100",
+      "Rs.220"
+    ],
+    "answer": 1,
+    "explanation": "A = 1000(1.1)^2 = 1210; CI = 210.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "compound",
+      "interest",
+      "years"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

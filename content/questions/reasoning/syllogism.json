@@ -1,0 +1,46 @@
+[
+  {
+    "id": "R9",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Syllogism",
+    "subtopic": "Syllogism",
+    "difficulty": "Medium",
+    "question": "All cats are animals. All animals are living. Conclusion: All cats are living. This is:",
+    "options": [
+      "True",
+      "False",
+      "Cannot say",
+      "Partly true"
+    ],
+    "answer": 0,
+    "explanation": "Chain: cats -> animals -> living, so all cats are living is valid.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "syllogism",
+      "cats",
+      "animals",
+      "living",
+      "conclusion",
+      "this"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

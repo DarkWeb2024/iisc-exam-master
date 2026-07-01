@@ -1,0 +1,339 @@
+[
+  {
+    "id": "X-REASONING-1",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find the next term: 5, 11, 17, 23, ?",
+    "options": [
+      "27",
+      "29",
+      "28",
+      "31"
+    ],
+    "answer": 1,
+    "explanation": "Add 6 each time → 29.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-2",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Medium",
+    "question": "Find the next term: 100, 96, 88, 76, ?",
+    "options": [
+      "64",
+      "60",
+      "62",
+      "58"
+    ],
+    "answer": 1,
+    "explanation": "Differences −4, −8, −12, −16 → 76 − 16 = 60.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-3",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Classification",
+    "subtopic": "Classification",
+    "difficulty": "Easy",
+    "question": "Find the odd one out: 3, 5, 7, 9, 11",
+    "options": [
+      "3",
+      "5",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "9 is not a prime number; the rest are primes.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "classification",
+      "find"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-4",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Analogy",
+    "subtopic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Cow : Calf :: Dog : ?",
+    "options": [
+      "Kitten",
+      "Puppy",
+      "Cub",
+      "Foal"
+    ],
+    "answer": 1,
+    "explanation": "A young dog is a puppy.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "analogy",
+      "calf"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-5",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find the next term: 7, 14, 28, 56, ?",
+    "options": [
+      "96",
+      "112",
+      "98",
+      "108"
+    ],
+    "answer": 1,
+    "explanation": "Each term × 2 → 112.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-6",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Alphabet Series",
+    "subtopic": "Alphabet Series",
+    "difficulty": "Easy",
+    "question": "Find the next letter: B, D, F, H, ?",
+    "options": [
+      "I",
+      "J",
+      "K",
+      "G"
+    ],
+    "answer": 1,
+    "explanation": "Skip one letter each time → J.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "alphabet",
+      "series",
+      "find",
+      "next",
+      "letter"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-7",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Coding-Decoding",
+    "subtopic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If A=1, B=2 …, the sum of the letters in 'DOG' is?",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "22"
+    ],
+    "answer": 1,
+    "explanation": "D(4)+O(15)+G(7) = 26.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "coding",
+      "decoding",
+      "letters"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-REASONING-8",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Direction Sense",
+    "subtopic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "Facing South-East, you turn 90° clockwise. You now face?",
+    "options": [
+      "North-East",
+      "South-West",
+      "North-West",
+      "East"
+    ],
+    "answer": 1,
+    "explanation": "South-East + 90° clockwise → South-West.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "direction",
+      "sense",
+      "facing",
+      "south",
+      "east",
+      "turn"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

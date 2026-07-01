@@ -1,0 +1,136 @@
+[
+  {
+    "id": "G3",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Medium",
+    "question": "What is the national aquatic animal of India?",
+    "options": [
+      "Blue whale",
+      "Ganges River Dolphin",
+      "Sea turtle",
+      "Gharial"
+    ],
+    "answer": 1,
+    "explanation": "The Ganges River Dolphin is the national aquatic animal (a common trap answer is 'whale').",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "what",
+      "aquatic",
+      "animal",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G4",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Easy",
+    "question": "Who wrote the national song 'Vande Mataram'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Sarojini Naidu",
+      "Muhammad Iqbal"
+    ],
+    "answer": 1,
+    "explanation": "Vande Mataram was written by Bankim Chandra Chatterjee. (The anthem Jana Gana Mana is by Tagore.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "wrote",
+      "song",
+      "vande",
+      "mataram"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G9",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Medium",
+    "question": "India's national emblem is adapted from which monument?",
+    "options": [
+      "Sanchi Stupa",
+      "Lion Capital of Ashoka at Sarnath",
+      "Qutub Minar",
+      "Konark Temple"
+    ],
+    "answer": 1,
+    "explanation": "The national emblem is adapted from the Lion Capital of Ashoka at Sarnath.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "india",
+      "emblem",
+      "adapted",
+      "from",
+      "which",
+      "monument"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

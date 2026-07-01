@@ -1,0 +1,87 @@
+[
+  {
+    "id": "Q1",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Percentage",
+    "subtopic": "Percentage",
+    "difficulty": "Easy",
+    "question": "What is 20% of 150?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "150 x 20/100 = 30.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "percentage",
+      "what"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "Q11",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Percentage",
+    "subtopic": "Percentage",
+    "difficulty": "Medium",
+    "question": "A price rises 20% then falls 10%. Net percentage change is:",
+    "options": [
+      "+10%",
+      "+8%",
+      "+12%",
+      "+6%"
+    ],
+    "answer": 1,
+    "explanation": "Net = 20 - 10 - (20x10/100) = +8%.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "percentage",
+      "price",
+      "rises",
+      "then",
+      "falls",
+      "change"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

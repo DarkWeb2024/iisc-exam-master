@@ -1,0 +1,43 @@
+[
+  {
+    "id": "R14",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Symbols",
+    "subtopic": "Symbols",
+    "difficulty": "Hard",
+    "question": "If '+' means x, 'x' means -, '-' means +, then 6 + 2 x 4 - 3 = ?",
+    "options": [
+      "11",
+      "9",
+      "12",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Replace: 6x2-4+3 = 12-4+3 = 11.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 75,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "symbols",
+      "means",
+      "then"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

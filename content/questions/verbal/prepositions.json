@@ -1,0 +1,45 @@
+[
+  {
+    "id": "V4",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Prepositions",
+    "subtopic": "Prepositions",
+    "difficulty": "Easy",
+    "question": "Fill in the blank: 'He is good ___ mathematics.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": 1,
+    "explanation": "The correct collocation is 'good at'.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "prepositions",
+      "fill",
+      "blank",
+      "good",
+      "mathematics"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "GOLD-COMPUTER-1",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory",
+    "subtopic": "RAM",
+    "difficulty": "Easy",
+    "question": "Which statement about RAM is correct?",
+    "options": [
+      "RAM is non-volatile",
+      "RAM retains data without power",
+      "RAM loses its data when power is switched off",
+      "RAM is permanent storage"
+    ],
+    "answer": 2,
+    "explanation": "RAM (Random Access Memory) is volatile primary memory — its contents are erased when power is removed.",
+    "whyWrong": [
+      "Wrong: RAM is volatile, not non-volatile (ROM is non-volatile).",
+      "Wrong: RAM needs continuous power to retain data.",
+      "Correct: volatility means data is lost on power-off.",
+      "Wrong: RAM is temporary working memory, not permanent storage."
+    ],
+    "memoryTrick": "RAM = 'Running-power' memory — needs power to Remember.",
+    "commonMistake": "Confusing RAM (volatile) with ROM (non-volatile).",
+    "relatedTopic": "Memory hierarchy; ROM",
+    "revisionNote": "RAM volatile · ROM non-volatile · order Register>Cache>RAM>Disk",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Memory",
+      "Easy"
+    ],
+    "keywords": [
+      "memory",
+      "which",
+      "statement",
+      "about",
+      "correct"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "GOLD-COMPUTER-2",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Generations",
+    "subtopic": "Microprocessor",
+    "difficulty": "Medium",
+    "question": "Which generation of computers introduced the microprocessor?",
+    "options": [
+      "First generation",
+      "Second generation",
+      "Third generation",
+      "Fourth generation"
+    ],
+    "answer": 3,
+    "explanation": "The fourth generation (1971 onward) introduced the microprocessor (VLSI).",
+    "whyWrong": [
+      "Wrong: 1st gen used vacuum tubes.",
+      "Wrong: 2nd gen used transistors.",
+      "Wrong: 3rd gen used integrated circuits (ICs).",
+      "Correct: 4th gen = microprocessors."
+    ],
+    "memoryTrick": "'TIC-M': Tube, Transistor, IC, Microprocessor (gens 1-4).",
+    "commonMistake": "Mixing up IC (3rd) with microprocessor (4th).",
+    "relatedTopic": "Generations of computers",
+    "revisionNote": "Vacuum tube→Transistor→IC→Microprocessor→AI",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Generations",
+      "Medium"
+    ],
+    "keywords": [
+      "generations",
+      "which",
+      "generation",
+      "computers",
+      "introduced",
+      "microprocessor"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "G19",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Culture",
+    "subtopic": "Culture",
+    "difficulty": "Easy",
+    "question": "Bharatanatyam is a classical dance form of which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Bharatanatyam originates from Tamil Nadu.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "KPSC",
+      "SSC"
+    ],
+    "keywords": [
+      "culture",
+      "bharatanatyam",
+      "classical",
+      "dance",
+      "form",
+      "which",
+      "state"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G25",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Culture",
+    "subtopic": "Culture",
+    "difficulty": "Medium",
+    "question": "Kathakali is a classical dance form of which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Assam",
+      "Manipur"
+    ],
+    "answer": 0,
+    "explanation": "Kathakali and Mohiniyattam belong to Kerala.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "KPSC"
+    ],
+    "keywords": [
+      "culture",
+      "kathakali",
+      "classical",
+      "dance",
+      "form",
+      "which",
+      "state"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

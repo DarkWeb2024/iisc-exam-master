@@ -1,0 +1,419 @@
+[
+  {
+    "id": "X-COMPUTER-1",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory Units",
+    "subtopic": "Memory Units",
+    "difficulty": "Easy",
+    "question": "1 MB equals how many KB?",
+    "options": [
+      "1000",
+      "1024",
+      "512",
+      "2048"
+    ],
+    "answer": 1,
+    "explanation": "1 MB = 1024 KB.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "memory",
+      "units",
+      "equals",
+      "many"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-2",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Devices",
+    "subtopic": "Devices",
+    "difficulty": "Easy",
+    "question": "Which of the following is an OUTPUT device?",
+    "options": [
+      "Keyboard",
+      "Scanner",
+      "Monitor",
+      "Mouse"
+    ],
+    "answer": 2,
+    "explanation": "Monitor displays output; the rest are input devices.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "devices",
+      "which",
+      "following",
+      "output",
+      "device"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-3",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "USB stands for?",
+    "options": [
+      "Universal Serial Bus",
+      "Unified System Bus",
+      "Universal System Board",
+      "United Serial Bus"
+    ],
+    "answer": 0,
+    "explanation": "USB = Universal Serial Bus.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "abbreviations",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-4",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Generations",
+    "subtopic": "Generations",
+    "difficulty": "Easy",
+    "question": "The first generation of computers used?",
+    "options": [
+      "Transistors",
+      "Vacuum tubes",
+      "Integrated circuits",
+      "Microprocessors"
+    ],
+    "answer": 1,
+    "explanation": "First generation used vacuum tubes.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "generations",
+      "first",
+      "generation",
+      "computers",
+      "used"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-5",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Shortcuts",
+    "subtopic": "Shortcuts",
+    "difficulty": "Easy",
+    "question": "Ctrl + P is used to?",
+    "options": [
+      "Paste",
+      "Print",
+      "Preview",
+      "Protect"
+    ],
+    "answer": 1,
+    "explanation": "Ctrl+P opens the print dialog.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "shortcuts",
+      "ctrl",
+      "used"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-6",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Devices",
+    "subtopic": "Devices",
+    "difficulty": "Medium",
+    "question": "Which of these is a secondary STORAGE device?",
+    "options": [
+      "RAM",
+      "ALU",
+      "Hard disk",
+      "CPU"
+    ],
+    "answer": 2,
+    "explanation": "A hard disk is secondary (non-volatile) storage; RAM is primary memory.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "devices",
+      "which",
+      "these",
+      "secondary",
+      "storage",
+      "device"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-7",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "GUI stands for?",
+    "options": [
+      "Graphical User Interface",
+      "General User Interface",
+      "Graphical Unified Interface",
+      "Global User Interface"
+    ],
+    "answer": 0,
+    "explanation": "GUI = Graphical User Interface.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "abbreviations",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-8",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "MS Office",
+    "subtopic": "MS Office",
+    "difficulty": "Easy",
+    "question": "A file with the .pptx extension is created by?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS PowerPoint",
+      "MS Access"
+    ],
+    "answer": 2,
+    "explanation": ".pptx is a PowerPoint presentation.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "office",
+      "file",
+      "with",
+      "pptx",
+      "extension",
+      "created"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-9",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Shortcuts",
+    "subtopic": "Shortcuts",
+    "difficulty": "Medium",
+    "question": "Alt + F4 is used to?",
+    "options": [
+      "Refresh",
+      "Close the active window",
+      "Open help",
+      "Switch tabs"
+    ],
+    "answer": 1,
+    "explanation": "Alt+F4 closes the active window.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "shortcuts",
+      "used"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-COMPUTER-10",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "LAN stands for?",
+    "options": [
+      "Local Area Network",
+      "Large Area Network",
+      "Linked Access Network",
+      "Local Access Node"
+    ],
+    "answer": 0,
+    "explanation": "LAN = Local Area Network.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "abbreviations",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

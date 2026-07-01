@@ -1,0 +1,45 @@
+[
+  {
+    "id": "R8",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Blood Relations",
+    "subtopic": "Blood Relations",
+    "difficulty": "Medium",
+    "question": "A man says, 'He is the son of my mother's only son.' The boy is the man's:",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "answer": 1,
+    "explanation": "'My mother's only son' is the man himself; so the boy is his son.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "blood",
+      "relations",
+      "says",
+      "mother",
+      "only"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

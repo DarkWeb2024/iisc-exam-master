@@ -1,0 +1,109 @@
+[
+  {
+    "id": "GOLD-GK-1",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "Polity",
+    "subtopic": "Fundamental Rights",
+    "difficulty": "Easy",
+    "question": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies?",
+    "options": [
+      "Article 19",
+      "Article 21",
+      "Article 32",
+      "Article 44"
+    ],
+    "answer": 2,
+    "explanation": "Article 32 guarantees the Right to Constitutional Remedies; Dr. Ambedkar called it the 'heart and soul' of the Constitution.",
+    "whyWrong": [
+      "Wrong: Article 19 covers the six freedoms.",
+      "Wrong: Article 21 covers the right to life and liberty.",
+      "Correct: Article 32 = constitutional remedies.",
+      "Wrong: Article 44 is a Directive Principle (Uniform Civil Code)."
+    ],
+    "memoryTrick": "'32 = heart and soul' — lock this pair.",
+    "commonMistake": "Confusing Article 32 (remedies) with 21 (life).",
+    "relatedTopic": "Fundamental Rights",
+    "revisionNote": "Art 14 equality · 19 freedoms · 21 life · 32 remedies",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Polity",
+      "Easy"
+    ],
+    "keywords": [
+      "polity",
+      "which",
+      "article",
+      "indian",
+      "constitution",
+      "guarantees"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "GOLD-GK-2",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "Geography",
+    "subtopic": "Extremities of India",
+    "difficulty": "Medium",
+    "question": "What is the southernmost tip of the Indian mainland?",
+    "options": [
+      "Indira Point",
+      "Kanyakumari",
+      "Rameswaram",
+      "Point Calimere"
+    ],
+    "answer": 1,
+    "explanation": "Kanyakumari (Cape Comorin) is the southernmost point of the Indian mainland.",
+    "whyWrong": [
+      "Wrong: Indira Point is the southernmost point of India INCLUDING islands (in the Nicobar Islands), not the mainland.",
+      "Correct: Kanyakumari is the mainland's southern tip.",
+      "Wrong: Rameswaram is an island town in Tamil Nadu, not the southern tip.",
+      "Wrong: Point Calimere is on the south-east coast, not the southern tip."
+    ],
+    "memoryTrick": "Mainland → Kanyakumari; whole of India (with islands) → Indira Point.",
+    "commonMistake": "Answering 'Indira Point' when the question says MAINLAND.",
+    "relatedTopic": "Indian geography",
+    "revisionNote": "Kanyakumari = mainland south · Indira Point = India south (islands)",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Geography",
+      "Medium"
+    ],
+    "keywords": [
+      "geography",
+      "what",
+      "southernmost",
+      "indian",
+      "mainland"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

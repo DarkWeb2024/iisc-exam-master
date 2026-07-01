@@ -1,0 +1,45 @@
+[
+  {
+    "id": "R11",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Alphabet Series",
+    "subtopic": "Alphabet Series",
+    "difficulty": "Easy",
+    "question": "Find the next letter: A, C, E, G, ?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "answer": 1,
+    "explanation": "Skip one letter each time: A,C,E,G,I.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "alphabet",
+      "series",
+      "find",
+      "next",
+      "letter"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

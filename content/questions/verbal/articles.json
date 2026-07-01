@@ -1,0 +1,45 @@
+[
+  {
+    "id": "V9",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Articles",
+    "subtopic": "Articles",
+    "difficulty": "Easy",
+    "question": "Choose the correct article: 'He is ___ honest man.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "'Honest' begins with a vowel sound, so 'an' is used.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "articles",
+      "choose",
+      "correct",
+      "article",
+      "honest"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

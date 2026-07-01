@@ -1,0 +1,138 @@
+[
+  {
+    "id": "G13",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Economy",
+    "subtopic": "Economy",
+    "difficulty": "Easy",
+    "question": "In which year was the Reserve Bank of India (RBI) established?",
+    "options": [
+      "1935",
+      "1947",
+      "1949",
+      "1955"
+    ],
+    "answer": 0,
+    "explanation": "The RBI was established in 1935; its headquarters is in Mumbai.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Banking",
+      "SSC"
+    ],
+    "keywords": [
+      "economy",
+      "which",
+      "year",
+      "reserve",
+      "bank",
+      "india",
+      "established"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G14",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Economy",
+    "subtopic": "Economy",
+    "difficulty": "Easy",
+    "question": "NITI Aayog replaced which earlier body in 2015?",
+    "options": [
+      "Finance Commission",
+      "Planning Commission",
+      "Election Commission",
+      "UPSC"
+    ],
+    "answer": 1,
+    "explanation": "NITI Aayog (2015) replaced the Planning Commission.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "economy",
+      "niti",
+      "aayog",
+      "replaced",
+      "which",
+      "earlier",
+      "body"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "G15",
+    "subject": "general_awareness",
+    "section": "general_awareness",
+    "topic": "Economy",
+    "subtopic": "Economy",
+    "difficulty": "Easy",
+    "question": "From which date was GST implemented in India?",
+    "options": [
+      "1 April 2016",
+      "1 July 2017",
+      "1 January 2017",
+      "15 August 2017"
+    ],
+    "answer": 1,
+    "explanation": "GST came into effect on 1 July 2017.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Banking"
+    ],
+    "keywords": [
+      "economy",
+      "from",
+      "which",
+      "date",
+      "implemented",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

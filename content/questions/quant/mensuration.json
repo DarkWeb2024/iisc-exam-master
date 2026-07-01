@@ -1,0 +1,131 @@
+[
+  {
+    "id": "Q8",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Mensuration",
+    "subtopic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "Area of a circle with radius 7 (use pi = 22/7):",
+    "options": [
+      "154",
+      "144",
+      "49",
+      "308"
+    ],
+    "answer": 0,
+    "explanation": "Area = 22/7 x 7 x 7 = 154.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "mensuration",
+      "area",
+      "circle",
+      "with",
+      "radius"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "Q10",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Mensuration",
+    "subtopic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "Volume of a cube with side 5 cm:",
+    "options": [
+      "25",
+      "75",
+      "125",
+      "150"
+    ],
+    "answer": 2,
+    "explanation": "V = 5^3 = 125.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "mensuration",
+      "volume",
+      "cube",
+      "with",
+      "side"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "Q17",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Mensuration",
+    "subtopic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "The diagonal of a square with side 4 is:",
+    "options": [
+      "8",
+      "4√2",
+      "16",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Diagonal = side x √2 = 4√2.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "mensuration",
+      "diagonal",
+      "square",
+      "with",
+      "side"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

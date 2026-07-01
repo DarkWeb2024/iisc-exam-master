@@ -1,0 +1,41 @@
+[
+  {
+    "id": "C11",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "E-Governance",
+    "subtopic": "E-Governance",
+    "difficulty": "Easy",
+    "question": "In e-governance, 'G2C' stands for:",
+    "options": [
+      "Government to Company",
+      "Government to Citizen",
+      "Government to Cabinet",
+      "Global to Citizen"
+    ],
+    "answer": 1,
+    "explanation": "G2C = Government to Citizen. Named in the IISc syllabus.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Rarely Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc"
+    ],
+    "keywords": [
+      "governance",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

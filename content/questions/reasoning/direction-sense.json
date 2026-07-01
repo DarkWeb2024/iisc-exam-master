@@ -1,0 +1,49 @@
+[
+  {
+    "id": "R7",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Direction Sense",
+    "subtopic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "A man walks 6 km North, then 8 km East. How far is he from the start?",
+    "options": [
+      "10 km",
+      "14 km",
+      "12 km",
+      "2 km"
+    ],
+    "answer": 0,
+    "explanation": "√(6^2+8^2) = √100 = 10 km.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "direction",
+      "sense",
+      "walks",
+      "north",
+      "then",
+      "east",
+      "from",
+      "start"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

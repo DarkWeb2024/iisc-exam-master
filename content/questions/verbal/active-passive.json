@@ -1,0 +1,45 @@
+[
+  {
+    "id": "V10",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Active/Passive",
+    "subtopic": "Active/Passive",
+    "difficulty": "Medium",
+    "question": "Passive voice of 'She sings a song':",
+    "options": [
+      "A song is sung by her",
+      "A song was sung by her",
+      "A song sang by her",
+      "A song is singing"
+    ],
+    "answer": 0,
+    "explanation": "Present simple passive: 'A song is sung by her.'",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "active",
+      "passive",
+      "voice",
+      "sings",
+      "song"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

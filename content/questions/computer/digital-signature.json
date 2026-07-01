@@ -1,0 +1,43 @@
+[
+  {
+    "id": "C12",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Digital Signature",
+    "subtopic": "Digital Signature",
+    "difficulty": "Medium",
+    "question": "A digital signature is primarily used to:",
+    "options": [
+      "Compress a file",
+      "Authenticate an electronic record",
+      "Delete a virus",
+      "Print a document"
+    ],
+    "answer": 1,
+    "explanation": "A digital signature authenticates electronic records and is legally recognised under the IT Act 2000.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Rarely Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc"
+    ],
+    "keywords": [
+      "digital",
+      "signature",
+      "primarily",
+      "used"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

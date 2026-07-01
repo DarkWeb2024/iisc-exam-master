@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C4",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Fundamentals",
+    "subtopic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Who is known as the father of the computer?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John McCarthy",
+      "Ada Lovelace"
+    ],
+    "answer": 1,
+    "explanation": "Charles Babbage designed the Analytical Engine and is called the father of the computer.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "KPSC"
+    ],
+    "keywords": [
+      "fundamentals",
+      "known",
+      "father",
+      "computer"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C24",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Fundamentals",
+    "subtopic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which number system does a computer use internally?",
+    "options": [
+      "Decimal",
+      "Octal",
+      "Binary",
+      "Hexadecimal"
+    ],
+    "answer": 2,
+    "explanation": "Computers use the binary system (base 2: 0 and 1) internally.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "fundamentals",
+      "which",
+      "number",
+      "system",
+      "does",
+      "computer",
+      "internally"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C29",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Fundamentals",
+    "subtopic": "Fundamentals",
+    "difficulty": "Medium",
+    "question": "Who is regarded as the world's first computer programmer?",
+    "options": [
+      "Charles Babbage",
+      "Ada Lovelace",
+      "John von Neumann",
+      "Alan Turing"
+    ],
+    "answer": 1,
+    "explanation": "Ada Lovelace wrote the first algorithm for Babbage's Analytical Engine.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "fundamentals",
+      "regarded",
+      "world",
+      "first",
+      "computer",
+      "programmer"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

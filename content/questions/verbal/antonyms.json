@@ -1,0 +1,44 @@
+[
+  {
+    "id": "V6",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "difficulty": "Medium",
+    "question": "Choose the antonym of 'Frugal':",
+    "options": [
+      "Thrifty",
+      "Extravagant",
+      "Economical",
+      "Careful"
+    ],
+    "answer": 1,
+    "explanation": "Frugal means economical; its antonym is extravagant.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "antonyms",
+      "choose",
+      "antonym",
+      "frugal"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

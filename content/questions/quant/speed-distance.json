@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Q7",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Speed & Distance",
+    "subtopic": "Speed & Distance",
+    "difficulty": "Easy",
+    "question": "Convert 72 km/h into m/s.",
+    "options": [
+      "18",
+      "20",
+      "25",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "72 x 5/18 = 20 m/s.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "speed",
+      "distance",
+      "convert",
+      "into"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

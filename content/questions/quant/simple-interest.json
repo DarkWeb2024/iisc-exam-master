@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Q3",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Simple Interest",
+    "subtopic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "Simple interest on Rs.2000 at 5% p.a. for 3 years is:",
+    "options": [
+      "Rs.300",
+      "Rs.200",
+      "Rs.350",
+      "Rs.250"
+    ],
+    "answer": 0,
+    "explanation": "SI = PRT/100 = 2000x5x3/100 = 300.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "simple",
+      "interest",
+      "years"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

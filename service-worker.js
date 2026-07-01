@@ -28,6 +28,20 @@ self.addEventListener("activate", function (e) {
     return Promise.all(keys.map(function (k) { if (k !== CACHE) return caches.delete(k); }));
   }).then(function(){ return self.clients.claim(); }));
 });
+/* Stale-while-revalidate: serve from cache instantly (offline-capable), but fetch a
+   fresh copy in the background and update the cache — so content/question-bank updates
+   propagate on the next load without needing a cache-version bump. */
 self.addEventListener("fetch", function (e) {
-  e.respondWith(caches.match(e.request).then(function (r) { return r || fetch(e.request); }));
+  if (e.request.method !== "GET") return;
+  e.respondWith(
+    caches.open(CACHE).then(function (cache) {
+      return cache.match(e.request).then(function (cached) {
+        var network = fetch(e.request).then(function (resp) {
+          if (resp && resp.status === 200 && e.request.url.indexOf("http") === 0) cache.put(e.request, resp.clone());
+          return resp;
+        }).catch(function () { return cached; });
+        return cached || network;
+      });
+    })
+  );
 });

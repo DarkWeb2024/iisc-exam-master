@@ -1,0 +1,418 @@
+[
+  {
+    "id": "X-QUANT-1",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Percentage",
+    "subtopic": "Percentage",
+    "difficulty": "Easy",
+    "question": "40% of 250 is?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "90"
+    ],
+    "answer": 1,
+    "explanation": "250 × 40/100 = 100.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "percentage"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-2",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Profit & Loss",
+    "subtopic": "Profit & Loss",
+    "difficulty": "Easy",
+    "question": "CP = 250, SP = 200. The loss% is?",
+    "options": [
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
+    "answer": 1,
+    "explanation": "Loss = 50; loss% = 50/250 × 100 = 20% (on CP).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "profit",
+      "loss",
+      "loss"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-3",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Simple Interest",
+    "subtopic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "SI on Rs.4000 at 6% p.a. for 2 years?",
+    "options": [
+      "Rs.480",
+      "Rs.400",
+      "Rs.520",
+      "Rs.360"
+    ],
+    "answer": 0,
+    "explanation": "SI = 4000×6×2/100 = 480.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "simple",
+      "interest",
+      "years"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-4",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Average",
+    "subtopic": "Average",
+    "difficulty": "Easy",
+    "question": "The average of 2, 4, 6, 8 is?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Sum 20 / 4 = 5.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "average",
+      "average"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-5",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Ratio",
+    "subtopic": "Ratio",
+    "difficulty": "Medium",
+    "question": "Divide Rs.480 in the ratio 5:7. The smaller share is?",
+    "options": [
+      "Rs.200",
+      "Rs.280",
+      "Rs.240",
+      "Rs.180"
+    ],
+    "answer": 0,
+    "explanation": "Total parts 12; smaller = 480 × 5/12 = 200.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "ratio",
+      "divide",
+      "ratio",
+      "smaller",
+      "share"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-6",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Time & Work",
+    "subtopic": "Time & Work",
+    "difficulty": "Medium",
+    "question": "A finishes a job in 20 days, B in 30 days. Together they take?",
+    "options": [
+      "10 days",
+      "12 days",
+      "15 days",
+      "14 days"
+    ],
+    "answer": 1,
+    "explanation": "20×30/(20+30) = 600/50 = 12 days.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "time",
+      "work",
+      "finishes",
+      "days",
+      "days",
+      "together"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-7",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Speed & Distance",
+    "subtopic": "Speed & Distance",
+    "difficulty": "Easy",
+    "question": "Convert 108 km/h into m/s.",
+    "options": [
+      "27",
+      "30",
+      "33",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "108 × 5/18 = 30 m/s.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "speed",
+      "distance",
+      "convert",
+      "into"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-8",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Mensuration",
+    "subtopic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "Area of a square with side 9 cm?",
+    "options": [
+      "18",
+      "72",
+      "81",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Area = 9² = 81.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "mensuration",
+      "area",
+      "square",
+      "with",
+      "side"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-9",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Percentage",
+    "subtopic": "Percentage",
+    "difficulty": "Easy",
+    "question": "15% of 300 is?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "300 × 15/100 = 45.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "percentage"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-QUANT-10",
+    "subject": "quant",
+    "section": "quant",
+    "topic": "Mensuration",
+    "subtopic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "Perimeter of a rectangle with length 8 and breadth 5?",
+    "options": [
+      "13",
+      "26",
+      "40",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "2(8+5) = 26.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "mensuration",
+      "perimeter",
+      "rectangle",
+      "with",
+      "length",
+      "breadth"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

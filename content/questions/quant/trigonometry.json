@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Q13",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "Easy",
+    "question": "Value of sin 30 + cos 60:",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "1/2 + 1/2 = 1.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "trigonometry",
+      "value"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

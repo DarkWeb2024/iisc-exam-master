@@ -1,0 +1,48 @@
+[
+  {
+    "id": "Q6",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Time & Work",
+    "subtopic": "Time & Work",
+    "difficulty": "Medium",
+    "question": "A does a job in 10 days, B in 15 days. Together they finish in:",
+    "options": [
+      "5 days",
+      "6 days",
+      "8 days",
+      "7 days"
+    ],
+    "answer": 1,
+    "explanation": "Together = 10x15/(10+15) = 150/25 = 6 days.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "time",
+      "work",
+      "does",
+      "days",
+      "together",
+      "they",
+      "finish"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

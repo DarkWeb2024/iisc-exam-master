@@ -1,0 +1,135 @@
+[
+  {
+    "id": "C13",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Devices",
+    "subtopic": "Devices",
+    "difficulty": "Easy",
+    "question": "Which of the following is an INPUT device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "answer": 2,
+    "explanation": "Keyboard is an input device; monitor/printer/speaker are output devices.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "devices",
+      "which",
+      "following",
+      "input",
+      "device"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C14",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Devices",
+    "subtopic": "Devices",
+    "difficulty": "Medium",
+    "question": "Which device is BOTH an input and an output device?",
+    "options": [
+      "Scanner",
+      "Touchscreen",
+      "Mouse",
+      "Printer"
+    ],
+    "answer": 1,
+    "explanation": "A touchscreen both displays output and receives touch input. (Modem is another example.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "devices",
+      "which",
+      "device",
+      "both",
+      "input",
+      "output"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C28",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Devices",
+    "subtopic": "Devices",
+    "difficulty": "Medium",
+    "question": "MICR technology is mainly used in which sector?",
+    "options": [
+      "Railways",
+      "Banking (cheque processing)",
+      "Agriculture",
+      "Telecom"
+    ],
+    "answer": 1,
+    "explanation": "MICR (Magnetic Ink Character Recognition) is used to process bank cheques.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Banking"
+    ],
+    "keywords": [
+      "devices",
+      "micr",
+      "technology",
+      "mainly",
+      "used",
+      "which",
+      "sector"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

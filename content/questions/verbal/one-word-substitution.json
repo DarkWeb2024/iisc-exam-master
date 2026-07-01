@@ -1,0 +1,134 @@
+[
+  {
+    "id": "V1",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "One-word Substitution",
+    "subtopic": "One-word Substitution",
+    "difficulty": "Easy",
+    "question": "One word for 'a place where birds are kept':",
+    "options": [
+      "Apiary",
+      "Aviary",
+      "Stable",
+      "Kennel"
+    ],
+    "answer": 1,
+    "explanation": "Aviary = birds; Apiary = bees; Stable = horses; Kennel = dogs.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "word",
+      "substitution",
+      "place",
+      "where",
+      "birds",
+      "kept"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "V7",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "One-word Substitution",
+    "subtopic": "One-word Substitution",
+    "difficulty": "Medium",
+    "question": "One word for 'that which cannot be avoided':",
+    "options": [
+      "Incredible",
+      "Invincible",
+      "Inevitable",
+      "Illegible"
+    ],
+    "answer": 2,
+    "explanation": "Inevitable = cannot be avoided.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "word",
+      "substitution",
+      "that",
+      "which",
+      "cannot",
+      "avoided"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "V12",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "One-word Substitution",
+    "subtopic": "One-word Substitution",
+    "difficulty": "Medium",
+    "question": "One word for 'a speech made without preparation':",
+    "options": [
+      "Extempore",
+      "Eloquent",
+      "Verbose",
+      "Fluent"
+    ],
+    "answer": 0,
+    "explanation": "Extempore = spoken without prior preparation.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "word",
+      "substitution",
+      "speech",
+      "made",
+      "without",
+      "preparation"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

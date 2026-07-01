@@ -1,0 +1,261 @@
+[
+  {
+    "id": "X-GK-1",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "Polity",
+    "subtopic": "Polity",
+    "difficulty": "Easy",
+    "question": "Who was the first President of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Dr. B. R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "answer": 1,
+    "explanation": "Dr. Rajendra Prasad was the first President of India.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "polity",
+      "first",
+      "president",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-GK-2",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Easy",
+    "question": "What is the national flower of India?",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Sunflower",
+      "Marigold"
+    ],
+    "answer": 1,
+    "explanation": "The lotus is the national flower of India.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "what",
+      "national",
+      "flower",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-GK-3",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Easy",
+    "question": "What is the national bird of India?",
+    "options": [
+      "Peacock",
+      "Parrot",
+      "Eagle",
+      "Sparrow"
+    ],
+    "answer": 0,
+    "explanation": "The Indian peacock is the national bird.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "what",
+      "national",
+      "bird",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-GK-4",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "Medium",
+    "question": "How many spokes are there in the Ashoka Chakra on the national flag?",
+    "options": [
+      "12",
+      "24",
+      "32",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "The Ashoka Chakra has 24 spokes.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Medium"
+    ],
+    "keywords": [
+      "national",
+      "symbols",
+      "many",
+      "spokes",
+      "there",
+      "ashoka"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-GK-5",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "History",
+    "subtopic": "History",
+    "difficulty": "Easy",
+    "question": "Who is known as the 'Father of the Nation' in India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Bhagat Singh"
+    ],
+    "answer": 1,
+    "explanation": "Mahatma Gandhi is called the Father of the Nation.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "history",
+      "known",
+      "father",
+      "nation",
+      "india"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "X-GK-6",
+    "subject": "gk",
+    "section": "gk",
+    "topic": "Geography",
+    "subtopic": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Karnataka?",
+    "options": [
+      "Mysuru",
+      "Bengaluru",
+      "Hubli",
+      "Mangaluru"
+    ],
+    "answer": 1,
+    "explanation": "Bengaluru is the capital of Karnataka.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Easy"
+    ],
+    "keywords": [
+      "geography",
+      "what",
+      "capital",
+      "karnataka"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "C3",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "What is the full form of CPU?",
+    "options": [
+      "Central Program Unit",
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Processor Utility"
+    ],
+    "answer": 1,
+    "explanation": "CPU = Central Processing Unit, the processor of the computer.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "abbreviations",
+      "what",
+      "full",
+      "form"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C16",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "HTTP stands for:",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transmission Path",
+      "Host Transfer Text Protocol"
+    ],
+    "answer": 0,
+    "explanation": "HTTP = HyperText Transfer Protocol, used to transfer web pages.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "abbreviations",
+      "http",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C21",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Easy",
+    "question": "ALU (a part of the CPU) stands for:",
+    "options": [
+      "Automatic Logic Unit",
+      "Arithmetic Logic Unit",
+      "Advanced Logic Unit",
+      "Arithmetic Language Unit"
+    ],
+    "answer": 1,
+    "explanation": "ALU = Arithmetic Logic Unit; it performs calculations and comparisons.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "abbreviations",
+      "part",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C27",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Abbreviations",
+    "subtopic": "Abbreviations",
+    "difficulty": "Medium",
+    "question": "BIOS stands for:",
+    "options": [
+      "Basic Input Output System",
+      "Binary Input Output System",
+      "Basic Internal Operating System",
+      "Boot Input Output System"
+    ],
+    "answer": 0,
+    "explanation": "BIOS = Basic Input Output System; it starts the computer at power-on.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "abbreviations",
+      "bios",
+      "stands"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

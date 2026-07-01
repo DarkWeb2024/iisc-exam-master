@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Q14",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "HCF/LCM",
+    "subtopic": "HCF/LCM",
+    "difficulty": "Medium",
+    "question": "HCF and LCM of two numbers are 4 and 48. If one number is 16, the other is:",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Product = HCFxLCM = 192; other = 192/16 = 12.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "numbers",
+      "number",
+      "other"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

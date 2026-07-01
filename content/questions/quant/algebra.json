@@ -1,0 +1,41 @@
+[
+  {
+    "id": "Q12",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Algebra",
+    "subtopic": "Algebra",
+    "difficulty": "Medium",
+    "question": "(a+b)^2 - (a-b)^2 = ?",
+    "options": [
+      "2ab",
+      "4ab",
+      "a^2+b^2",
+      "2a^2"
+    ],
+    "answer": 1,
+    "explanation": "Expands to 4ab.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "algebra"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

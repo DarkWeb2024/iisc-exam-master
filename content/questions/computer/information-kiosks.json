@@ -1,0 +1,45 @@
+[
+  {
+    "id": "C30",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Information Kiosks",
+    "subtopic": "Information Kiosks",
+    "difficulty": "Medium",
+    "question": "An 'information kiosk' is best described as:",
+    "options": [
+      "A type of computer virus",
+      "A self-service public information terminal",
+      "A network cable",
+      "A cloud server"
+    ],
+    "answer": 1,
+    "explanation": "An information kiosk is a self-service terminal providing information/services to the public. Named in the IISc syllabus.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Expected Question",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Predicted"
+    ],
+    "keywords": [
+      "information",
+      "kiosks",
+      "kiosk",
+      "best",
+      "described"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

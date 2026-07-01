@@ -1,0 +1,109 @@
+[
+  {
+    "id": "GOLD-REASONING-1",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Blood Relations",
+    "subtopic": "Family tree",
+    "difficulty": "Medium",
+    "question": "Pointing to a woman, a man said, 'She is the daughter of my grandfather's only son.' How is the woman related to the man?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Daughter"
+    ],
+    "answer": 1,
+    "explanation": "Grandfather's only son = the man's father. The father's daughter = the man's sister.",
+    "whyWrong": [
+      "Wrong: his mother is his father's wife, not daughter.",
+      "Correct: father's daughter = sister.",
+      "Wrong: an aunt would be the father's sister.",
+      "Wrong: his daughter would be his own child."
+    ],
+    "memoryTrick": "'Grandfather's only son' almost always = the speaker's father.",
+    "commonMistake": "Assuming 'only son' = the speaker himself (only true if the speaker is male AND the only son).",
+    "relatedTopic": "Blood relations",
+    "revisionNote": "Draw a tree; solve outward from the speaker",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Blood Relations",
+      "Medium"
+    ],
+    "keywords": [
+      "blood",
+      "relations",
+      "pointing",
+      "woman",
+      "said",
+      "daughter"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "GOLD-REASONING-2",
+    "subject": "reasoning",
+    "section": "reasoning",
+    "topic": "Number Series",
+    "subtopic": "Squares +1",
+    "difficulty": "Medium",
+    "question": "Find the next term: 2, 5, 10, 17, 26, ?",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 3, 5, 7, 9 (odd numbers). The next difference is 11, so 26 + 11 = 37. (Also n²+1: 1,4,9,16,25,36 +1.)",
+    "whyWrong": [
+      "Wrong: that adds 9, not 11.",
+      "Wrong: 36 = 6², but the pattern is n²+1.",
+      "Correct: 26 + 11 = 37 (= 6²+1).",
+      "Wrong: overshoots by 1."
+    ],
+    "memoryTrick": "Each term is n²+1: 1²+1, 2²+1, 3²+1 …",
+    "commonMistake": "Adding a constant difference instead of a growing one.",
+    "relatedTopic": "Number series",
+    "revisionNote": "Check differences first; then squares/cubes",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Frequently Repeated",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "Number Series",
+      "Medium"
+    ],
+    "keywords": [
+      "number",
+      "series",
+      "find",
+      "next",
+      "term"
+    ],
+    "verificationStatus": "verified",
+    "status": "published",
+    "explanationComplete": true,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

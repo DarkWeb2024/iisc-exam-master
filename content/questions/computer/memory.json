@@ -1,0 +1,93 @@
+[
+  {
+    "id": "C2",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory",
+    "subtopic": "Memory",
+    "difficulty": "Easy",
+    "question": "Which type of memory is volatile (loses data when power is off)?",
+    "options": [
+      "ROM",
+      "RAM",
+      "Hard disk",
+      "CD-ROM"
+    ],
+    "answer": 1,
+    "explanation": "RAM is volatile primary memory; ROM and disks are non-volatile.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "KPSC",
+      "Banking"
+    ],
+    "keywords": [
+      "memory",
+      "which",
+      "type",
+      "volatile",
+      "loses",
+      "data",
+      "when",
+      "power"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C15",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory",
+    "subtopic": "Memory",
+    "difficulty": "Medium",
+    "question": "Which of the following is the fastest memory?",
+    "options": [
+      "Hard disk",
+      "RAM",
+      "Register",
+      "Cache"
+    ],
+    "answer": 2,
+    "explanation": "Registers (inside the CPU) are the fastest, followed by cache, then RAM, then disk.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "PSU"
+    ],
+    "keywords": [
+      "memory",
+      "which",
+      "following",
+      "fastest"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

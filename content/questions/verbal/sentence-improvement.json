@@ -1,0 +1,47 @@
+[
+  {
+    "id": "V13",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Sentence Improvement",
+    "subtopic": "Sentence Improvement",
+    "difficulty": "Medium",
+    "question": "Improve: 'Despite of his hard work, he failed.'",
+    "options": [
+      "Despite his hard work",
+      "In spite hard work",
+      "Although his hard work",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "'Despite' is never followed by 'of'.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "sentence",
+      "improvement",
+      "improve",
+      "despite",
+      "hard",
+      "work",
+      "failed"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

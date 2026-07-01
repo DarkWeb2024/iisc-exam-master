@@ -1,0 +1,48 @@
+[
+  {
+    "id": "C7",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Generations",
+    "subtopic": "Generations",
+    "difficulty": "Medium",
+    "question": "Which generation of computers used Integrated Circuits (ICs)?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer": 2,
+    "explanation": "Third generation (1964-71) introduced integrated circuits. (1st vacuum tubes, 2nd transistors, 4th microprocessors.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "KPSC"
+    ],
+    "keywords": [
+      "generations",
+      "which",
+      "generation",
+      "computers",
+      "used",
+      "integrated",
+      "circuits"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

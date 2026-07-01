@@ -1,0 +1,90 @@
+[
+  {
+    "id": "V2",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Idioms",
+    "subtopic": "Idioms",
+    "difficulty": "Easy",
+    "question": "The idiom 'to burn the midnight oil' means:",
+    "options": [
+      "To waste time",
+      "To work late into the night",
+      "To sleep early",
+      "To cook food"
+    ],
+    "answer": 1,
+    "explanation": "It means to work or study late into the night.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "idioms",
+      "idiom",
+      "burn",
+      "midnight",
+      "means"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "V8",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Idioms",
+    "subtopic": "Idioms",
+    "difficulty": "Easy",
+    "question": "The idiom 'once in a blue moon' means:",
+    "options": [
+      "Often",
+      "Never",
+      "Very rarely",
+      "Always"
+    ],
+    "answer": 2,
+    "explanation": "It means something that happens very rarely.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "idioms",
+      "idiom",
+      "once",
+      "blue",
+      "moon",
+      "means"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

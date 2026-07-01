@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Q9",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Ratio",
+    "subtopic": "Ratio",
+    "difficulty": "Medium",
+    "question": "Divide Rs.900 in the ratio 2:3:4. The largest share is:",
+    "options": [
+      "Rs.300",
+      "Rs.400",
+      "Rs.450",
+      "Rs.200"
+    ],
+    "answer": 1,
+    "explanation": "Total parts 9; largest = 900 x 4/9 = 400.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 45,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "ratio",
+      "divide",
+      "largest",
+      "share"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

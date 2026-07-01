@@ -1,0 +1,136 @@
+[
+  {
+    "id": "C1",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory Units",
+    "subtopic": "Memory Units",
+    "difficulty": "Easy",
+    "question": "1 byte is equal to how many bits?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "16 bits",
+      "1024 bits"
+    ],
+    "answer": 1,
+    "explanation": "By definition 1 byte = 8 bits. (1 nibble = 4 bits.)",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking",
+      "PSU"
+    ],
+    "keywords": [
+      "memory",
+      "units",
+      "byte",
+      "equal",
+      "many",
+      "bits"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C5",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory Units",
+    "subtopic": "Memory Units",
+    "difficulty": "Easy",
+    "question": "1 KB is equal to how many bytes?",
+    "options": [
+      "1000",
+      "1024",
+      "512",
+      "2048"
+    ],
+    "answer": 1,
+    "explanation": "In binary measure, 1 KB = 1024 bytes.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 5,
+    "repeated": "Repeated Frequently",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC",
+      "Banking"
+    ],
+    "keywords": [
+      "memory",
+      "units",
+      "equal",
+      "many",
+      "bytes"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  },
+  {
+    "id": "C25",
+    "subject": "computer",
+    "section": "computer",
+    "topic": "Memory Units",
+    "subtopic": "Memory Units",
+    "difficulty": "Easy",
+    "question": "1 nibble equals how many bits?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "1 nibble = 4 bits (half a byte).",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "memory",
+      "units",
+      "nibble",
+      "equals",
+      "many",
+      "bits"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

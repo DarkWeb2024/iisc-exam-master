@@ -1,0 +1,45 @@
+[
+  {
+    "id": "Q15",
+    "subject": "quantitative",
+    "section": "quantitative",
+    "topic": "Boats",
+    "subtopic": "Boats",
+    "difficulty": "Easy",
+    "question": "A boat's speed is 10 km/h and stream is 2 km/h. Downstream speed is:",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Downstream = boat + stream = 12 km/h.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 3,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "boats",
+      "boat",
+      "speed",
+      "stream",
+      "downstream"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

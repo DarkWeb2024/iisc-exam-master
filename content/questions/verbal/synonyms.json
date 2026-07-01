@@ -1,0 +1,44 @@
+[
+  {
+    "id": "V5",
+    "subject": "verbal",
+    "section": "verbal",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Choose the synonym of 'Diligent':",
+    "options": [
+      "Lazy",
+      "Hardworking",
+      "Careless",
+      "Slow"
+    ],
+    "answer": 1,
+    "explanation": "Diligent means hardworking.",
+    "whyWrong": [],
+    "memoryTrick": "",
+    "shortcut": "",
+    "solveTimeSec": 30,
+    "importance": 4,
+    "repeated": "Occasionally Asked",
+    "sourceType": "Verified Model Question",
+    "examName": null,
+    "year": null,
+    "tags": [
+      "IISc",
+      "SSC"
+    ],
+    "keywords": [
+      "synonyms",
+      "choose",
+      "synonym",
+      "diligent"
+    ],
+    "verificationStatus": "verified",
+    "explanationComplete": false,
+    "createdDate": "2026-07-01",
+    "lastVerified": "2026-07-01",
+    "version": 1,
+    "language": "en"
+  }
+]

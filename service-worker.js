@@ -1,13 +1,19 @@
 /* Service worker for offline caching (active only when served over http/https).
    The app also works fully offline from file:// because all assets are local. */
-var CACHE = "iisc-exam-master-v1";
+var CACHE = "iisc-exam-master-v2";
 var ASSETS = [
   "index.html",
   "manifest.webmanifest",
   "assets/css/styles.css",
   "assets/js/app.js",
+  "assets/js/srs.js",
+  "assets/js/ai.js",
+  "assets/js/palette.js",
   "assets/images/icon.svg",
+  "data/exams.js",
   "data/content.js",
+  "data/flashcards.js",
+  "data/glossary.js",
   "data/questions/computer.js",
   "data/questions/general_awareness.js",
   "data/questions/quantitative.js",

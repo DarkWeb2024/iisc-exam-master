@@ -1,0 +1,6 @@
+# Local-only (personal info: name, roll no, app no, exam centre) — never publish
+pdf/
+
+# OS junk
+Thumbs.db
+.DS_Store

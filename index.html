@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#1f6feb">
+<title>IISC Exam Master</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231f6feb'/><text x='50' y='68' font-size='55' text-anchor='middle' fill='white' font-family='Arial'>II</text></svg>">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<!-- Skip link for accessibility -->
+<a href="#main" class="skip-link">Skip to content</a>
+
+<!-- Top bar -->
+<header class="topbar">
+  <button id="menuToggle" class="icon-btn" aria-label="Toggle menu">&#9776;</button>
+  <span class="brand">IISC&nbsp;Exam&nbsp;Master</span>
+  <div class="topbar-right">
+    <input id="globalSearch" class="search-input" type="search" placeholder="Search questions, topics, formulas…" aria-label="Search">
+    <button id="themeToggle" class="icon-btn" aria-label="Toggle dark mode" title="Toggle theme (T)">🌙</button>
+  </div>
+</header>
+
+<div class="layout">
+  <!-- Sidebar -->
+  <nav class="sidebar" id="sidebar" aria-label="Main navigation">
+    <a href="#dashboard" class="nav-link" data-view="dashboard">📊 Dashboard</a>
+    <a href="#study" class="nav-link" data-view="study">📚 Study</a>
+    <a href="#practice" class="nav-link" data-view="practice">✍️ Practice</a>
+    <a href="#pyq" class="nav-link" data-view="pyq">📄 Previous Year</a>
+    <a href="#predictions" class="nav-link" data-view="predictions">🔮 Predictions</a>
+    <a href="#formulas" class="nav-link" data-view="formulas">📐 Formula Sheets</a>
+    <a href="#bookmarks" class="nav-link" data-view="bookmarks">🔖 Bookmarks</a>
+    <a href="#revision" class="nav-link" data-view="revision">⏱️ Revision</a>
+    <a href="#mock" class="nav-link" data-view="mock">📝 Mock Tests</a>
+    <a href="#progress" class="nav-link" data-view="progress">📈 Progress</a>
+    <a href="#notes" class="nav-link" data-view="notes">🗒️ Notes</a>
+    <a href="#settings" class="nav-link" data-view="settings">⚙️ Settings</a>
+    <div class="sidebar-foot">Offline-ready · no login · data stays on this device</div>
+  </nav>
+  <div class="backdrop" id="backdrop"></div>
+
+  <!-- Main content -->
+  <main id="main" class="content" tabindex="-1"></main>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<!-- Data (plain JS so it works from file:// with no server) -->
+<script src="data/questions/computer.js"></script>
+<script src="data/questions/general_awareness.js"></script>
+<script src="data/questions/quantitative.js"></script>
+<script src="data/questions/reasoning.js"></script>
+<script src="data/questions/verbal.js"></script>
+<script src="data/content.js"></script>
+<!-- App -->
+<script src="assets/js/app.js"></script>
+</body>
+</html>

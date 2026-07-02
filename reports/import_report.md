@@ -52,3 +52,110 @@ Questions 65-70 are 2026 current affairs (RBI Mission SAKSHAM, SEBI PaRRVA, E-PR
 - Some Quant items (e.g. exponent/fraction questions) lost superscript/layout formatting during text extraction — flagged for review.
 - Duplicate detection against the existing bank runs at compile time (`build_questions.js`); any overlaps are dropped there.
 - File hashes recorded in `content/imports/_source_hashes.json` so unchanged files aren't re-imported.
+
+
+---
+
+# Import Report — 6000 MCQ Bank (2026-07-02)
+
+_Source: `IISC Administrative Assistant In English 6000 MCQ.pdf` (2,140 pages, Toppersexam.com bank with answer key)_
+
+| Metric | Count |
+|---|---|
+| Question blocks detected | 5986 |
+| Structurally valid | 5439 |
+| Broken extraction (skipped, not guessed) | 547 |
+| Duplicates inside the bank (merged; importance boosted) | 13 |
+| Unique imported | 5426 |
+| **Published** | **5223** |
+| Pending verification (time-sensitive/current-affairs) | 203 |
+| With worked solution from source | 1415 |
+
+### Coverage by subject
+
+| Subject | Imported |
+|---|---|
+| computer | 876 |
+| general_awareness | 3212 |
+| quantitative | 786 |
+| reasoning | 399 |
+| verbal | 153 |
+
+### Verification statement
+Answers come from the **source's own answer key** (plus 1415 worked solutions). Automated checks enforced: contiguous distinct options (4 or 5), answer within options, non-trivial stems. A manual sample audit was performed on import. Labelled **Verified Competitive Question** — NOT previous-year papers.
+
+### Also in folder (still not importable)
+- `ilide..._OCR.pdf` (2018 paper): OCR ok but **no answer key** (OMR booklet) → cannot publish answers.
+- `General Awareness_OCR.pdf`: bilingual OMR booklet, garbled OCR, **no key** → not imported.
+
+
+---
+
+# Import Report — 6000 MCQ Bank (2026-07-02)
+
+_Source: `IISC Administrative Assistant In English 6000 MCQ.pdf` (2,140 pages, Toppersexam.com bank with answer key)_
+
+| Metric | Count |
+|---|---|
+| Question blocks detected | 5986 |
+| Structurally valid | 5439 |
+| Broken extraction (skipped, not guessed) | 547 |
+| Premise lost (refers to 'above arrangement/passage' — skipped) | 77 |
+| Duplicates inside the bank (merged; importance boosted) | 13 |
+| Unique imported | 5349 |
+| **Published** | **5146** |
+| Pending verification (time-sensitive/current-affairs) | 203 |
+| With worked solution from source | 1402 |
+
+### Coverage by subject
+
+| Subject | Imported |
+|---|---|
+| computer | 862 |
+| general_awareness | 2697 |
+| quantitative | 756 |
+| reasoning | 327 |
+| verbal | 707 |
+
+### Verification statement
+Answers come from the **source's own answer key** (plus 1402 worked solutions). Automated checks enforced: contiguous distinct options (4 or 5), answer within options, non-trivial stems. A manual sample audit was performed on import. Labelled **Verified Competitive Question** — NOT previous-year papers.
+
+### Also in folder (still not importable)
+- `ilide..._OCR.pdf` (2018 paper): OCR ok but **no answer key** (OMR booklet) → cannot publish answers.
+- `General Awareness_OCR.pdf`: bilingual OMR booklet, garbled OCR, **no key** → not imported.
+
+
+---
+
+# Import Report — 6000 MCQ Bank (2026-07-02)
+
+_Source: `IISC Administrative Assistant In English 6000 MCQ.pdf` (2,140 pages, Toppersexam.com bank with answer key)_
+
+| Metric | Count |
+|---|---|
+| Question blocks detected | 5986 |
+| Structurally valid | 5439 |
+| Broken extraction (skipped, not guessed) | 547 |
+| Premise lost (refers to 'above arrangement/passage' — skipped) | 97 |
+| Duplicates inside the bank (merged; importance boosted) | 13 |
+| Unique imported | 5329 |
+| **Published** | **5126** |
+| Pending verification (time-sensitive/current-affairs) | 203 |
+| With worked solution from source | 1397 |
+
+### Coverage by subject
+
+| Subject | Imported |
+|---|---|
+| computer | 862 |
+| general_awareness | 2693 |
+| quantitative | 756 |
+| reasoning | 311 |
+| verbal | 707 |
+
+### Verification statement
+Answers come from the **source's own answer key** (plus 1397 worked solutions). Automated checks enforced: contiguous distinct options (4 or 5), answer within options, non-trivial stems. A manual sample audit was performed on import. Labelled **Verified Competitive Question** — NOT previous-year papers.
+
+### Also in folder (still not importable)
+- `ilide..._OCR.pdf` (2018 paper): OCR ok but **no answer key** (OMR booklet) → cannot publish answers.
+- `General Awareness_OCR.pdf`: bilingual OMR booklet, garbled OCR, **no key** → not imported.

@@ -225,7 +225,27 @@
   function topicsFor(sid){var t={};(window.QDATA[sid]||[]).forEach(function(q){t[q.topic]=1;});return Object.keys(t);}
   function sel(id,label,opts,s){return '<label>'+esc(label)+': <select id="'+id+'">'+opts.map(function(o){return '<option'+(String(o)===String(s)?" selected":"")+'>'+esc(o)+'</option>';}).join("")+'</select></label>';}
   function passes(q){var f=pf;if(q.subject!==f.subject)return false;if(f.topic!=="All"&&q.topic!==f.topic)return false;if(f.diff!=="All"&&({Easy:"E",Medium:"M",Hard:"H"}[f.diff])!==q.diff)return false;if(f.imp!=="All"&&String(q.imp)!==f.imp)return false;if(f.tag!=="All"&&(q.tags||[]).indexOf(f.tag)===-1)return false;var r=state.solved[q.id];if(f.status==="Unsolved"&&r)return false;if(f.status==="Solved"&&!r)return false;if(f.status==="Incorrect"&&!(r&&!r.correct))return false;if(f.status==="Bookmarked"&&!isBookmarked(q.id))return false;return true;}
-  function renderPractice(){var list=document.getElementById("pList");list.innerHTML="";var qs=(window.QDATA[pf.subject]||[]).slice();qs.forEach(function(q){q.subject=pf.subject;});qs=qs.filter(passes).sort(function(a,b){return b.imp-a.imp;});document.getElementById("pCount").textContent=qs.length+" question(s) — sorted by importance.";if(!qs.length){list.innerHTML='<div class="card muted">No questions match these filters.</div>';return;}qs.forEach(function(q){list.appendChild(questionCard(q));});}
+  var PRACTICE_PAGE = 30;
+  function renderPractice(){
+    var list=document.getElementById("pList");list.innerHTML="";
+    var qs=(window.QDATA[pf.subject]||[]).slice();qs.forEach(function(q){q.subject=pf.subject;});
+    qs=qs.filter(passes).sort(function(a,b){return b.imp-a.imp;});
+    document.getElementById("pCount").textContent=qs.length+" question(s) — sorted by importance.";
+    if(!qs.length){list.innerHTML='<div class="card muted">No questions match these filters.</div>';return;}
+    var shown=0;
+    function more(){
+      var batch=qs.slice(shown,shown+PRACTICE_PAGE);
+      batch.forEach(function(q){list.appendChild(questionCard(q));});
+      shown+=batch.length;
+      var old=document.getElementById("pMore"); if(old)old.remove();
+      if(shown<qs.length){
+        var b=document.createElement("button");b.className="btn ghost";b.id="pMore";
+        b.textContent="Load more ("+(qs.length-shown)+" remaining)";
+        b.onclick=more; list.appendChild(b);
+      }
+    }
+    more();
+  }
 
   /* ---------- Flashcards + SRS (Part 8) ---------- */
   var flashState=null;

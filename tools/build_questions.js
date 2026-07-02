@@ -27,9 +27,9 @@ function resolveStatus(q){ if(q.status && STATUSES.includes(q.status)) return q.
 function validate(q){
   const e=[];
   ["id","subject","topic","difficulty","question","options","answer","explanation","importance","sourceType"].forEach(k=>{ if(q[k]===undefined||q[k]===null||q[k]==="") e.push("missing "+k); });
-  if(!Array.isArray(q.options)||q.options.length!==4) e.push("options must be exactly 4");
-  else if(new Set(q.options.map(o=>String(o).trim().toLowerCase())).size!==4) e.push("options not distinct");
-  if(typeof q.answer!=="number"||q.answer<0||q.answer>3) e.push("answer must be index 0-3");
+  if(!Array.isArray(q.options)||(q.options.length!==4&&q.options.length!==5)) e.push("options must be 4 or 5");
+  else if(new Set(q.options.map(o=>String(o).trim().toLowerCase())).size!==q.options.length) e.push("options not distinct");
+  if(typeof q.answer!=="number"||q.answer<0||!Array.isArray(q.options)||q.answer>=q.options.length) e.push("answer index out of range");
   if(!["Easy","Medium","Hard","Expert"].includes(q.difficulty)) e.push("bad difficulty");
   if(q.importance<1||q.importance>5) e.push("importance 1-5");
   if(!VALID_SOURCE.includes(q.sourceType)) e.push("invalid sourceType");

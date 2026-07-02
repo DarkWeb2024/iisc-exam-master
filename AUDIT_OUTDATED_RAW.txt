@@ -1,0 +1,297 @@
+
+=== T6K-4 | topic=Internet & Email | imp=4 | src_qno=4 ===
+Q: America online (AOL)
+  A. it displays the proprietary information created by AOL
+  B. the proprietary information includes news, financial planning, homework for students, chat, lines etc.
+  C. is widely used online service offering access service to the internet
+  D. All of the above are true <== PDF ANSWER
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-9 | topic=Internet & Email | imp=4 | src_qno=9 ===
+Q: A channel (in windows terminology) is
+  A. a widely used online service that offers access to the internet
+  B. a specialized web site designed to work with the windows 98 subscribing feature to automatically download information from the internet and store it on your computer for later viewing <== PDF ANSWER
+  C. an area on the computer memory where text or graphics can be temporarily stored
+  D. All of the above
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-168 | topic=Memory & Storage | imp=3 | src_qno=168 ===
+Q: All of hte following are example of storage devices EXCEPT
+  A. hard disk drive
+  B. printer <== PDF ANSWER
+  C. floppy disk drives
+  D. CD drives
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-183 | topic=Operating System | imp=3 | src_qno=183 ===
+Q: Which of the following file names are invalid in MSDOS
+  A. MYFILE.DOS
+  B. CHECK$.(1)
+  C. VERIFIED.###3 <== PDF ANSWER
+  D. QWERTY.1?
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-186 | topic=Memory & Storage | imp=3 | src_qno=186 ===
+Q: Which of the following statements is true in regard to DISKCOPY
+  A. COPY and DISKCOPY are same
+  B. DISKCOPY is a built in command in DOS
+  C. DISKCOY can be used on hard disks <== PDF ANSWER
+  D. DISKCOPY can be used with a floppy and a hard disk
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-190 | topic=Memory & Storage | imp=3 | src_qno=190 ===
+Q: The date command at the DOS prompt enables you to
+  A. view the date and time <== PDF ANSWER
+  B. change the date
+  C. change the date and time
+  D. change the day only
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-193 | topic=Memory & Storage | imp=4 | src_qno=193 ===
+Q: Format command
+  A. format the CPU
+  B. format floppy drives only
+  C. format should be left to the engineers to use <== PDF ANSWER
+  D. formats a disk to receive files
+  E. format the select files
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-199 | topic=Memory & Storage | imp=4 | src_qno=199 ===
+Q: "DOS" floppy disk does not have
+  A. boot record
+  B. a file allocation table
+  C. a root directory
+  D. a virtual memory <== PDF ANSWER
+  E. All of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-213 | topic=Memory & Storage | imp=3 | src_qno=213 ===
+Q: The storage device used to compensate for the difference in rates of flow of data from one device to another is termed as
+  A. chip
+  B. channel
+  C. floppy
+  D. call
+  E. buffer <== PDF ANSWER
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-220 | topic=MS Word | imp=4 | src_qno=220 ===
+Q: This program is made by Microsoft and embedded with windows , and used to view web document
+  A. netscape
+  B. outlook express
+  C. internet explorer <== PDF ANSWER
+  D. MS Word
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-322 | topic=Internet & Email | imp=4 | src_qno=322 ===
+Q: Netscape navigator and other browsers such as the following are available free on the internet
+  A. internet explore <== PDF ANSWER
+  B. Hot dog
+  C. adobe page maker
+  D. visual basic
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-326 | topic=MS Excel | imp=4 | src_qno=326 ===
+Q: Some web pages are divided into independent pages named as
+  A. excel
+  B. Outlook express
+  C. frames <== PDF ANSWER
+  D. sub page
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-371 | topic=Operating System | imp=3 | src_qno=371 ===
+Q: MS-DOS developed in
+  A. 1991
+  B. 1984 <== PDF ANSWER
+  C. 1971
+  D. 1961
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-372 | topic=Memory & Storage | imp=3 | src_qno=372 ===
+Q: Maximum length of DOS command using any option parameters
+  A. 26 characters
+  B. 87 characters
+  C. 127 characters <== PDF ANSWER
+  D. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-375 | topic=Operating System | imp=3 | src_qno=375 ===
+Q: Which file is the batch file that is read while booting a computer
+  A. autoexec.bat <== PDF ANSWER
+  B. auto-batch
+  C. autoexcutive .bat
+  D. auto.bat
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-383 | topic=Memory & Storage | imp=4 | src_qno=383 ===
+Q: Disk copy command in DOS is used to
+  A. copy a file
+  B. copy contents of one floppy disk to another <== PDF ANSWER
+  C. copy contents of CD-ROM to another
+  D. All of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-390 | topic=Operating System | imp=3 | src_qno=390 ===
+Q: In MS-DOS 6.22 which part identifies the product uniquiely
+  A. MS
+  B. DOS
+  C. MS-DOS
+  D. 6.22 <== PDF ANSWER
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-391 | topic=Memory & Storage | imp=3 | src_qno=391 ===
+Q: In MS-DOS what command you will use to display system data
+  A. data command <== PDF ANSWER
+  B. ver command
+  C. disk command
+  D. format command
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-392 | topic=Memory & Storage | imp=3 | src_qno=392 ===
+Q: While working with MS-DOS which command transfers a specific from one disk to another
+  A. copy <== PDF ANSWER
+  B. diskcopy
+  C. time
+  D. rename
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-395 | topic=Operating System | imp=3 | src_qno=395 ===
+Q: Each time you on you computer ,, it will check on the control file
+  A. command, com, ios, sys
+  B. command .com, date.com, dir.com
+  C. command.com, is.sys, msdos.sys <== PDF ANSWER
+  D. chkdsk.exe
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-407 | topic=Memory & Storage | imp=3 | src_qno=407 ===
+Q: The general range of speed in revolutions per minute at which floppy disks rotate is
+  A. 2400-4700
+  B. 390-600
+  C. 150-250 <== PDF ANSWER
+  D. 300-600
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-497 | topic=Memory & Storage | imp=3 | src_qno=497 ===
+Q: All of the following are example of storage devices EXCEPT
+  A. hard disk drives
+  B. printers <== PDF ANSWER
+  C. floppy disk drives
+  D. CD drive
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-545 | topic=Memory & Storage | imp=3 | src_qno=545 ===
+Q: The floppy disk or disks the was first developed in early
+  A. 1970 <== PDF ANSWER
+  B. 1965
+  C. 1969
+  D. 1971
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-643 | topic=Memory & Storage | imp=3 | src_qno=643 ===
+Q: Which kind of hardware is used the most in the input phase of a computer based information system
+  A. keyboard <== PDF ANSWER
+  B. printer
+  C. monitor
+  D. hard disk
+  E. floppy disk
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-649 | topic=Memory & Storage | imp=3 | src_qno=649 ===
+Q: Which kind of storage device can be carried around
+  A. floppy. disk <== PDF ANSWER
+  B. hard disk
+  C. system cabinet
+  D. hard disk drive
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-768 | topic=Memory & Storage | imp=3 | src_qno=768 ===
+Q: While working with MS-DOS which command will you use to transfer a specific file from one disk to another
+  A. DISKCOPY
+  B. COPY <== PDF ANSWER
+  C. RENAME
+  D. FORMAT
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-784 | topic=Operating System | imp=4 | src_qno=784 ===
+Q: What is the name of the operating system for the laptop computer called MacLite
+  A. Windows <== PDF ANSWER
+  B. DOS
+  C. MS-DOS
+  D. OZ
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-790 | topic=Operating System | imp=3 | src_qno=790 ===
+Q: In MS-DOS reloadable object files and load modules have extensions
+  A. .OBJ and .COM or .EXE respectively <== PDF ANSWER
+  B. .COM and .OBJ respectively
+  C. .EXE and .OBJ respectively
+  D. .DAS and .EXE respectively
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-811 | topic=Memory & Storage | imp=4 | src_qno=811 ===
+Q: All the time a computer is switched on, its operating system software to stay in
+  A. main storage
+  B. primary storage <== PDF ANSWER
+  C. floppy disk
+  D. disk drive
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-817 | topic=Operating System | imp=4 | src_qno=817 ===
+Q: What is the name of the operating system which was originally designed by scientists and engineers for use by scientists and engineers
+  A. XENIX
+  B. UNIX
+  C. OS/2
+  D. MS-DOS <== PDF ANSWER
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-923 | topic=Networking | imp=4 | src_qno=923 ===
+Q: The term "operating system " means
+  A. a set of program which controls computer working <== PDF ANSWER
+  B. the way a computer operating works
+  C. conversion of high level language into machine code
+  D. The way a floppy disk drive operators
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-963 | topic=Operating System | imp=4 | src_qno=963 ===
+Q: IBM released is first PC in 1981. Can you name the operating system which was most popular at that time
+  A. MS-DOS <== PDF ANSWER
+  B. PC-DOS
+  C. OS/360
+  D. CP/M
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1025 | topic=Memory & Storage | imp=4 | src_qno=1025 ===
+Q: Which is a secondary memory device
+  A. CPU
+  B. ALU
+  C. Floppy disk <== PDF ANSWER
+  D. Mouse
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1101 | topic=Memory & Storage | imp=3 | src_qno=1101 ===
+Q: What is the alternative name for a diskette
+  A. floppy disk <== PDF ANSWER
+  B. hard disk
+  C. flexible disk
+  D. Winchester disk
+  E. None of these
+Explanation/Solution: Answer per the source's answer key (Toppersexam bank).

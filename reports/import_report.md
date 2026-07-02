@@ -159,3 +159,22 @@ Answers come from the **source's own answer key** (plus 1397 worked solutions). 
 ### Also in folder (still not importable)
 - `ilide..._OCR.pdf` (2018 paper): OCR ok but **no answer key** (OMR booklet) → cannot publish answers.
 - `General Awareness_OCR.pdf`: bilingual OMR booklet, garbled OCR, **no key** → not imported.
+
+
+---
+
+# Audit Applied — 2026-07-02
+
+| Action | Count |
+|---|---|
+| Answers corrected (confirmed wrong) | 5 |
+| Moved to Pending Verification (ambiguous/unverifiable) | 6 |
+| Importance demoted (outdated tech) | 35 |
+
+## Corrections log
+
+- CORRECTED T6K-817: 'MS-DOS' -> 'UNIX'
+- CORRECTED T6K-869: 'Digital research corporation' -> 'IBM'
+- CORRECTED T6K-903: 'lower price per bit' -> 'faster'
+- CORRECTED T6K-964: 'a collection of input output devices' -> 'a collection of software routines'
+- CORRECTED T6K-1002: 'key fielding' -> 'hashing'

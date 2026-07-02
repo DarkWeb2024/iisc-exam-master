@@ -169,7 +169,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -177,7 +177,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Internet & Email"
+   "Internet & Email",
+   "Outdated-Tech"
   ],
   "keywords": [
    "america",
@@ -365,7 +366,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -373,7 +374,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Internet & Email"
+   "Internet & Email",
+   "Outdated-Tech"
   ],
   "keywords": [
    "channel",
@@ -4367,7 +4369,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -4375,7 +4377,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "windows",
@@ -6039,7 +6042,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6047,7 +6050,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "following",
@@ -6339,12 +6343,12 @@
    "None of these"
   ],
   "answer": 2,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: audit found this question ambiguous or flawed (multiple defensible answers) — see reports/audit_source.md]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6352,7 +6356,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -6362,8 +6367,8 @@
    "invalid",
    "msdos"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 183,
@@ -6443,12 +6448,12 @@
    "None of these"
   ],
   "answer": 2,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: audit found this question ambiguous or flawed (multiple defensible answers) — see reports/audit_source.md]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6456,7 +6461,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -6466,8 +6472,8 @@
    "regard",
    "diskcopy"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 186,
@@ -6548,7 +6554,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6556,7 +6562,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "date",
@@ -6701,7 +6708,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6709,7 +6716,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "format",
@@ -6850,7 +6858,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -6858,7 +6866,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "floppy",
@@ -7356,7 +7365,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -7364,7 +7373,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "storage",
@@ -7715,7 +7725,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -7723,7 +7733,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "MS Word"
+   "MS Word",
+   "Outdated-Tech"
   ],
   "keywords": [
    "this",
@@ -10197,7 +10208,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -10205,7 +10216,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Internet & Email"
+   "Internet & Email",
+   "Outdated-Tech"
   ],
   "keywords": [
    "netscape",
@@ -10353,7 +10365,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -10361,7 +10373,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "MS Excel"
+   "MS Excel",
+   "Outdated-Tech"
   ],
   "keywords": [
    "some",
@@ -11571,7 +11584,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -11579,7 +11592,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "developed"
@@ -11617,7 +11631,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -11625,7 +11639,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "maximum",
@@ -11716,7 +11731,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -11724,7 +11739,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -12066,7 +12082,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12074,7 +12090,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "disk",
@@ -12311,7 +12328,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12319,7 +12336,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -12361,7 +12379,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12369,7 +12387,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "what",
@@ -12412,7 +12431,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12420,7 +12439,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "while",
@@ -12514,7 +12534,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12522,7 +12542,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "each",
@@ -12975,7 +12996,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -12983,7 +13004,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "general",
@@ -16075,7 +16097,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -16083,7 +16105,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "following",
@@ -17233,7 +17256,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -17241,7 +17264,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "floppy",
@@ -19682,7 +19706,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -19690,7 +19714,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -19990,7 +20015,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -19998,7 +20023,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -23355,7 +23381,7 @@
    "None of these"
   ],
   "answer": 1,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: audit found this question ambiguous or flawed (multiple defensible answers) — see reports/audit_source.md]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
@@ -23378,8 +23404,8 @@
    "used",
    "computers"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 763,
@@ -23566,7 +23592,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -23574,7 +23600,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "while",
@@ -24213,12 +24240,12 @@
    "None of these"
   ],
   "answer": 0,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: could not verify this product exists in any reference — flagged, not deleted, in case source material clarifies it.]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -24226,7 +24253,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "what",
@@ -24236,8 +24264,8 @@
    "laptop",
    "computer"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 784,
@@ -24468,7 +24496,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -24476,7 +24504,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "reloadable",
@@ -25228,12 +25257,12 @@
    "None of these"
   ],
   "answer": 1,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: audit found this question ambiguous or flawed (multiple defensible answers) — see reports/audit_source.md]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -25241,7 +25270,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "time",
@@ -25251,8 +25281,8 @@
    "system",
    "software"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 811,
@@ -25475,21 +25505,22 @@
    "MS-DOS",
    "None of these"
   ],
-  "answer": 3,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "answer": 1,
+  "explanation": "[Audit-corrected 2026-07-02] UNIX (was MS-DOS): UNIX was designed at Bell Labs for scientific/engineering use; MS-DOS was a general-purpose PC OS. Correct answer: UNIX.",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
   "year": null,
   "tags": [
    "IISc",
-   "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Audit-Corrected",
+   "Outdated-Tech"
   ],
   "keywords": [
    "what",
@@ -25509,7 +25540,7 @@
   "importedDate": "2026-07-02",
   "createdDate": "2026-07-02",
   "lastVerified": "2026-07-02",
-  "version": 1,
+  "version": 2,
   "language": "en"
  },
  {
@@ -27204,8 +27235,8 @@
    "Digital research corporation",
    "None of these"
   ],
-  "answer": 3,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "answer": 0,
+  "explanation": "[Audit-corrected 2026-07-02] IBM (was Digital Research Corp): OS/2 was an IBM/Microsoft joint project; Digital Research made CP/M and DR-DOS, unrelated to OS/2. Correct answer: IBM.",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
@@ -27217,8 +27248,8 @@
   "year": null,
   "tags": [
    "IISc",
-   "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Audit-Corrected"
   ],
   "keywords": [
    "developed",
@@ -27238,7 +27269,7 @@
   "importedDate": "2026-07-02",
   "createdDate": "2026-07-02",
   "lastVerified": "2026-07-02",
-  "version": 1,
+  "version": 2,
   "language": "en"
  },
  {
@@ -28417,8 +28448,8 @@
    "faster",
    "None of these"
   ],
-  "answer": 2,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "answer": 3,
+  "explanation": "[Audit-corrected 2026-07-02] 'faster' is the false statement (was: 'lower price per bit', which is actually TRUE). Disk is slower than RAM, not faster. Correct answer: faster.",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
@@ -28430,8 +28461,8 @@
   "year": null,
   "tags": [
    "IISc",
-   "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Audit-Corrected"
   ],
   "keywords": [
    "which",
@@ -28451,7 +28482,7 @@
   "importedDate": "2026-07-02",
   "createdDate": "2026-07-02",
   "lastVerified": "2026-07-02",
-  "version": 1,
+  "version": 2,
   "language": "en"
  },
  {
@@ -29182,7 +29213,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -29190,7 +29221,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Networking"
+   "Networking",
+   "Outdated-Tech"
   ],
   "keywords": [
    "term",
@@ -30285,12 +30317,12 @@
    "None of these"
   ],
   "answer": 0,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "explanation": "Answer per the source's answer key (Toppersexam bank). [Held: audit found this question ambiguous or flawed (multiple defensible answers) — see reports/audit_source.md]",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 45,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -30298,7 +30330,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Outdated-Tech"
   ],
   "keywords": [
    "released",
@@ -30308,8 +30341,8 @@
    "system",
    "which"
   ],
-  "verificationStatus": "verified",
-  "status": "published",
+  "verificationStatus": "unverified",
+  "status": "pending_verification",
   "source": {
    "file": "IISC Administrative Assistant In English 6000 MCQ.pdf",
    "questionNo": 963,
@@ -30336,8 +30369,8 @@
    "All of the above",
    "None of these"
   ],
-  "answer": 1,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "answer": 2,
+  "explanation": "[Audit-corrected 2026-07-02] 'a collection of software routines' (was: 'a collection of input output devices'). An OS is software, not hardware. Correct answer: a collection of software routines.",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
@@ -30349,8 +30382,8 @@
   "year": null,
   "tags": [
    "IISc",
-   "6000-bank",
-   "Operating System"
+   "Operating System",
+   "Audit-Corrected"
   ],
   "keywords": [
    "operating",
@@ -30366,7 +30399,7 @@
   "importedDate": "2026-07-02",
   "createdDate": "2026-07-02",
   "lastVerified": "2026-07-02",
-  "version": 1,
+  "version": 2,
   "language": "en"
  },
  {
@@ -31476,8 +31509,8 @@
    "hashing",
    "None of these"
   ],
-  "answer": 1,
-  "explanation": "Answer per the source's answer key (Toppersexam bank).",
+  "answer": 3,
+  "explanation": "[Audit-corrected 2026-07-02] hashing (was: 'key fielding', not a standard CS term). Hashing computes storage addresses from record keys. Correct answer: hashing.",
   "whyWrong": [],
   "memoryTrick": "",
   "shortcut": "",
@@ -31489,8 +31522,8 @@
   "year": null,
   "tags": [
    "IISc",
-   "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Audit-Corrected"
   ],
   "keywords": [
    "computational",
@@ -31510,7 +31543,7 @@
   "importedDate": "2026-07-02",
   "createdDate": "2026-07-02",
   "lastVerified": "2026-07-02",
-  "version": 1,
+  "version": 2,
   "language": "en"
  },
  {
@@ -32136,7 +32169,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 4,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -32144,7 +32177,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "which",
@@ -34685,7 +34719,7 @@
   "memoryTrick": "",
   "shortcut": "",
   "solveTimeSec": 30,
-  "importance": 3,
+  "importance": 2,
   "repeated": "Occasionally Asked",
   "sourceType": "Verified Competitive Question",
   "examName": null,
@@ -34693,7 +34727,8 @@
   "tags": [
    "IISc",
    "6000-bank",
-   "Memory & Storage"
+   "Memory & Storage",
+   "Outdated-Tech"
   ],
   "keywords": [
    "what",

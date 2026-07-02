@@ -1,0 +1,2107 @@
+
+=== T6K-2 | topic=Internet & Email | imp=4 ===
+Q: What is active desktop ?
+  A. a term that is synonymous with viewing your desktop as web page
+  B. a feature to customize your desktop to display informating you can update from the internet
+  C. both a and b above mentioned <== PDF ANSWER
+  D. A software
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-4 | topic=Internet & Email | imp=4 ===
+Q: America online (AOL)
+  A. it displays the proprietary information created by AOL
+  B. the proprietary information includes news, financial planning, homework for students, chat, lines etc.
+  C. is widely used online service offering access service to the internet
+  D. All of the above are true <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-9 | topic=Internet & Email | imp=4 ===
+Q: A channel (in windows terminology) is
+  A. a widely used online service that offers access to the internet
+  B. a specialized web site designed to work with the windows 98 subscribing feature to automatically download information from the internet and store it on your computer for later viewing <== PDF ANSWER
+  C. an area on the computer memory where text or graphics can be temporarily stored
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-21 | topic=MS Word | imp=4 ===
+Q: A dialog box is a one
+  A. which is a sort of on-screen from where you can fill in the blanks, make selection from lists and chose various combinations of options and setting
+  B. in which you can connect to another internet user and establish a audio and video contact using Microsoft word
+  C. in which you can give verbal command to Microsoft word menu
+  D. All of the above
+  E. None of these <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-40 | topic=Internet & Email | imp=4 ===
+Q: This is an internet forum to discuss wide range of topics like current news, articles and current affairs, etc.
+  A. chatting <== PDF ANSWER
+  B. E - discounts
+  C. E - Learning
+  D. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-41 | topic=Memory & Storage | imp=4 ===
+Q: What are the components of the Central Processing Unit?
+  A. Control Unit
+  B. Arithmetic Logic Unit
+  C. Memory
+  D. All of the above <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-56 | topic=Internet & Email | imp=4 ===
+Q: The feature to customize your desktop to display information that you can update from the internet is
+  A. active desktop <== PDF ANSWER
+  B. online desktop
+  C. e-mail
+  D. resource sharing
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-57 | topic=Internet & Email | imp=4 ===
+Q: Exchange of text message and computer files over network either local network as LAN or over internet as WAN is called as
+  A. chatting
+  B. FTP
+  C. e-mail
+  D. Download
+  E. None of these <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-58 | topic=Memory & Storage | imp=4 ===
+Q: Computer "Virus" is
+  A. a hardware
+  B. windows tool
+  C. a computer program <== PDF ANSWER
+  D. all of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-62 | topic=Memory & Storage | imp=4 ===
+Q: One among the following sentences is incorrect. Which is that
+  A. area above 1 MB is called extended memory
+  B. all programs system always loaded in high memory <== PDF ANSWER
+  C. operating system always loaded in high memory
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-63 | topic=Operating System | imp=4 ===
+Q: What is an operating system
+  A. it is an interface between user and the computer
+  B. it manages all resources
+  C. it does all process management tasks
+  D. All of the above <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-64 | topic=Memory & Storage | imp=4 ===
+Q: Which is the most important part of an operating system
+  A. shell
+  B. kernel <== PDF ANSWER
+  C. device drivers
+  D. extra services
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-69 | topic=MS Word | imp=4 ===
+Q: A series of specially designed documents, which are all linked to be viewed on internet is called
+  A. world Wide Web <== PDF ANSWER
+  B. Web Server
+  C. Search Engine
+  D. Both b and c
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-71 | topic=MS Word | imp=4 ===
+Q: DTP packages cannot do this
+  A. graphics/ pictures related utility
+  B. internet connectivity <== PDF ANSWER
+  C. word processing
+  D. provide print quality
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-76 | topic=MS Word | imp=4 ===
+Q: A connection from the current document to another document or to a document on the world wide web
+  A. HTML
+  B. Icon
+  C. Internet
+  D. Hypertext link <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-89 | topic=Memory & Storage | imp=4 ===
+Q: The component of computer system with the circuitry to control interpretation and execution of instructions
+  A. Memory
+  B. Control
+  C. ALU
+  D. CPU <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-92 | topic=Hardware & Devices | imp=4 ===
+Q: A device that generates the periodic signals to control the timing of all CPU operations
+  A. COM
+  B. Collate
+  C. Chip
+  D. Clock <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-96 | topic=Hardware & Devices | imp=4 ===
+Q: The comprehensive software system that builds, maintains and provides access to a database
+  A. CPU
+  B. DASD
+  C. CAI
+  D. DBMS <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-112 | topic=Operating System | imp=4 ===
+Q: Windows can easily run on these CPU's
+  A. Pentium 1 and above <== PDF ANSWER
+  B. Pentium 2 and above
+  C. 80286 and above
+  D. 80386 and above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-118 | topic=Memory & Storage | imp=4 ===
+Q: Buffering in printers is necessary because
+  A. computer is fast in generating data for printing then printer can print it
+  B. there is not enough memory is provided with printers
+  C. it is only because to make printer work for mores years
+  D. Both a and b <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-124 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following memories below is often ued in a typical computer operation
+  A. RAM <== PDF ANSWER
+  B. ROM
+  C. FDD
+  D. HDD
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-126 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following RAM have to be refreshed often in order to retain its contents
+  A. SIMM
+  B. DIMM <== PDF ANSWER
+  C. SDMM
+  D. DSMM
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-128 | topic=Memory & Storage | imp=4 ===
+Q: Algorithm and flow chart help us to
+  A. know the memory capacity
+  B. identify the base of a number system
+  C. direct the output to a printer
+  D. specify the problem completely and clearly <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-131 | topic=Internet & Email | imp=4 ===
+Q: Which of the following organization looks at standards for representation of data on the internet
+  A. ISOC
+  B. W3C <== PDF ANSWER
+  C. IEEE
+  D. IETE
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-137 | topic=Memory & Storage | imp=4 ===
+Q: Computer software includes
+  A. application programs
+  B. operating system programs
+  C. packages programs
+  D. All of these <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-142 | topic=Security | imp=4 ===
+Q: 1. All of the following are example of real security and privacy risks EXCEPT
+  A. Hacker
+  B. Spam <== PDF ANSWER
+  C. virus
+  D. identity theft
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-167 | topic=Internet & Email | imp=4 ===
+Q: Which among the following was the first operational packet switching network, and the predecessor of the Internet ?
+  A. TELNET
+  B. ARPANET <== PDF ANSWER
+  C. USENET
+  D. ALOHAnet
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-170 | topic=Memory & Storage | imp=4 ===
+Q: The CPU and memory are located on the
+  A. expansion board
+  B. mother board <== PDF ANSWER
+  C. storage device
+  D. output device
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-171 | topic=MS Excel | imp=4 ===
+Q: Word processing, spreadsheet, and photo-editing are example of
+  A. application software <== PDF ANSWER
+  B. system software
+  C. operating system software
+  D. platform software
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-180 | topic=Internet & Email | imp=4 ===
+Q: The difference between people with access to computers and the internet and those without this access is known as the
+  A. digital divide <== PDF ANSWER
+  B. internet divide
+  C. web divide
+  D. broadband divide
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-189 | topic=Internet & Email | imp=4 ===
+Q: What is web casting
+  A. casting a movie star in a role on the www
+  B. transmitting the video and audio on the internet <== PDF ANSWER
+  C. playing of music on the internet
+  D. searching on the web
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-192 | topic=Operating System | imp=4 ===
+Q: When you delete files in windows operating system, they are
+  A. delete permanently
+  B. put in recycle bin <== PDF ANSWER
+  C. wiped thoroughly so that no body is able to recover the file back
+  D. delete permanently and also wiped clean
+  E. the contents are garbled
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-193 | topic=Memory & Storage | imp=4 ===
+Q: Format command
+  A. format the CPU
+  B. format floppy drives only
+  C. format should be left to the engineers to use <== PDF ANSWER
+  D. formats a disk to receive files
+  E. format the select files
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-194 | topic=Memory & Storage | imp=4 ===
+Q: Arithmetic logic unit and control sections have special purpose locations called
+  A. registers <== PDF ANSWER
+  B. RAM
+  C. BIOS
+  D. I/O
+  E. ROM
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-195 | topic=Security | imp=4 ===
+Q: What is the function of a modem
+  A. encryption and decryption
+  B. coverts data to voice and vice versa
+  C. converts analog signals to digitals and vice versa <== PDF ANSWER
+  D. serve as a hardware anti virus
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-199 | topic=Memory & Storage | imp=4 ===
+Q: "DOS" floppy disk does not have
+  A. boot record
+  B. a file allocation table
+  C. a root directory
+  D. a virtual memory <== PDF ANSWER
+  E. All of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-201 | topic=Networking | imp=4 ===
+Q: Firewall is used in communication networks/system to save
+  A. unauthorized attack <== PDF ANSWER
+  B. virus attack
+  C. data driven attack
+  D. fire attack
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-203 | topic=MS Word | imp=4 ===
+Q: The word "FTP" as used in the field of computers stands for
+  A. File Translate Protocol
+  B. File Transit Protocol
+  C. File Typing Protocol
+  D. File Transfer Protocol <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-205 | topic=Internet & Email | imp=4 ===
+Q: Which of the following is the most prevalent method for transferring fund from one city to another by Indian banks
+  A. internet
+  B. EDI <== PDF ANSWER
+  C. TT
+  D. Fax
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-210 | topic=Memory & Storage | imp=4 ===
+Q: The part of a computer system containing the circuitry that does the adding subtracting, multiplying, dividing and comparing is called as
+  A. ALU <== PDF ANSWER
+  B. Control
+  C. Memory
+  D. CPU
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-212 | topic=Internet & Email | imp=4 ===
+Q: A browser is a
+  A. line htat delineates the edge of a program window
+  B. software program especially designed for viewing web pages on the internet <== PDF ANSWER
+  C. tools for resizing the window
+  D. device used for modifying the window
+  E. All of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-215 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following best explains RAM A) it is an acronym for random access memory b) it is memory built from silicon chips that is used to store programs and data temporarily while they are being processed c) read access memory
+  A. Only A & C
+  B. Only B & C
+  C. Only A & B <== PDF ANSWER
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-216 | topic=Memory & Storage | imp=4 ===
+Q: Conversion of computer generated result into human acceptable form is a function of
+  A. CPU
+  B. Input interface
+  C. output interface <== PDF ANSWER
+  D. RAM
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-217 | topic=Memory & Storage | imp=4 ===
+Q: The components of a computer system with the circuitry to control interpretation and execution of instructions is known as
+  A. ALU
+  B. Memory
+  C. Control
+  D. CPU <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-219 | topic=Memory & Storage | imp=4 ===
+Q: Direct X is a _---------------
+  A. computer part
+  B. user interface
+  C. operating system
+  D. software that drives graphic hardware <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-220 | topic=MS Word | imp=4 ===
+Q: This program is made by Microsoft and embedded with windows , and used to view web document
+  A. netscape
+  B. outlook express
+  C. internet explorer <== PDF ANSWER
+  D. MS Word
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-221 | topic=General | imp=4 ===
+Q: BIOS stands for
+  A. Bias Integrated Output Software
+  B. Bias Integrated Operator System
+  C. Basic Input Output Software
+  D. Basic Input Output System <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-223 | topic=Memory & Storage | imp=4 ===
+Q: This is responsible for starting up of OS
+  A. ROM BIOS
+  B. Bootstrap program
+  C. Boot sector <== PDF ANSWER
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-227 | topic=Memory & Storage | imp=4 ===
+Q: MDR holds the
+  A. segment number
+  B. address of the memory location
+  C. number of transistors <== PDF ANSWER
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-228 | topic=Memory & Storage | imp=4 ===
+Q: Which device can understand difference between data and program
+  A. input device
+  B. Output device
+  C. memory
+  D. microprocessor <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-230 | topic=Memory & Storage | imp=4 ===
+Q: A pixel is
+  A. a computer program that draws picture
+  B. a picture stored in the secondary memory
+  C. the smallest resolvable part of a picture <== PDF ANSWER
+  D. a virus
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-231 | topic=Memory & Storage | imp=4 ===
+Q: A co-processor is used to
+  A. enhance main memory
+  B. track errors in the CPU
+  C. improve performance of business application
+  D. improve the sped d of mathematical calculation <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-291 | topic=Internet & Email | imp=4 ===
+Q: The first net work that planted the seeds of internet was
+  A. ARPANET <== PDF ANSWER
+  B. NSF net
+  C. V net
+  D. I net
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-292 | topic=MS Word | imp=4 ===
+Q: Acronym www in www.yahoo.com , stands for
+  A. World Word in Wonder
+  B. World wide Web <== PDF ANSWER
+  C. World Web is Widening
+  D. Wonderful World Web
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-302 | topic=Internet & Email | imp=4 ===
+Q: Which of the other name for LAN card
+  A. NIC <== PDF ANSWER
+  B. Net work connector
+  C. MODEM
+  D. Internet card
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-306 | topic=Internet & Email | imp=4 ===
+Q: Internet is governed by
+  A. ministry of I and B
+  B. IETF
+  C. inter NIC
+  D. Internet society <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-308 | topic=Internet & Email | imp=4 ===
+Q: The communication protocol used by internet is
+  A. HTTP
+  B. WWW
+  C. TCP/IP <== PDF ANSWER
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-310 | topic=Internet & Email | imp=4 ===
+Q: Internet is
+  A. complex system
+  B. decentralized system
+  C. dynamic system
+  D. All of the above <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-311 | topic=Internet & Email | imp=4 ===
+Q: For connection of the internet, you will need
+  A. an IP address
+  B. a TCP/IP connection
+  C. An ISP <== PDF ANSWER
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-312 | topic=Internet & Email | imp=4 ===
+Q: The server on the internet is also known as a
+  A. repeater
+  B. host
+  C. gateway <== PDF ANSWER
+  D. ISP
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-313 | topic=Internet & Email | imp=4 ===
+Q: A user can get files from another computer on the internet by using
+  A. FTP <== PDF ANSWER
+  B. UTP
+  C. HTTP
+  D. both a and b
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-314 | topic=Internet & Email | imp=4 ===
+Q: In reality, internet protocol recognizes only
+  A. a postal mail address
+  B. a location of the host
+  C. an IP address <== PDF ANSWER
+  D. Server
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-316 | topic=Internet & Email | imp=4 ===
+Q: A small network making up the internet and also having a small numbers of computers with in it is called
+  A. host
+  B. Address
+  C. sub domain <== PDF ANSWER
+  D. domain
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-317 | topic=Internet & Email | imp=4 ===
+Q: Computers on the internet owned and operated by education institution from part of the
+  A. com domain
+  B. edu domain <== PDF ANSWER
+  C. mil domain
+  D. In domain
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-318 | topic=Internet & Email | imp=4 ===
+Q: For a small web site, one needs to buy space from the
+  A. networking administrator
+  B. telephone exchange
+  C. ISP <== PDF ANSWER
+  D. Internet society
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-319 | topic=Internet & Email | imp=4 ===
+Q: A host on the internet finds another host by its
+  A. postal address
+  B. electronic address
+  C. IP address <== PDF ANSWER
+  D. Name
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-320 | topic=Internet & Email | imp=4 ===
+Q: What do you need to put your web pages on the WWW
+  A. a connection to the internet
+  B. A web browser
+  C. a web server
+  D. Any of the above <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-322 | topic=Internet & Email | imp=4 ===
+Q: Netscape navigator and other browsers such as the following are available free on the internet
+  A. internet explore <== PDF ANSWER
+  B. Hot dog
+  C. adobe page maker
+  D. visual basic
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-324 | topic=MS Excel | imp=4 ===
+Q: Usenet discussion groups have their own system of organization to help you find things just as
+  A. internet excel <== PDF ANSWER
+  B. gopher
+  C. archie
+  D. Any of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-326 | topic=MS Excel | imp=4 ===
+Q: Some web pages are divided into independent pages named as
+  A. excel
+  B. Outlook express
+  C. frames <== PDF ANSWER
+  D. sub page
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-328 | topic=Internet & Email | imp=4 ===
+Q: Which of the following protocols is used by internet mail
+  A. HTTP <== PDF ANSWER
+  B. TCP/IP
+  C. FTP
+  D. UTP
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-331 | topic=Internet & Email | imp=4 ===
+Q: Many internet access tools provide bookmarks so that you can return to your favourites site without
+  A. having to remember exactly how you get there <== PDF ANSWER
+  B. using your internet connection
+  C. using keyboard or mouse on your PC
+  D. Any of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-337 | topic=Internet & Email | imp=4 ===
+Q: Who among the following pays for the internet
+  A. USA
+  B. The government
+  C. Microsoft
+  D. everyone pays for its part <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-338 | topic=MS Word | imp=4 ===
+Q: What is a web site
+  A. a place from where we can get information in documents and files
+  B. a site that is owned by any particular company
+  C. a location on the world wide web <== PDF ANSWER
+  D. a place fron where we can access internet
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-339 | topic=MS Word | imp=4 ===
+Q: What is a Home page
+  A. the main page of the web site that serves as an index or table of contents for other documents stored at the site <== PDF ANSWER
+  B. the page that is displayed in a readable from
+  C. the screen saver that appears on the monitor while the PC is on
+  D. the page displaying information about the various sites on the internet
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-353 | topic=Memory & Storage | imp=4 ===
+Q: What is the correct value to return to the operating system upon the successful completion of a program
+  A. -1
+  B. 1
+  C. 0 <== PDF ANSWER
+  D. program do not return a value
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-370 | topic=Operating System | imp=4 ===
+Q: In which year the first operating system was developed
+  A. 1910
+  B. 1940
+  C. 1950 <== PDF ANSWER
+  D. 1980
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-378 | topic=Memory & Storage | imp=4 ===
+Q: Which command be used to clear the screen and display the operating system prompt on the first line of the display
+  A. cd
+  B. MD
+  C. Rename
+  D. CLS <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-383 | topic=Memory & Storage | imp=4 ===
+Q: Disk copy command in DOS is used to
+  A. copy a file
+  B. copy contents of one floppy disk to another <== PDF ANSWER
+  C. copy contents of CD-ROM to another
+  D. All of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-400 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is not an alternative name for primary memory
+  A. main memory
+  B. primary memory
+  C. internal memory
+  D. mass memory <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-401 | topic=Memory & Storage | imp=4 ===
+Q: The storage locations in the internal storage of a CPU are called
+  A. contents
+  B. addresses <== PDF ANSWER
+  C. locations
+  D. mask
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-404 | topic=Memory & Storage | imp=4 ===
+Q: Main memory contains
+  A. data
+  B. instructions
+  C. both a and b <== PDF ANSWER
+  D. either a and b
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-410 | topic=Memory & Storage | imp=4 ===
+Q: A slow input unit such as a card reader world be attached to the CPU by means of a
+  A. block multiplexer channel
+  B. buffer channel
+  C. byte multiplexer channel <== PDF ANSWER
+  D. selector channel
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-414 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following chips can be reprogrammed with special electric pulse
+  A. EPROM
+  B. PROM
+  C. ROM
+  D. EEPROM <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-428 | topic=Memory & Storage | imp=4 ===
+Q: IBM-7000 digital computer
+  A. belongs to second generation
+  B. users VLSI
+  C. employs semi conductor memory
+  D. has modular construction <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-431 | topic=Memory & Storage | imp=4 ===
+Q: Which memory is volatile
+  A. RAM <== PDF ANSWER
+  B. ROM
+  C. EPROM
+  D. PROM
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-433 | topic=Memory & Storage | imp=4 ===
+Q: CD-ROM is a
+  A. semiconductor memory
+  B. memory register
+  C. magnetic memory
+  D. All of these
+  E. None of these <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-436 | topic=Memory & Storage | imp=4 ===
+Q: If some devices require urgent services, normal execution programs may sometimes be pre-empted using
+  A. an interrupt signal <== PDF ANSWER
+  B. a request to memory module
+  C. DMA
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-445 | topic=Memory & Storage | imp=4 ===
+Q: A union consists of a number of elements that
+  A. all occupy the same space in memory <== PDF ANSWER
+  B. must be structures
+  C. are grouped next to each other in memory
+  D. all have the same type
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-504 | topic=MS Excel | imp=4 ===
+Q: Word processing , spreadsheet, and photo editing are examples of
+  A. application software <== PDF ANSWER
+  B. system software
+  C. operating system software
+  D. platform software
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-508 | topic=Memory & Storage | imp=4 ===
+Q: The CPU and memory are located on the
+  A. expansion board
+  B. mother board <== PDF ANSWER
+  C. storage device
+  D. output device
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-511 | topic=Operating System | imp=4 ===
+Q: The steps and tasks needed to process data, such as responses to questions or clicking an icon , are called
+  A. instructions <== PDF ANSWER
+  B. the operating system
+  C. application software
+  D. the system unit
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-537 | topic=Internet & Email | imp=4 ===
+Q: The difference between people with access to computers and the internet and those without this access is known as
+  A. digital divide <== PDF ANSWER
+  B. internet divide
+  C. web divide
+  D. broadband divide
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-538 | topic=Memory & Storage | imp=4 ===
+Q: The metal or plastic case that holds all the physical parts of the computer is the
+  A. system unit <== PDF ANSWER
+  B. CPU
+  C. mainframe
+  D. platform
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-567 | topic=Memory & Storage | imp=4 ===
+Q: In C, the address of m's memory location can be determined by the expression
+  A. *m
+  B. m&
+  C. &m <== PDF ANSWER
+  D. m*
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-639 | topic=Memory & Storage | imp=4 ===
+Q: Which is not a factor when categorizing a computer
+  A. speed of the output device
+  B. amount of main memory the CPU can use
+  C. cost of the system
+  D. capacity of the hard disk
+  E. where it was purchased <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-644 | topic=Memory & Storage | imp=4 ===
+Q: Computer can not do anything without a
+  A. chip
+  B. memory
+  C. output device
+  D. program <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-733 | topic=Memory & Storage | imp=4 ===
+Q: A computer system having 64 K memory will have its last address as
+  A. 65536
+  B. 64000
+  C. 65535 <== PDF ANSWER
+  D. 65530
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-748 | topic=Memory & Storage | imp=4 ===
+Q: The operating system of a computer serves as a software interface between the user and
+  A. hardware
+  B. peripheral <== PDF ANSWER
+  C. memory
+  D. screen
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-749 | topic=Hardware & Devices | imp=4 ===
+Q: A hardware device that is capable of executing a sequence of instructions is known as
+  A. CPU
+  B. ALU
+  C. CU
+  D. Processor <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-759 | topic=Memory & Storage | imp=4 ===
+Q: The principal of locality of reference justifies the use of
+  A. reenterable
+  B. non reusable
+  C. virtual memory
+  D. cache memory <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-763 | topic=Operating System | imp=4 ===
+Q: Can you name of the major operating system used in computers
+  A. flow chart
+  B. OS/2 <== PDF ANSWER
+  C. UNIX
+  D. all of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-769 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following functions is (are performed by the loader
+  A. allocate space in memory for the programs and resolve symbolic reference between object decks
+  B. adjust all address dependent locations, such as address constants, to correspond to the allocated space
+  C. physically place the machine instructions and data into memory
+  D. all of the memory <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-770 | topic=Memory & Storage | imp=4 ===
+Q: A relocate program form is one which
+  A. cannot be made to execute in any area of storage other that the one designated for it at the time of its coding or translation <== PDF ANSWER
+  B. consists of a program and relevant information for its relocation
+  C. can itself performs the relocation of its address sensitive protions
+  D. all of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-771 | topic=Memory & Storage | imp=4 ===
+Q: A non relocatable program is one which
+  A. cannot be made to execute in any area of storage other that the one designated for it at the time of its coding or translation
+  B. consists of a program and relevant information for its relocation
+  C. can itself performs the relocation of its address sensitive protions
+  D. all of the above <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-772 | topic=Memory & Storage | imp=4 ===
+Q: What is the name of the system which deals with the running of the actual computer and not with the programming problems
+  A. operating system
+  B. systems program <== PDF ANSWER
+  C. object program
+  D. source program
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-774 | topic=Networking | imp=4 ===
+Q: An interpreter is
+  A. a program that places programs into memory and prepares them for executions
+  B. a program that automate the translation of assembly language into machine language <== PDF ANSWER
+  C. program that accepts a program witten in a high level language and produces an object program
+  D. a program that appears to execute a source program as if it wer machine language
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-779 | topic=Operating System | imp=4 ===
+Q: What is the name given to the process of initializing a microcomputer with its operating system
+  A. cold booting
+  B. Booting
+  C. warm booting
+  D. boot recording <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-780 | topic=Networking | imp=4 ===
+Q: Capacity planning
+  A. requires detailed system performance information
+  B. is independent of the operating system
+  C. does not depend on the monitoring tools available
+  D. is not needed in small installations <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-783 | topic=Memory & Storage | imp=4 ===
+Q: Most of the microcomputers operating system like Apple DOS, MS DOS and PC DOS etc. Are called disk operating systems because
+  A. they are memory resident
+  B. they are initially stored on disk <== PDF ANSWER
+  C. they are available on magnetic tapes
+  D. they are partly in primary memory and partly on disk
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-784 | topic=Operating System | imp=4 ===
+Q: What is the name of the operating system for the laptop computer called MacLite
+  A. Windows <== PDF ANSWER
+  B. DOS
+  C. MS-DOS
+  D. OZ
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-785 | topic=Memory & Storage | imp=4 ===
+Q: Reloadable programs
+  A. can not be used with fixed partitions
+  B. can be loaded almost anywhere in memory
+  C. do not need a linker
+  D. can be loaded only at one specific location <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-789 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following refers to the associative memory
+  A. the address of the data is generated by the CPU
+  B. the address of the data is supplied by the users
+  C. there is no need for an address, i.e. the data is used as an address <== PDF ANSWER
+  D. the data are accessed sequentially
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-793 | topic=Memory & Storage | imp=4 ===
+Q: In Virtual memory systems, dynamic address translation
+  A. is the hardware necessary to implement paging <== PDF ANSWER
+  B. stores pages at a specific location on disk
+  C. is useless when swapping is used
+  D. is part of the operating system paging algorithm
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-796 | topic=Memory & Storage | imp=4 ===
+Q: The CPU after receiving an interrupt from an I/O device
+  A. halts for a predetermined time
+  B. hands over control of address bus and data bus to the interrupting device
+  C. branches off to the interrupt service routine immediately
+  D. branches off to the interrupt service routine after completion of the current instruction <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-797 | topic=Memory & Storage | imp=4 ===
+Q: The memory allocation scheme subject to "external" fragmentation is
+  A. segmentation <== PDF ANSWER
+  B. swapping
+  C. pure demand paging
+  D. multiple contiguous fixed partitions
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-800 | topic=Networking | imp=4 ===
+Q: The disadvantage of "Compile and Go" loading scheme is ( are)
+  A. a portion of memory is wasted because the core occupied by the assembler is unavailable to the object program
+  B. it is necessary to retranslate the user's program deck every time it is run
+  C. it is very difficult to handle multiple segments, especially if the source programs are in different languages, and to produce orderly modular programs <== PDF ANSWER
+  D. all of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-808 | topic=Memory & Storage | imp=4 ===
+Q: The members in the union
+  A. have different memory location
+  B. share the memory with a structure <== PDF ANSWER
+  C. have the same memory location
+  D. have different memory variable
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-811 | topic=Memory & Storage | imp=4 ===
+Q: All the time a computer is switched on, its operating system software to stay in
+  A. main storage
+  B. primary storage <== PDF ANSWER
+  C. floppy disk
+  D. disk drive
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-812 | topic=Memory & Storage | imp=4 ===
+Q: The instruction integer
+  A. is a hardware memory device which denotes the location of the current instruction being executed
+  B. is a group of electrical circuits that performs the intent of instructions fetched from memory
+  C. contains the address of the memory location that is to be read from or stored into <== PDF ANSWER
+  D. contains a copy of the designated memory location specified by the MAR after a "read" or the new contents of the memory prior to a "write"
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-817 | topic=Operating System | imp=4 ===
+Q: What is the name of the operating system which was originally designed by scientists and engineers for use by scientists and engineers
+  A. XENIX
+  B. UNIX
+  C. OS/2
+  D. MS-DOS <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-827 | topic=Memory & Storage | imp=4 ===
+Q: The garbage collector
+  A. prevents fragmentation from occurring
+  B. in mostly used with fixed partitions
+  C. collects fragmented areas of memory <== PDF ANSWER
+  D. is critical for efficient virtual memory system
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-833 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following statement is true
+  A. the LRU algorithm pages out pages that have been used recently
+  B. thrashing is natural consequence of virtual memory systems
+  C. seek analysis is used for analysing control unit busy problems <== PDF ANSWER
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-841 | topic=Memory & Storage | imp=4 ===
+Q: A long type of int needs
+  A. two bytes of memory
+  B. four bytes of memory <== PDF ANSWER
+  C. eight bytes of memory
+  D. sixteen bytes of memory
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-850 | topic=Operating System | imp=4 ===
+Q: The primary jobs of the operating system of a computer is to
+  A. command resources
+  B. manage resources <== PDF ANSWER
+  C. provide utilities
+  D. be user friendly
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-868 | topic=Memory & Storage | imp=4 ===
+Q: When did IBM release the first version of disk operating system DOS version 1.0
+  A. 1981
+  B. 1982 <== PDF ANSWER
+  C. 1983
+  D. 1984
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-869 | topic=Operating System | imp=4 ===
+Q: Who developed the operating system/2 (OS/2) for running IBMs new PS/2 family of microcomputers
+  A. IBM
+  B. Microsoft inc.
+  C. Bell laboratories
+  D. Digital research corporation <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-872 | topic=Operating System | imp=4 ===
+Q: A process is another name for
+  A. a job
+  B. a task
+  C. paging <== PDF ANSWER
+  D. the operating system dispatcher
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-885 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is characteristic of an operating system
+  A. resource management
+  B. error recovery
+  C. memory management
+  D. All of these <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-887 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is not true about the memory management
+  A. Virtual memory is used only in multi user systems <== PDF ANSWER
+  B. segmentation suffers form external fragmentation
+  C. paging suffers from internal fragmentation
+  D. segmented memory can be paged
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-889 | topic=Memory & Storage | imp=4 ===
+Q: Semaphores
+  A. synchronize critical resources to prevent deadlock <== PDF ANSWER
+  B. synchronize critical resources to prevent connection
+  C. are used to do I/O
+  D. are used for memory management
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-892 | topic=Memory & Storage | imp=4 ===
+Q: The working set theory of programming behaviour of processes running within an operating system involves
+  A. the collection of pages that a process accesses <== PDF ANSWER
+  B. disk scheduling mechanisms
+  C. coalescing holes in memory
+  D. assigning the CPU to processes
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-903 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is false about disk when compared to main memory
+  A. non volatile
+  B. longer storage capacity
+  C. lower price per bit <== PDF ANSWER
+  D. faster
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-907 | topic=Memory & Storage | imp=4 ===
+Q: In memory systems, boundary registers
+  A. are used for temporary program variable storage
+  B. are only necessary with fixed partitions
+  C. track page boundaries <== PDF ANSWER
+  D. track the beginning and ending of programs
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-911 | topic=Memory & Storage | imp=4 ===
+Q: Part of a program where the shared memory is accessed and which should be executed indivisibly, is called
+  A. semaphores
+  B. directory
+  C. critical section <== PDF ANSWER
+  D. mutual exclusion
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-914 | topic=MS Excel | imp=4 ===
+Q: Which of the following types of software must you have in main memory in order to use you keyboard
+  A. word processing
+  B. systems
+  C. spreadsheet
+  D. application <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-916 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following statement is false
+  A. protection in segmentation systems is more natural that it is in paging system <== PDF ANSWER
+  B. sharing is more natural in segmentation systems that in paging system
+  C. associative memory speeds up the dynamic address translation
+  D. every cell of the associative memory is searched sequentially
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-918 | topic=Memory & Storage | imp=4 ===
+Q: In which of the storage placement strategies a program is place in the smallest available hole in the main memory
+  A. best fit
+  B. first fit
+  C. worst fit
+  D. buddy <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-919 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is not a part of the operating system
+  A. supervisor
+  B. performance monitor
+  C. job control program
+  D. input/output control program <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-920 | topic=MS Word | imp=4 ===
+Q: If you want to execute more than one program at a time, the systems software you are using must be capable of
+  A. word processing
+  B. virtual memory
+  C. compiling
+  D. multitasking <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-923 | topic=Networking | imp=4 ===
+Q: The term "operating system " means
+  A. a set of program which controls computer working <== PDF ANSWER
+  B. the way a computer operating works
+  C. conversion of high level language into machine code
+  D. The way a floppy disk drive operators
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-931 | topic=MS Excel | imp=4 ===
+Q: Which of the following terms is associated with network
+  A. MS excel
+  B. Mouse
+  C. Word
+  D. Connectivity <== PDF ANSWER
+  E. Plotter
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-954 | topic=Networking | imp=4 ===
+Q: Information in a memory that is no longer valid or wanted is known as
+  A. double volatile <== PDF ANSWER
+  B. volatile
+  C. surplus
+  D. garbage
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-957 | topic=Networking | imp=4 ===
+Q: to control language (JCL) statement are used to
+  A. read the input from the slow speed card reader to the high speed magnetic disk
+  B. specify, to the operating system, the beginning and end of a job in a batch
+  C. allocate the CPU to a job <== PDF ANSWER
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-958 | topic=Memory & Storage | imp=4 ===
+Q: A page fault
+  A. is an error is a specific page
+  B. occurs when a programs accesses a page of memory
+  C. is an access to a page not currently in memory
+  D. is a reference to a page belonging to another program <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-960 | topic=Operating System | imp=4 ===
+Q: Page fault frequency in an operating system us reduced when the
+  A. size of pages is reduced
+  B. processes tend to be I/O bound
+  C. processes tend to be CPU bound
+  D. locality of reference is applicable to the process <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-962 | topic=Memory & Storage | imp=4 ===
+Q: Supervisor state is
+  A. never used
+  B. entered by programs when they enter the processor
+  C. required to perform operating system
+  D. only allowed to the operating system <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-963 | topic=Operating System | imp=4 ===
+Q: IBM released is first PC in 1981. Can you name the operating system which was most popular at that time
+  A. MS-DOS <== PDF ANSWER
+  B. PC-DOS
+  C. OS/360
+  D. CP/M
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-964 | topic=Operating System | imp=4 ===
+Q: Operating system is
+  A. a collection of hardware components
+  B. a collection of input output devices <== PDF ANSWER
+  C. a collection of software routines
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-982 | topic=Memory & Storage | imp=4 ===
+Q: The operating system manage
+  A. memory
+  B. processor
+  C. disks and I/O devices
+  D. All of the above <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-984 | topic=Memory & Storage | imp=4 ===
+Q: User friendly systems are
+  A. required for object oriented programming
+  B. easy to develop
+  C. common among traditional main frame operating system
+  D. becoming more common <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-988 | topic=Memory & Storage | imp=4 ===
+Q: Device independence
+  A. allows the computer to run without I/O devices
+  B. makes all devices look the same to the operating system
+  C. allows programs to be written more easily <== PDF ANSWER
+  D. allows tape drives to be substituted for disk drives
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-995 | topic=Operating System | imp=4 ===
+Q: What is the name give to the organize collection of software that controls the overall operations of a computer
+  A. working system
+  B. peripheral system
+  C. operating system
+  D. controlling system <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-998 | topic=Networking | imp=4 ===
+Q: Assembler is
+  A. a program that places programs into memory and prepares them for execution <== PDF ANSWER
+  B. a program that automatic the translation of assembly language into machine language
+  C. a program that accepts a program written in a high level language and produces an object program
+  D. is a program that appears to execute a source program as if it were machine language
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1002 | topic=Memory & Storage | imp=4 ===
+Q: The computational technique used to computer the disk storage address of individual records is called
+  A. bubble memory
+  B. key fielding <== PDF ANSWER
+  C. dynamic reallocation
+  D. hashing
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1024 | topic=Memory & Storage | imp=4 ===
+Q: Group of instruction that directs a computer is called
+  A. storage
+  B. memory
+  C. logic
+  D. program <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1025 | topic=Memory & Storage | imp=4 ===
+Q: Which is a secondary memory device
+  A. CPU
+  B. ALU
+  C. Floppy disk <== PDF ANSWER
+  D. Mouse
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1028 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is an example of non volatile memory
+  A. ROM <== PDF ANSWER
+  B. VLSI
+  C. LSI
+  D. RAM
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1030 | topic=Memory & Storage | imp=4 ===
+Q: RAM is used as a short memory because it
+  A. is volatile <== PDF ANSWER
+  B. is very expensive
+  C. has small capacity
+  D. is programmable
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1031 | topic=Hardware & Devices | imp=4 ===
+Q: The CPU chip used in a computer is partially made out of
+  A. copper
+  B. iron
+  C. gold and silver
+  D. silica <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1032 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following memory is capable of operating at electronics speed
+  A. semiconductor memory <== PDF ANSWER
+  B. magnetic disks
+  C. magnetic drums
+  D. magnetic tapes
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1034 | topic=Memory & Storage | imp=4 ===
+Q: The unit of a computer system that executes program, communicates with and often controls the operation of other subsystems of the computer is known as
+  A. CPU <== PDF ANSWER
+  B. Control Unit
+  C. I/O Unit
+  D. Peripheral unit
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1035 | topic=Memory & Storage | imp=4 ===
+Q: Which is the computer memory that does not forget
+  A. ROM
+  B. RAM
+  C. PROM <== PDF ANSWER
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1040 | topic=Memory & Storage | imp=4 ===
+Q: The disadvantage of dynamic RAM over static RAM is
+  A. higher power consumption
+  B. variable speed
+  C. need to refresh the capacitor charge every once in two milli seconds <== PDF ANSWER
+  D. higher bit density
+  E. None of the above
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1043 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is used to hold ROM,RAM,CPU and expansion cards
+  A. computer bus
+  B. motherboards <== PDF ANSWER
+  C. cache memory
+  D. all of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1069 | topic=Memory & Storage | imp=4 ===
+Q: The primary memory of a personal computer consists of
+  A. ROM only
+  B. RAM only
+  C. Both a and b <== PDF ANSWER
+  D. memory module
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1071 | topic=Memory & Storage | imp=4 ===
+Q: How many address lines are needed to address each memory location in a 2048X4 memory chip
+  A. 10
+  B. 11 <== PDF ANSWER
+  C. 8
+  D. 12
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1077 | topic=Memory & Storage | imp=4 ===
+Q: The magnetic storage chips used to provide non volatile direct access storage of data and that have no moving part are known as
+  A. magnetic core memory
+  B. magnetic tape memory
+  C. magnetic disk memory
+  D. magnetic bubble memory <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1079 | topic=Memory & Storage | imp=4 ===
+Q: Linkage between the CPU and the users is provided by
+  A. storage
+  B. control unit
+  C. peripheral devices <== PDF ANSWER
+  D. software
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1081 | topic=General | imp=4 ===
+Q: CAD stands for
+  A. Computer Aided Design <== PDF ANSWER
+  B. Computer Algorithm for Design
+  C. Computer Application in Design
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1085 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following statement is wrong
+  A. an EPROM can be programmed , erased and reprogrammed by the user with an EPROM programming instrument
+  B. magnetic tape is non volatile
+  C. magnetic core and semiconductor memories are used as mass memory medium
+  D. RAM us a type of volatile memory <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1096 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following are two main components of the CPU
+  A. control unit and registers
+  B. register and main memory
+  C. control unit and ALU <== PDF ANSWER
+  D. ALU and bus
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1100 | topic=Memory & Storage | imp=4 ===
+Q: The hardware in which data may be stored for a computer system is called
+  A. registers
+  B. bus
+  C. control unit
+  D. memory <== PDF ANSWER
+  E. chip
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1104 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following storage is volatile
+  A. semiconductor memory <== PDF ANSWER
+  B. bubble memory
+  C. core memory
+  D. All of the above
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1115 | topic=Memory & Storage | imp=4 ===
+Q: What is the name of the memory card which is conceptually related to the smart card but is similar to the video disk
+  A. laser card <== PDF ANSWER
+  B. master card
+  C. visa
+  D. optical card
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1117 | topic=Memory & Storage | imp=4 ===
+Q: Can be programmed one time by either the manufacture of the computer user once programmed it cannot be modifies
+  A. RAM
+  B. ROM
+  C. PROM <== PDF ANSWER
+  D. EPROM
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1121 | topic=Memory & Storage | imp=4 ===
+Q: A typical personal computer used for business purposes would have of RAM
+  A. 4K
+  B. 16K
+  C. 64K
+  D. 256K <== PDF ANSWER
+  E. 1 megabyte
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1124 | topic=Memory & Storage | imp=4 ===
+Q: What is the designation of IBs first optical storage device specifically designed for its PS/2 series of computers
+  A. IBM-2717
+  B. IBM-3363 <== PDF ANSWER
+  C. IBM-3131
+  D. IBM-4040
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1129 | topic=Memory & Storage | imp=4 ===
+Q: A high speed device ued in CPU for temporary storage during processing is called
+  A. a register <== PDF ANSWER
+  B. a bus
+  C. a data bus
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1133 | topic=Memory & Storage | imp=4 ===
+Q: A temporary storage area, attached to the CPU, for the CPU ,for the I/O operation is a
+  A. chip
+  B. buffer <== PDF ANSWER
+  C. register
+  D. core
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1134 | topic=Memory & Storage | imp=4 ===
+Q: What do the present day digital computers use for their internal memory
+  A. magnetic cores
+  B. integrated circuits <== PDF ANSWER
+  C. electrical switches
+  D. magnetic disks
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1143 | topic=Memory & Storage | imp=4 ===
+Q: Which type of memory chips are likely to be used in the primary storage of the future general of computers
+  A. silicon chips
+  B. optical chips
+  C. biochips <== PDF ANSWER
+  D. gallium aresendie
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1150 | topic=Hardware & Devices | imp=4 ===
+Q: The unit of hardware an operator uses to monitor computer processing is the
+  A. card reader
+  B. CPU
+  C. line printer
+  D. Console <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1151 | topic=Memory & Storage | imp=4 ===
+Q: The difference between memory and shortages is that memory is and storage is
+  A. temporary, permanent <== PDF ANSWER
+  B. permanent, temporary
+  C. slow, fast
+  D. All of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1152 | topic=Memory & Storage | imp=4 ===
+Q: Offline device is
+  A. a device which is not connected to CPU <== PDF ANSWER
+  B. a device which is connected to CPU
+  C. a direct access storage device
+  D. an I/O device
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1162 | topic=Memory & Storage | imp=4 ===
+Q: A certain computer hardware component does not process the data itself but acts as a central nervous system for other data manipulating components what is it called
+  A. ALU
+  B. RAM
+  C. Control unit <== PDF ANSWER
+  D. secondary storage
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1165 | topic=General | imp=4 ===
+Q: Computer are extremely fast and have fantastic memories. However, the only thing they can remember is
+  A. instruction
+  B. series of 1s and 0s <== PDF ANSWER
+  C. Boolean algebra
+  D. logic theories
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1171 | topic=Memory & Storage | imp=4 ===
+Q: A storage device used to cpmpensate the difference in flow of data, is known as
+  A. main storage
+  B. auxiliary storage
+  C. buffer <== PDF ANSWER
+  D. core memory
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1173 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is a secondary memory device
+  A. keyboard
+  B. disk <== PDF ANSWER
+  C. ALU
+  D. all of these
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1174 | topic=Memory & Storage | imp=4 ===
+Q: The first electronic general purpose digital computer built by Mauchly and Eckert called ENIAC did not work on the stored program principle. How many numbers could it store in its internal memory
+  A. 100
+  B. 20 <== PDF ANSWER
+  C. 40
+  D. 80
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1175 | topic=Memory & Storage | imp=4 ===
+Q: Average access time in the magnetic disk is of the order on
+  A. 50 milisecond <== PDF ANSWER
+  B. 50 microsecond
+  C. 50 second
+  D. all of these
+  E. none of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1179 | topic=Memory & Storage | imp=4 ===
+Q: Which of the following is not used as secondary storage
+  A. semiconductor memory <== PDF ANSWER
+  B. magnetic disk
+  C. magnetic drums
+  D. magnetic tapes
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1186 | topic=Memory & Storage | imp=4 ===
+Q: The act of retrieving existing data form memory is called
+  A. read out
+  B. read from
+  C. read
+  D. all of these <== PDF ANSWER
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1187 | topic=Memory & Storage | imp=4 ===
+Q: A computer system consisting of its processor, memory and I/O devices accepts data, processes it and produces the output results. Can you tell in which component is the raw data fed
+  A. mass memory
+  B. main memory <== PDF ANSWER
+  C. logic unit
+  D. arithmetic unit
+  E. none of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1192 | topic=Memory & Storage | imp=4 ===
+Q: The computer memory holds data and
+  A. bytes
+  B. program <== PDF ANSWER
+  C. registers
+  D. bits
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1195 | topic=Memory & Storage | imp=4 ===
+Q: The 7-bit ASCII code widely used
+  A. for data communication work <== PDF ANSWER
+  B. in IBM mainframe models
+  C. for coding external memory
+  D. in large machines produces by non IBM vendors
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1196 | topic=Memory & Storage | imp=4 ===
+Q: A microcomputer has primary memory of 640K. What is the exact number of bytes contained in this memory
+  A. 65X1000
+  B. 640X100
+  C. 640X1024 <== PDF ANSWER
+  D. either b or c
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1198 | topic=Memory & Storage | imp=4 ===
+Q: The register which keeps of the execution of a program and which contains the memory address of the instruction currently being executed is known as
+  A. index register
+  B. memory address register
+  C. program counter <== PDF ANSWER
+  D. instruction register
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-1200 | topic=Memory & Storage | imp=4 ===
+Q: The register which holds the address of the location to or from which data are to be transferred is known as
+  A. index register
+  B. instruction register
+  C. memory address register <== PDF ANSWER
+  D. memory data register
+  E. None of these
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-3760 | topic=Memory & Storage | imp=4 ===
+Q: In a cricket match, Team A scored 232 runs without losing a wicket. The score consisted to byes, wides and runs scored by two opening batsmen : Ram and Shyam. The runs scored by the two batsmen are 26 times wides. There are 8 more byes than wides. If the ratio of the runs scored by Ram and Shyam is 6 : 7, then the runs scored by Ram is
+  A. 88
+  B. 96 <== PDF ANSWER
+  C. 102
+  D. 112
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-3888 | topic=Networking | imp=4 ===
+Q: Ram prepares solutions of alcohol in water according to customer's needs. This morning Ram has prepared 27 litres of a 12% alcohol solution and kept it ready in a 27 litre delivery container to be shipped to the customer. Just before delivery, he finds out that the customer had asked for 27 litres of 21% alcohol solution. To prepare what the customer wants, Ram replaces a portion of 12% solution by 39% solution. How many litres of 12% solution are replaced ?
+  A. 5
+  B. 9 <== PDF ANSWER
+  C. 10
+  D. 12
+Sol: He must replace 9 litres Rs of solution of 12% by solution of 39%.
+
+=== T6K-3978 | topic=Hardware & Devices | imp=4 ===
+Q: A company bought a total of 60 computers and 20 printers to modernize billing operations. If the price of each computer was three times the price of
+  A. each printer then what percent of the total cost of the purchase was the total <== PDF ANSWER
+  B. cost of the printers?
+  C. 10%
+  D. 11%
+Sol: 15% 20% Suppose price of the printer = P Price of a computer = 3 P Total cost of 60 computers = 180 P Total cost of 20 printers = 20 P Total cost of the purchase = 200 P Thus total cost of the printer
+
+=== T6K-4049 | topic=Memory & Storage | imp=4 ===
+Q: Ram bought a T. V. with 20% discount on the labeled price. Had he bought it with 30% discount he would have saved Rs 800. The value of the T. V. set that he bought is
+  A. Rs 5,000
+  B. Rs 8,000 <== PDF ANSWER
+  C. Rs 9,000
+  D. Rs 10,000
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-4167 | topic=Memory & Storage | imp=4 ===
+Q: Ram left of his property to his widow and of the remainder to his daughter. He gave the rest to his son who received Rs 6,400. How much was his original property worth?
+  A. Rs 16,000
+  B. Rs 32,000
+  C. Rs 24,000 <== PDF ANSWER
+  D. Rs 1,600
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-4190 | topic=Memory & Storage | imp=4 ===
+Q: Ram and Shyam entered in a business by making investment of Rs 4000 & Rs 5500 respectively. After six months Ram & Shyam with drew Rs 1000 and Rs 1500 respectively and Mohan joined them with capital of Rs 4x. If after one year and three months Mohan received Rs 2250 as profit share out of total profit of Rs 12250, them find investment of Mohan?
+  A. Rs 3600
+  B. Rs 3200
+  C. Rs 4400
+  D. Rs 3000 <== PDF ANSWER
+Sol: Investment ratio of Ram, Shyam & Mohan = (4000 x 6 + 3000 x 9) : (5500 x 6 + 4000 x 9) : 4x * 9 = 51000 : 69000 : 36x = 8500 : 11500 : 6x
+
+=== T6K-4214 | topic=Memory & Storage | imp=4 ===
+Q: Five years ago, Ram was three times as old as Shyam. Four years from now, Ram will be only twice as old as Shyam. What is the present age of Ram ?
+  A. 30 years
+  B. 32 years <== PDF ANSWER
+  C. 36 years
+  D. 40 years
+Sol: Using the options and the first given condition, we get x � 5 = 3 (y � 5) Using the option (a) x � 5 = 3 (y � 5) 30 � 5 = 3 (y � 5) 25 = 3y � 15 40 Which gives value of y as a fraction Using the optio
+
+=== T6K-4886 | topic=Memory & Storage | imp=4 ===
+Q: Spot the error part of the following sentences.
+  A. Raja Ram Mohan Roy tried to
+  B. eradicate social evils
+  C. with tooth and nail <== PDF ANSWER
+  D. No error
+Sol: Remove `with' before `tooth and nail'.
+
+=== T6K-5008 | topic=Internet & Email | imp=4 ===
+Q: Read sentence to find out whether there is any grammatical error in it. The error, will be in one part of the sentence. The letter of that part is the answer.
+  A. According to newspaper reports
+  B. there is more internet users <== PDF ANSWER
+  C. in small towns
+  D. than in metros
+  E. No error
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5067 | topic=General | imp=4 ===
+Q: Use the appropriate idiom to complete the expression. You may go home early if you are
+  A. Feeling a bit under the weather <== PDF ANSWER
+  B. Hitting the nail on the head
+  C. Sitting on the fence
+  D. Adding insult to the injury
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5334 | topic=Memory & Storage | imp=4 ===
+Q: Who founded the Arya Samaj?
+  A. Dayanand Saraswati <== PDF ANSWER
+  B. King Ram Mohan Opinion
+  C. Owner vivekananda
+  D. Annie Besant
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5335 | topic=Memory & Storage | imp=4 ===
+Q: Which organization was founded by Raja Ram Mohan Roy?
+  A. Prayer Society
+  B. Brahma Society <== PDF ANSWER
+  C. Ramakrishna Mission
+  D. Arya Society
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5491 | topic=Memory & Storage | imp=4 ===
+Q: Who is known as the "Father of the Indian Renaissance" ?
+  A. Raja Ram Mohan Roy <== PDF ANSWER
+  B. Swami Vivekananda
+  C. Rabindranath Tagore
+  D. Mahatma Gandhi
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5519 | topic=Memory & Storage | imp=4 ===
+Q: Who among the following was not associated with the 'Aligarh Movement '?
+  A. Sir Syed Ahmed Khan
+  B. Nawab Salimullah Khan
+  C. Shibli Nomani
+  D. Raja Ram Mohan Roy <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5570 | topic=General | imp=4 ===
+Q: What is the full form of DRDO?
+  A. Defence Research and Development Organisation <== PDF ANSWER
+  B. Digital Research and Development Organisation
+  C. Department of Research and Defence Operations
+  D. Directorate of Regional Development Office
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5586 | topic=Memory & Storage | imp=4 ===
+Q: Which Indian initiative focuses on promoting research and development in solar energy?
+  A. Smart City Mission
+  B. National Solar Mission <== PDF ANSWER
+  C. Make in India
+  D. Digital India
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5601 | topic=Networking | imp=4 ===
+Q: Which Indian project aims to provide broadband connectivity in rural areas through optical fiber networks?
+  A. Digital India
+  B. BharatNet <== PDF ANSWER
+  C. Smart Cities Mission
+  D. National Digital Communications Policy
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5607 | topic=Internet & Email | imp=4 ===
+Q: The National Knowledge Network (NKN) aims to:
+  A. Provide high-speed internet to educational institutions <== PDF ANSWER
+  B. Promote rural education
+  C. Enhance digital literacy
+  D. Develop renewable energy sources
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5610 | topic=Memory & Storage | imp=4 ===
+Q: What is the main objective of the National Digital Health Mission?
+  A. To promote traditional medicine
+  B. To digitize health records and enhance healthcare delivery <== PDF ANSWER
+  C. To establish new hospitals
+  D. To provide health insurance
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5613 | topic=Memory & Storage | imp=4 ===
+Q: What is the name of the initiative launched by the Indian government to promote electric vehicles?
+  A. National Electric Mobility Mission <== PDF ANSWER
+  B. Make in India
+  C. Smart Cities Mission
+  D. Digital India
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5618 | topic=Internet & Email | imp=4 ===
+Q: The technology used to transfer data over a network, such as the internet, is known as:
+  A. Data mining
+  B. Data processing
+  C. Data communication <== PDF ANSWER
+  D. Data warehousing
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5619 | topic=Internet & Email | imp=4 ===
+Q: Which of the following is a widely used internet protocol for sending emails?
+  A. HTTP
+  B. SMTP <== PDF ANSWER
+  C. FTP
+  D. TCP
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5620 | topic=Internet & Email | imp=4 ===
+Q: Cloud computing refers to:
+  A. Storing data on local devices
+  B. Storing and accessing data over the internet <== PDF ANSWER
+  C. Processing data on mainframes
+  D. A technology only used by government organizations
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5621 | topic=Internet & Email | imp=4 ===
+Q: The term "digital divide" refers to:
+  A. The division of digital content
+  B. The gap between those with access to ICT and those without <== PDF ANSWER
+  C. The difference between digital and analog devices
+  D. A specific type of internet protocol
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5624 | topic=Internet & Email | imp=4 ===
+Q: In ICT, VoIP refers to:
+  A. Virtual Operating Information Protocol
+  B. Voice Over Internet Protocol <== PDF ANSWER
+  C. Virtual Online Internet Protocol
+  D. Voice On Information Processing
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5626 | topic=Internet & Email | imp=4 ===
+Q: The "www" in website addresses stands for:
+  A. World Wide Web <== PDF ANSWER
+  B. Wide World Web
+  C. Web Wide World
+  D. World Web Wide
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5627 | topic=Internet & Email | imp=4 ===
+Q: In computing, what does ISP stand for?
+  A. Internet Service Provider <== PDF ANSWER
+  B. Internal System Process
+  C. International Software Program
+  D. Internet Security Protocol
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5628 | topic=Internet & Email | imp=4 ===
+Q: What is a firewall used for in ICT?
+  A. Enhancing network speed
+  B. Protecting networks from unauthorized access <== PDF ANSWER
+  C. Storing data securely
+  D. Increasing internet bandwidth
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5636 | topic=Internet & Email | imp=4 ===
+Q: In ICT, which technology is used to make telephone calls over the internet?
+  A. GSM
+  B. VoIP <== PDF ANSWER
+  C. CDMA
+  D. PSTN
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5637 | topic=Internet & Email | imp=4 ===
+Q: What is the main purpose of an IP address in networking?
+  A. To serve as a unique identifier for devices connected to a network <== PDF ANSWER
+  B. To encrypt sensitive data
+  C. To serve as a URL for websites
+  D. To speed up internet connections
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5641 | topic=Internet & Email | imp=4 ===
+Q: What is the main function of an operating system in ICT?
+  A. Manage computer hardware and software resources <== PDF ANSWER
+  B. Design websites
+  C. Create online advertisements
+  D. Enhance internet connectivity
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5647 | topic=Operating System | imp=4 ===
+Q: Which of the following is an example of an open-source operating system?
+  A. Windows
+  B. macOS
+  C. Linux <== PDF ANSWER
+  D. iOS
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5648 | topic=Internet & Email | imp=4 ===
+Q: In the context of ICT, what does "bandwidth" refer to?
+  A. The speed of the computer's processor
+  B. The amount of data that can be transmitted over a network in a given amount of time <== PDF ANSWER
+  C. The length of an internet cable
+  D. The width of a website layout
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5653 | topic=Internet & Email | imp=4 ===
+Q: What does "IoT" stand for in the context of ICT?
+  A. Internet of Technology
+  B. Internet of Things <== PDF ANSWER
+  C. Input of Technology
+  D. Integration of Tools
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5654 | topic=Internet & Email | imp=4 ===
+Q: What is "e-commerce" in ICT?
+  A. Electronic delivery of food
+  B. The buying and selling of goods and services over the internet <== PDF ANSWER
+  C. A form of electronic banking
+  D. Online education platforms
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5657 | topic=Internet & Email | imp=4 ===
+Q: The term "broadband" refers to:
+  A. High-speed internet connections <== PDF ANSWER
+  B. Low-speed data transmission
+  C. Short-range network communication
+  D. Satellite-based internet services
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5660 | topic=Internet & Email | imp=4 ===
+Q: In the context of ICT, "cloud storage" refers to:
+  A. Storing data on physical devices in the office
+  B. Storing data on remote servers accessible over the internet <== PDF ANSWER
+  C. Keeping data on CDs and DVDs
+  D. Using storage devices located at home
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5661 | topic=Networking | imp=4 ===
+Q: In ICT, the term "VPN" stands for:
+  A. Virtual Private Network <== PDF ANSWER
+  B. Very Powerful Network
+  C. Virtual Public Network
+  D. Versatile Processing Node
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5662 | topic=Internet & Email | imp=4 ===
+Q: What is "biometrics" used for in ICT?
+  A. Recording internet usage
+  B. Analyzing body movements for fitness purposes
+  C. Identifying individuals based on physical characteristics such as fingerprints <== PDF ANSWER
+  D. Tracking data consumption
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5722 | topic=Networking | imp=4 ===
+Q: The government announced focus on connecting Poonch-Rajouri with:
+  A. National Highway
+  B. Inland waterway
+  C. Airport
+  D. Rail network <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).
+
+=== T6K-5732 | topic=General | imp=4 ===
+Q: Which Indian mission focuses on clean energy?
+  A. Digital India
+  B. Skill India
+  C. Make in India
+  D. National Solar Mission <== PDF ANSWER
+Sol: Answer per the source's answer key (Toppersexam bank).

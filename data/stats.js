@@ -7,9 +7,9 @@ window.BANK_STATS={
   "total": 1000
  },
  "totals": {
-  "published": 5250,
+  "published": 5244,
   "allTracked": 5455,
-  "accepted": 5250,
+  "accepted": 5244,
   "rejected": 57,
   "duplicatesBlocked": 50,
   "duplicateIds": 24
@@ -17,19 +17,19 @@ window.BANK_STATS={
  "byStatus": {
   "draft": 0,
   "ai_generated": 0,
-  "pending_verification": 205,
+  "pending_verification": 211,
   "verified": 0,
-  "published": 5250,
+  "published": 5244,
   "archived": 0
  },
  "perSubject": {
   "computer": {
-   "published": 884,
+   "published": 878,
    "target": 200,
    "coverageTopics": 27,
    "difficulty": {
-    "Easy": 626,
-    "Medium": 251,
+    "Easy": 622,
+    "Medium": 249,
     "Hard": 7,
     "Expert": 0
    }

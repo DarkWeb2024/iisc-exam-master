@@ -4,16 +4,16 @@ _Auto-generated 2026-07-02._
 
 | Subject | Published | Target | % | Topics | Easy/Med/Hard/Exp |
 |---|---|---|---|---|---|
-| computer | 884 | 200 | 442% | 27 | 626/251/7/0 |
+| computer | 878 | 200 | 439% | 27 | 622/249/7/0 |
 | general_awareness | 2536 | 200 | 1268% | 10 | 1719/727/90/0 |
 | quantitative | 758 | 200 | 379% | 20 | 192/465/101/0 |
 | reasoning | 347 | 200 | 174% | 16 | 67/237/43/0 |
 | verbal | 725 | 200 | 363% | 15 | 443/280/2/0 |
-| **TOTAL** | **5250** | **1000** | **525%** | | |
+| **TOTAL** | **5244** | **1000** | **524%** | | |
 
-**Status lifecycle:** draft=0 · ai_generated=0 · pending_verification=205 · verified=0 · published=5250 · archived=0
+**Status lifecycle:** draft=0 · ai_generated=0 · pending_verification=211 · verified=0 · published=5244 · archived=0
 
-Accepted(published): 5250 · Rejected: 57 · Duplicates blocked: 50 · Duplicate IDs: 24
+Accepted(published): 5244 · Rejected: 57 · Duplicates blocked: 50 · Duplicate IDs: 24
 
 ## Validation issues (107)
 
